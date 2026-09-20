@@ -24,16 +24,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 92.62741736950079,
+      "overallScore": 92.62693691641996,
       "sources": {
         "vndb": {
           "score": 90.3,
-          "votes": 1215,
+          "votes": 1217,
           "href": "https://vndb.org/v20802"
         },
         "bangumi": {
           "score": 93,
-          "votes": 3639,
+          "votes": 3643,
           "href": "https://bgm.tv/subject/226254"
         },
         "egs": {
@@ -48,7 +48,7 @@
       "id": "v7771",
       "titles": {
         "en": "WHITE ALBUM2",
-        "zh": "白色相簿2",
+        "zh": "白色相簿2 终章",
         "ja": "WHITE ALBUM2"
       },
       "descriptions": {
@@ -70,16 +70,16 @@
         "ps3",
         "psv"
       ],
-      "overallScore": 90.42196281981664,
+      "overallScore": 90.4220679416366,
       "sources": {
         "vndb": {
           "score": 90.2,
-          "votes": 4552,
+          "votes": 4555,
           "href": "https://vndb.org/v7771"
         },
         "bangumi": {
           "score": 91,
-          "votes": 7155,
+          "votes": 7159,
           "href": "https://bgm.tv/subject/22290"
         },
         "egs": {
@@ -124,16 +124,16 @@
         "sw2",
         "xb3"
       ],
-      "overallScore": 89.81848719271103,
+      "overallScore": 89.81838918485421,
       "sources": {
         "vndb": {
           "score": 90.2,
-          "votes": 16886,
+          "votes": 16890,
           "href": "https://vndb.org/v2002"
         },
         "bangumi": {
           "score": 89,
-          "votes": 8536,
+          "votes": 8541,
           "href": "https://bgm.tv/subject/3154"
         },
         "egs": {
@@ -158,7 +158,7 @@
       "year": 2006,
       "released": "2006-02-24",
       "image": "https://t.vndb.org/cv/60/75660.jpg",
-      "lengthMinutes": 3292,
+      "lengthMinutes": 3296,
       "genres": [
         "燃",
         "muv-luv",
@@ -173,16 +173,16 @@
         "swi",
         "xb3"
       ],
-      "overallScore": 89.40450814581244,
+      "overallScore": 89.40439763064872,
       "sources": {
         "vndb": {
           "score": 89.9,
-          "votes": 11356,
+          "votes": 11357,
           "href": "https://vndb.org/v92"
         },
         "bangumi": {
           "score": 88,
-          "votes": 4067,
+          "votes": 4069,
           "href": "https://bgm.tv/subject/4828"
         },
         "egs": {
@@ -207,7 +207,7 @@
       "year": 2009,
       "released": "2009-08-15",
       "image": "https://t.vndb.org/cv/64/86264.jpg",
-      "lengthMinutes": 4276,
+      "lengthMinutes": 4277,
       "genres": [
         "竜騎士07",
         "悬疑",
@@ -224,11 +224,11 @@
         "swi",
         "vnd"
       ],
-      "overallScore": 88.96623194064819,
+      "overallScore": 88.96629704825864,
       "sources": {
         "vndb": {
           "score": 89.8,
-          "votes": 11002,
+          "votes": 11003,
           "href": "https://vndb.org/v2153"
         },
         "bangumi": {
@@ -267,16 +267,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 88.51697646629269,
+      "overallScore": 88.51695756047383,
       "sources": {
         "vndb": {
           "score": 90.1,
-          "votes": 6110,
+          "votes": 6113,
           "href": "https://vndb.org/v2016"
         },
         "bangumi": {
           "score": 86,
-          "votes": 4440,
+          "votes": 4442,
           "href": "https://bgm.tv/subject/3243"
         },
         "egs": {
@@ -320,16 +320,16 @@
         "web",
         "mob"
       ],
-      "overallScore": 87.9981621677526,
+      "overallScore": 87.99811084686176,
       "sources": {
         "vndb": {
           "score": 84.5,
-          "votes": 8752,
+          "votes": 8754,
           "href": "https://vndb.org/v17"
         },
         "bangumi": {
           "score": 91,
-          "votes": 9869,
+          "votes": 9871,
           "href": "https://bgm.tv/subject/1126"
         },
         "egs": {
@@ -363,16 +363,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 87.95772221054844,
+      "overallScore": 87.95746691871454,
       "sources": {
         "vndb": {
           "score": 86.7,
-          "votes": 2716,
+          "votes": 2718,
           "href": "https://vndb.org/v1913"
         },
         "bangumi": {
           "score": 88,
-          "votes": 3247,
+          "votes": 3249,
           "href": "https://bgm.tv/subject/12098"
         },
         "egs": {
@@ -460,16 +460,16 @@
         "xb3",
         "mob"
       ],
-      "overallScore": 87.72081708652793,
+      "overallScore": 87.7207362473721,
       "sources": {
         "vndb": {
           "score": 87.2,
-          "votes": 11417,
+          "votes": 11423,
           "href": "https://vndb.org/v4"
         },
         "bangumi": {
           "score": 89,
-          "votes": 6467,
+          "votes": 6468,
           "href": "https://bgm.tv/subject/13"
         },
         "egs": {
@@ -514,16 +514,16 @@
         "swi",
         "vnd"
       ],
-      "overallScore": 87.69159556992211,
+      "overallScore": 87.69088838268793,
       "sources": {
         "vndb": {
           "score": 88.4,
-          "votes": 7982,
+          "votes": 7983,
           "href": "https://vndb.org/v68"
         },
         "bangumi": {
           "score": 84,
-          "votes": 876,
+          "votes": 878,
           "href": "https://bgm.tv/subject/80705"
         },
         "egs": {
@@ -535,6 +535,50 @@
     },
     {
       "rank": 12,
+      "id": "v562",
+      "titles": {
+        "en": "Sakura no Uta -To Dance Over the Cherry Blossoms-",
+        "zh": "樱之诗 - 在樱花之森上飞舞",
+        "ja": "サクラノ詩－櫻の森の上を舞う－"
+      },
+      "descriptions": {
+        "en": "ーWhat comes after happiness? It is springtime, and Naoya Kusanagi has just been orphaned by the death of his father (the world-famous painter). He moves in with his best friend Kei’s family, where he grows closer to his homeroom teacher Ai and to Kei’s younger sister, the actress Shizuku Natsume. As the new semester arrives, his childhood friend Rin Misakura, who had transferred to a different school long ago, returns to his life as well. A gust stirs up a swirl of sakura petals—with a promised reunion in its wake. Feelings grow fonder to time’s constant drumbeat, and the torrent of emotion begins to take shape—but where will it lead? Sakura no Uta is a story of those whose paths stop short—and of those who walk on. [From Shiravune] A complete re-imagining of the stalled Sakura no Uta project by SCA-Ji, the writer of Subarashiki Hibi.",
+        "zh": "「幸福の先への物語」 春。 世界的な美術家である父の死により、天涯孤独となった主人公・草薙直哉は、親友である夏目圭の家へと世話になることに。 そこには、直哉が通う学園の担任である夏目藍、圭の妹で女優の夏目雫との交流が待っていた。 そして、新学期の到来と共に、遠い昔に転校した幼なじみ・御桜稟が、再び直哉の前に現れる。 風に巻く桜の花びらの向こう、それは、約束されていた再会の如く――。 時の刻みが想いを重ね、感情の奔流が形になるとき、そこで出会う光景とは? 物語の先にある幸福。 その先にある物語の形――。 サクラノ詩は、立ち止まる人とその先を歩き続ける人々の物語。"
+      },
+      "year": 2015,
+      "released": "2015-10-23",
+      "image": "https://t.vndb.org/cv/63/79663.jpg",
+      "lengthMinutes": 3900,
+      "genres": [
+        "SCA-自",
+        "枕",
+        "樱之诗"
+      ],
+      "platforms": [
+        "win",
+        "and"
+      ],
+      "overallScore": 87.53524096385541,
+      "sources": {
+        "vndb": {
+          "score": 87.4,
+          "votes": 2551,
+          "href": "https://vndb.org/v562"
+        },
+        "bangumi": {
+          "score": 87,
+          "votes": 6724,
+          "href": "https://bgm.tv/subject/22423"
+        },
+        "egs": {
+          "score": 88.52,
+          "votes": 2670,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=4529"
+        }
+      }
+    },
+    {
+      "rank": 13,
       "id": "v24",
       "titles": {
         "en": "Umineko When They Cry - Question Arcs",
@@ -570,11 +614,11 @@
         "xxs",
         "web"
       ],
-      "overallScore": 87.59537478227497,
+      "overallScore": 87.51383082961956,
       "sources": {
         "vndb": {
-          "score": 88.7,
-          "votes": 13865,
+          "score": 88.6,
+          "votes": 13870,
           "href": "https://vndb.org/v24"
         },
         "bangumi": {
@@ -586,50 +630,6 @@
           "score": 76.11,
           "votes": 361,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=8653"
-        }
-      }
-    },
-    {
-      "rank": 13,
-      "id": "v562",
-      "titles": {
-        "en": "Sakura no Uta -To Dance Over the Cherry Blossoms-",
-        "zh": "樱之诗 −于樱之森上飞舞−",
-        "ja": "サクラノ詩－櫻の森の上を舞う－"
-      },
-      "descriptions": {
-        "en": "ーWhat comes after happiness? It is springtime, and Naoya Kusanagi has just been orphaned by the death of his father (the world-famous painter). He moves in with his best friend Kei’s family, where he grows closer to his homeroom teacher Ai and to Kei’s younger sister, the actress Shizuku Natsume. As the new semester arrives, his childhood friend Rin Misakura, who had transferred to a different school long ago, returns to his life as well. A gust stirs up a swirl of sakura petals—with a promised reunion in its wake. Feelings grow fonder to time’s constant drumbeat, and the torrent of emotion begins to take shape—but where will it lead? Sakura no Uta is a story of those whose paths stop short—and of those who walk on. [From Shiravune] A complete re-imagining of the stalled Sakura no Uta project by SCA-Ji, the writer of Subarashiki Hibi.",
-        "zh": "「幸福の先への物語」 春。 世界的な美術家である父の死により、天涯孤独となった主人公・草薙直哉は、親友である夏目圭の家へと世話になることに。 そこには、直哉が通う学園の担任である夏目藍、圭の妹で女優の夏目雫との交流が待っていた。 そして、新学期の到来と共に、遠い昔に転校した幼なじみ・御桜稟が、再び直哉の前に現れる。 風に巻く桜の花びらの向こう、それは、約束されていた再会の如く――。 時の刻みが想いを重ね、感情の奔流が形になるとき、そこで出会う光景とは? 物語の先にある幸福。 その先にある物語の形――。 サクラノ詩は、立ち止まる人とその先を歩き続ける人々の物語。"
-      },
-      "year": 2015,
-      "released": "2015-10-23",
-      "image": "https://t.vndb.org/cv/63/79663.jpg",
-      "lengthMinutes": 3900,
-      "genres": [
-        "SCA-自",
-        "枕",
-        "樱之诗"
-      ],
-      "platforms": [
-        "win",
-        "and"
-      ],
-      "overallScore": 87.53537210003013,
-      "sources": {
-        "vndb": {
-          "score": 87.4,
-          "votes": 2550,
-          "href": "https://vndb.org/v562"
-        },
-        "bangumi": {
-          "score": 87,
-          "votes": 6721,
-          "href": "https://bgm.tv/subject/22423"
-        },
-        "egs": {
-          "score": 88.52,
-          "votes": 2670,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=4529"
         }
       }
     },
@@ -711,7 +711,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 86.92429229690474,
+      "overallScore": 86.9233059589384,
       "sources": {
         "vndb": {
           "score": 89.1,
@@ -720,7 +720,7 @@
         },
         "bangumi": {
           "score": 82,
-          "votes": 1551,
+          "votes": 1552,
           "href": "https://bgm.tv/subject/157916"
         },
         "egs": {
@@ -735,7 +735,7 @@
       "id": "v3144",
       "titles": {
         "en": "Wonderful Everyday ~Diskontinuierliches Dasein~",
-        "zh": "美好的每一天～不连续存在～",
+        "zh": "美好的每一天 ～不连续的存在～",
         "ja": "素晴らしき日々～不連続存在～"
       },
       "descriptions": {
@@ -745,7 +745,7 @@
       "year": 2010,
       "released": "2010-03-26",
       "image": "https://t.vndb.org/cv/17/90017.jpg",
-      "lengthMinutes": 3094,
+      "lengthMinutes": 3099,
       "genres": [
         "电波",
         "哲学",
@@ -758,16 +758,16 @@
         "web",
         "oth"
       ],
-      "overallScore": 86.82656766452978,
+      "overallScore": 86.82657660128926,
       "sources": {
         "vndb": {
           "score": 86.8,
-          "votes": 12009,
+          "votes": 12020,
           "href": "https://vndb.org/v3144"
         },
         "bangumi": {
           "score": 87,
-          "votes": 8565,
+          "votes": 8568,
           "href": "https://bgm.tv/subject/4639"
         },
         "egs": {
@@ -792,7 +792,7 @@
       "year": 2012,
       "released": "2012-12-31",
       "image": "https://t.vndb.org/cv/31/77731.jpg",
-      "lengthMinutes": 2114,
+      "lengthMinutes": 2116,
       "genres": [
         "同人",
         "推理悬疑",
@@ -807,16 +807,16 @@
         "swi",
         "n3d"
       ],
-      "overallScore": 86.77083395579771,
+      "overallScore": 86.77157332981947,
       "sources": {
         "vndb": {
           "score": 87.9,
-          "votes": 7616,
+          "votes": 7621,
           "href": "https://vndb.org/v12402"
         },
         "bangumi": {
           "score": 84,
-          "votes": 3063,
+          "votes": 3062,
           "href": "https://bgm.tv/subject/73806"
         },
         "egs": {
@@ -851,16 +851,16 @@
         "win",
         "and"
       ],
-      "overallScore": 86.73304898183821,
+      "overallScore": 86.73253161077515,
       "sources": {
         "vndb": {
           "score": 86.7,
-          "votes": 1906,
+          "votes": 1909,
           "href": "https://vndb.org/v31055"
         },
         "bangumi": {
           "score": 86,
-          "votes": 3826,
+          "votes": 3831,
           "href": "https://bgm.tv/subject/347780"
         },
         "egs": {
@@ -904,11 +904,11 @@
         "n3d",
         "xbo"
       ],
-      "overallScore": 86.53534845586226,
+      "overallScore": 86.53517806721925,
       "sources": {
         "vndb": {
           "score": 85.6,
-          "votes": 6561,
+          "votes": 6563,
           "href": "https://vndb.org/v716"
         },
         "bangumi": {
@@ -951,16 +951,16 @@
         "psp",
         "ps2"
       ],
-      "overallScore": 86.02749924402782,
+      "overallScore": 86.02808364053908,
       "sources": {
         "vndb": {
           "score": 82.5,
-          "votes": 3250,
+          "votes": 3252,
           "href": "https://vndb.org/v13"
         },
         "bangumi": {
           "score": 89,
-          "votes": 4635,
+          "votes": 4639,
           "href": "https://bgm.tv/subject/1127"
         },
         "egs": {
@@ -975,7 +975,7 @@
       "id": "v2045",
       "titles": {
         "en": "Kichikuou Rance",
-        "zh": "鬼畜王蘭斯",
+        "zh": "鬼畜王兰斯",
         "ja": "鬼畜王ランス"
       },
       "descriptions": {
@@ -996,7 +996,7 @@
         "lin",
         "web"
       ],
-      "overallScore": 85.89627101375447,
+      "overallScore": 85.89578813343519,
       "sources": {
         "vndb": {
           "score": 83.8,
@@ -1005,7 +1005,7 @@
         },
         "bangumi": {
           "score": 84,
-          "votes": 486,
+          "votes": 487,
           "href": "https://bgm.tv/subject/11158"
         },
         "egs": {
@@ -1050,16 +1050,16 @@
         "vnd",
         "web"
       ],
-      "overallScore": 85.85642336221404,
+      "overallScore": 85.8563559322034,
       "sources": {
         "vndb": {
           "score": 86.3,
-          "votes": 19246,
+          "votes": 19254,
           "href": "https://vndb.org/v11"
         },
         "bangumi": {
           "score": 83,
-          "votes": 5550,
+          "votes": 5552,
           "href": "https://bgm.tv/subject/935"
         },
         "egs": {
@@ -1094,16 +1094,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 85.81687239752013,
+      "overallScore": 85.81678284182306,
       "sources": {
         "vndb": {
           "score": 88.2,
-          "votes": 2963,
+          "votes": 2966,
           "href": "https://vndb.org/v17909"
         },
         "bangumi": {
           "score": 82,
-          "votes": 1965,
+          "votes": 1967,
           "href": "https://bgm.tv/subject/46874"
         },
         "egs": {
@@ -1139,16 +1139,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 85.66831134194273,
+      "overallScore": 85.66862593813565,
       "sources": {
         "vndb": {
           "score": 86.3,
-          "votes": 5498,
+          "votes": 5503,
           "href": "https://vndb.org/v777"
         },
         "bangumi": {
           "score": 86,
-          "votes": 7136,
+          "votes": 7140,
           "href": "https://bgm.tv/subject/5418"
         },
         "egs": {
@@ -1195,16 +1195,16 @@
         "vnd",
         "mob"
       ],
-      "overallScore": 85.570959898958,
+      "overallScore": 85.57096510608451,
       "sources": {
         "vndb": {
           "score": 86.1,
-          "votes": 11268,
+          "votes": 11273,
           "href": "https://vndb.org/v67"
         },
         "bangumi": {
           "score": 83,
-          "votes": 1257,
+          "votes": 1258,
           "href": "https://bgm.tv/subject/17035"
         },
         "egs": {
@@ -1242,16 +1242,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 85.4695306122449,
+      "overallScore": 85.46977360799511,
       "sources": {
         "vndb": {
           "score": 87.3,
-          "votes": 1889,
+          "votes": 1891,
           "href": "https://vndb.org/v21438"
         },
         "bangumi": {
           "score": 83,
-          "votes": 2075,
+          "votes": 2076,
           "href": "https://bgm.tv/subject/308808"
         },
         "egs": {
@@ -1266,7 +1266,7 @@
       "id": "v5",
       "titles": {
         "en": "Little Busters!",
-        "zh": "Little Busters!",
+        "zh": "Little Busters! EX",
         "ja": "リトルバスターズ！"
       },
       "descriptions": {
@@ -1291,11 +1291,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 85.45076077768385,
+      "overallScore": 85.45099043369504,
       "sources": {
         "vndb": {
           "score": 86.3,
-          "votes": 9285,
+          "votes": 9289,
           "href": "https://vndb.org/v5"
         },
         "bangumi": {
@@ -1378,7 +1378,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 85.3246376811594,
+      "overallScore": 85.3165270373191,
       "sources": {
         "vndb": {
           "score": 86.1,
@@ -1387,7 +1387,7 @@
         },
         "bangumi": {
           "score": 80,
-          "votes": 95,
+          "votes": 96,
           "href": "https://bgm.tv/subject/222896"
         },
         "egs": {
@@ -1424,16 +1424,16 @@
         "mac",
         "and"
       ],
-      "overallScore": 85.3080684596577,
+      "overallScore": 85.30756712774613,
       "sources": {
         "vndb": {
           "score": 87,
-          "votes": 708,
+          "votes": 709,
           "href": "https://vndb.org/v31929"
         },
         "bangumi": {
           "score": 83,
-          "votes": 519,
+          "votes": 520,
           "href": "https://bgm.tv/subject/442350"
         },
         "egs": {
@@ -1458,7 +1458,7 @@
       "year": 2015,
       "released": "2015-08-16",
       "image": "https://t.vndb.org/cv/39/95039.jpg",
-      "lengthMinutes": 825,
+      "lengthMinutes": 832,
       "genres": [
         "Novectacle",
         "同人",
@@ -1471,11 +1471,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 85.20717560805306,
+      "overallScore": 85.20724374636416,
       "sources": {
         "vndb": {
           "score": 85.5,
-          "votes": 2664,
+          "votes": 2665,
           "href": "https://vndb.org/v18397"
         },
         "bangumi": {
@@ -1515,16 +1515,16 @@
         "win",
         "web"
       ],
-      "overallScore": 85.13271540469974,
+      "overallScore": 85.13208579936037,
       "sources": {
         "vndb": {
           "score": 83.7,
-          "votes": 6023,
+          "votes": 6026,
           "href": "https://vndb.org/v487"
         },
         "bangumi": {
           "score": 83,
-          "votes": 2817,
+          "votes": 2819,
           "href": "https://bgm.tv/subject/1795"
         },
         "egs": {
@@ -1560,11 +1560,11 @@
         "mac",
         "psv"
       ],
-      "overallScore": 84.83121798222686,
+      "overallScore": 84.83055657172719,
       "sources": {
         "vndb": {
           "score": 82.3,
-          "votes": 687,
+          "votes": 688,
           "href": "https://vndb.org/v12260"
         },
         "bangumi": {
@@ -1581,6 +1581,49 @@
     },
     {
       "rank": 34,
+      "id": "v21069",
+      "titles": {
+        "en": "BLACK SHEEP TOWN",
+        "zh": "黑羊镇",
+        "ja": "BLACK SHEEP TOWN"
+      },
+      "descriptions": {
+        "en": "BLACK SHEEP TOWN is a digital novel set in a fictional city. The setting of this work is \"District Y\". It is a cosmopolitan downtown area where immigrants from all over the world live, and it is full of energy with visitors who enjoy its unique atmosphere, but the other side of the city is a dangerous area where gangs rule and the police have no power. This title features a wide variety of characters with different standpoints and perspectives, including a glittering clan of gangsters who rule the city, a psychic who lives in a corner of the slums, and a person who works for the discriminated mutants. Users will experience the world of the story from the perspective of several of them. [From Steam]",
+        "zh": "『BLACK SHEEP TOWN』は、架空の都市を舞台にしたデジタルノベルです。 ・刺激的な舞台 本作の舞台となるのは『Y地区』。 あちこちの国からやってきた移民が暮らす国際色豊かな繁華街で、その独特の雰囲気を楽しむ来訪者達によって活気に満ち溢れているものの、街の裏側はギャングが支配し、警察の力が及ばない危険な地域となっています。 ・多種多様なキャラクター 本作には街を支配するギャングのきらびやかな一族や、スラムの片隅で暮らす超能力者、差別されるミュータントのために働く者など、様々な立場と考え方を持つキャラクターが登場します。 ユーザーはそのうち何人かの視点を借りて、物語の世界を体験することになります。 ・見たいものから見られるストーリー 本作は次にどのシナリオを読むかを、ユーザーが選択します。 初めのいくつかのシナリオを読み終えると、複数のシナリオが解放され、そのなかから特に興味のあるシナリオを読み進めることが出来ます。 お気に入りのキャラクターや、気になる事件に関連するシナリオを先に読んだり、また後回しにすることも出来ます。 ・手助けとなるシステム 本作には用語解説が搭載されています。 本文中の用語をクリックすることによって、ストーリー中のいつでも人名や用語の意味を確認することが出来ます。 コンフィグ画面を開けば、解説のある用語の色を変えるか変えないかの設定変更が可能です。 また、一度読んだシナリオも、シナリオ選択画面から読み直し、気になるエピソードの再確認が出来ます。 これらの機能によって、数多くの人や事件が登場するこの物語も理解しやすくなるでしょう。"
+      },
+      "year": 2022,
+      "released": "2022-09-15",
+      "image": "https://t.vndb.org/cv/83/79683.jpg",
+      "lengthMinutes": 3025,
+      "genres": [
+        "瀬戸口廉也",
+        "群像",
+        "全年龄"
+      ],
+      "platforms": [
+        "win"
+      ],
+      "overallScore": 84.7937978410206,
+      "sources": {
+        "vndb": {
+          "score": 86.8,
+          "votes": 207,
+          "href": "https://vndb.org/v21069"
+        },
+        "bangumi": {
+          "score": 82,
+          "votes": 461,
+          "href": "https://bgm.tv/subject/212376"
+        },
+        "egs": {
+          "score": 87.28,
+          "votes": 234,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=25166"
+        }
+      }
+    },
+    {
+      "rank": 35,
       "id": "v30925",
       "titles": {
         "en": "Ooe",
@@ -1624,7 +1667,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "v1377",
       "titles": {
         "en": "YU-NO - The Girl that Chants Love at the Edge of the World",
@@ -1653,65 +1696,22 @@
         "swi",
         "web"
       ],
-      "overallScore": 84.77514471243043,
+      "overallScore": 84.7744306379822,
       "sources": {
         "vndb": {
           "score": 80.7,
-          "votes": 2247,
+          "votes": 2248,
           "href": "https://vndb.org/v1377"
         },
         "bangumi": {
           "score": 85,
-          "votes": 1310,
+          "votes": 1311,
           "href": "https://bgm.tv/subject/1075"
         },
         "egs": {
           "score": 89.61,
           "votes": 1222,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=2093"
-        }
-      }
-    },
-    {
-      "rank": 36,
-      "id": "v21069",
-      "titles": {
-        "en": "BLACK SHEEP TOWN",
-        "zh": "黑羊镇",
-        "ja": "BLACK SHEEP TOWN"
-      },
-      "descriptions": {
-        "en": "BLACK SHEEP TOWN is a digital novel set in a fictional city. The setting of this work is \"District Y\". It is a cosmopolitan downtown area where immigrants from all over the world live, and it is full of energy with visitors who enjoy its unique atmosphere, but the other side of the city is a dangerous area where gangs rule and the police have no power. This title features a wide variety of characters with different standpoints and perspectives, including a glittering clan of gangsters who rule the city, a psychic who lives in a corner of the slums, and a person who works for the discriminated mutants. Users will experience the world of the story from the perspective of several of them. [From Steam]",
-        "zh": "『BLACK SHEEP TOWN』は、架空の都市を舞台にしたデジタルノベルです。 ・刺激的な舞台 本作の舞台となるのは『Y地区』。 あちこちの国からやってきた移民が暮らす国際色豊かな繁華街で、その独特の雰囲気を楽しむ来訪者達によって活気に満ち溢れているものの、街の裏側はギャングが支配し、警察の力が及ばない危険な地域となっています。 ・多種多様なキャラクター 本作には街を支配するギャングのきらびやかな一族や、スラムの片隅で暮らす超能力者、差別されるミュータントのために働く者など、様々な立場と考え方を持つキャラクターが登場します。 ユーザーはそのうち何人かの視点を借りて、物語の世界を体験することになります。 ・見たいものから見られるストーリー 本作は次にどのシナリオを読むかを、ユーザーが選択します。 初めのいくつかのシナリオを読み終えると、複数のシナリオが解放され、そのなかから特に興味のあるシナリオを読み進めることが出来ます。 お気に入りのキャラクターや、気になる事件に関連するシナリオを先に読んだり、また後回しにすることも出来ます。 ・手助けとなるシステム 本作には用語解説が搭載されています。 本文中の用語をクリックすることによって、ストーリー中のいつでも人名や用語の意味を確認することが出来ます。 コンフィグ画面を開けば、解説のある用語の色を変えるか変えないかの設定変更が可能です。 また、一度読んだシナリオも、シナリオ選択画面から読み直し、気になるエピソードの再確認が出来ます。 これらの機能によって、数多くの人や事件が登場するこの物語も理解しやすくなるでしょう。"
-      },
-      "year": 2022,
-      "released": "2022-09-15",
-      "image": "https://t.vndb.org/cv/83/79683.jpg",
-      "lengthMinutes": 3025,
-      "genres": [
-        "瀬戸口廉也",
-        "群像",
-        "全年龄"
-      ],
-      "platforms": [
-        "win"
-      ],
-      "overallScore": 84.77431661750246,
-      "sources": {
-        "vndb": {
-          "score": 86.7,
-          "votes": 206,
-          "href": "https://vndb.org/v21069"
-        },
-        "bangumi": {
-          "score": 82,
-          "votes": 460,
-          "href": "https://bgm.tv/subject/212376"
-        },
-        "egs": {
-          "score": 87.28,
-          "votes": 234,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=25166"
         }
       }
     },
@@ -1743,16 +1743,16 @@
         "ps4",
         "psv"
       ],
-      "overallScore": 84.66643390691627,
+      "overallScore": 84.66667180650037,
       "sources": {
         "vndb": {
           "score": 85.3,
-          "votes": 8433,
+          "votes": 8435,
           "href": "https://vndb.org/v751"
         },
         "bangumi": {
           "score": 86,
-          "votes": 5312,
+          "votes": 5314,
           "href": "https://bgm.tv/subject/4022"
         },
         "egs": {
@@ -1786,16 +1786,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 84.59913211186114,
+      "overallScore": 84.59847681480767,
       "sources": {
         "vndb": {
           "score": 81.5,
-          "votes": 3168,
+          "votes": 3170,
           "href": "https://vndb.org/v1306"
         },
         "bangumi": {
           "score": 84,
-          "votes": 3164,
+          "votes": 3165,
           "href": "https://bgm.tv/subject/1457"
         },
         "egs": {
@@ -1835,16 +1835,16 @@
         "ps4",
         "wii"
       ],
-      "overallScore": 84.54169362221545,
+      "overallScore": 84.541615658363,
       "sources": {
         "vndb": {
           "score": 83.7,
-          "votes": 1704,
+          "votes": 1705,
           "href": "https://vndb.org/v1299"
         },
         "bangumi": {
           "score": 85,
-          "votes": 3177,
+          "votes": 3178,
           "href": "https://bgm.tv/subject/955"
         },
         "egs": {
@@ -1859,7 +1859,7 @@
       "id": "v20431",
       "titles": {
         "en": "Sakura no Toki -Sakura no Mori no Shita o Ayumu-",
-        "zh": "樱之刻－漫步于樱花之森下－",
+        "zh": "樱之刻 - 于樱花之森下漫步",
         "ja": "サクラノ刻－櫻の森の下を歩む－"
       },
       "descriptions": {
@@ -1869,7 +1869,7 @@
       "year": 2023,
       "released": "2023-02-24",
       "image": "https://t.vndb.org/cv/66/79666.jpg",
-      "lengthMinutes": 2925,
+      "lengthMinutes": 2936,
       "genres": [
         "SCA-自",
         "枕",
@@ -1880,7 +1880,7 @@
         "and",
         "psv"
       ],
-      "overallScore": 84.52029769959404,
+      "overallScore": 84.51923944085375,
       "sources": {
         "vndb": {
           "score": 87,
@@ -1889,7 +1889,7 @@
         },
         "bangumi": {
           "score": 81,
-          "votes": 3516,
+          "votes": 3518,
           "href": "https://bgm.tv/subject/220921"
         },
         "egs": {
@@ -1901,49 +1901,6 @@
     },
     {
       "rank": 41,
-      "id": "v19035",
-      "titles": {
-        "en": "Slow Damage",
-        "zh": "スロウ・ダメージ",
-        "ja": "スロウ・ダメージ"
-      },
-      "descriptions": {
-        "en": "The year is 20XX, and the declining nation of Japan has built the ultimate casino resort: Shinkoumi. This \"special administrative region,\" once known as Tokyo Waterfront City, is functionally its own separate country under the complete control of a private managing organization known as the Takasatogumi. With the economy in turmoil, the masses flock to Shinkoumi with the hope of getting rich quick, or at the very least, venting the stress of their overworked, underpaid lives. With no restriction on who can enter, crime has flourished, and entire districts have decayed. Our protagonist, Towa, lives a life of indolence on the third floor of a small neighborhood clinic. For you see, he has a hobby: painting human desire. Specifically, the moment before those suppressed urges break free from their constraints. And to do so, naturally, he must experience it himself firsthand. In the art world, he is known as \"euphoria\". It can be dangerous to grant people's darkest desires – sometimes, even deadly. But in the spirit of avant-garde, Towa is willing to die for his art... [From the digital manual included with r59230]",
-        "zh": "20XX年。日本。 深刻な不況を打破するために、日本の一大カジノ・リゾートとして開発された特別行政区「新神海しんこうみ」。 かつて東京臨海副都心13号地に属していたその地は事実上、カジノの民間運営業者である「鷹郷組たかさとぐみ」が統治する国のような存在となっており、不況の中においても一定の繁栄を保っていた。 明日のこともわからぬ不安定な状況が続く中、人々は一攫千金を夢見て、あるいは鬱屈した気持ちを晴らしに新神海へ集まった。 有象無象をも受け入れる街の治安は乱れ、そこかしこに退廃の影が漂い、犯罪が多発していた。 そんな街に住む主人公トワは、知り合いの医師タクの病院に居候しつつ、明日のことなど考えない、自堕落で刹那的な日々を送っていた。 トワにはある趣味があった。 それは「人の欲望を描くこと」。 人の心の奥底に押し込められた爆発寸前の欲望をモチーフにして油彩画を制作する。 欲望を自分にぶつけさせて、その体験を筆に乗せるのだ。 作家としての名は「euphoria」。 欲望を叶えた結果、自分と相手がたとえ瀕死の重傷を負ったとしても構わない。 それが、相手にとっての「幸せ」なのだから……。"
-      },
-      "year": 2021,
-      "released": "2021-02-25",
-      "image": "https://t.vndb.org/cv/61/75661.jpg",
-      "lengthMinutes": 3210,
-      "genres": [
-        "BL",
-        "Nitro+CHiRAL",
-        "淵井鏑"
-      ],
-      "platforms": [
-        "win"
-      ],
-      "overallScore": 84.46967401428128,
-      "sources": {
-        "vndb": {
-          "score": 85.7,
-          "votes": 1460,
-          "href": "https://vndb.org/v19035"
-        },
-        "bangumi": {
-          "score": 65,
-          "votes": 86,
-          "href": "https://bgm.tv/subject/170222"
-        },
-        "egs": {
-          "score": 82.58,
-          "votes": 43,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=23389"
-        }
-      }
-    },
-    {
-      "rank": 42,
       "id": "v3770",
       "titles": {
         "en": "Aiyoku no Eustia",
@@ -1970,22 +1927,65 @@
         "psv",
         "swi"
       ],
-      "overallScore": 84.4179320292076,
+      "overallScore": 84.41786377429919,
       "sources": {
         "vndb": {
           "score": 84.7,
-          "votes": 3096,
+          "votes": 3097,
           "href": "https://vndb.org/v3770"
         },
         "bangumi": {
           "score": 83,
-          "votes": 8088,
+          "votes": 8089,
           "href": "https://bgm.tv/subject/12280"
         },
         "egs": {
           "score": 86.36,
           "votes": 3637,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=13640"
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "id": "v19035",
+      "titles": {
+        "en": "Slow Damage",
+        "zh": "スロウ・ダメージ",
+        "ja": "スロウ・ダメージ"
+      },
+      "descriptions": {
+        "en": "The year is 20XX, and the declining nation of Japan has built the ultimate casino resort: Shinkoumi. This \"special administrative region,\" once known as Tokyo Waterfront City, is functionally its own separate country under the complete control of a private managing organization known as the Takasatogumi. With the economy in turmoil, the masses flock to Shinkoumi with the hope of getting rich quick, or at the very least, venting the stress of their overworked, underpaid lives. With no restriction on who can enter, crime has flourished, and entire districts have decayed. Our protagonist, Towa, lives a life of indolence on the third floor of a small neighborhood clinic. For you see, he has a hobby: painting human desire. Specifically, the moment before those suppressed urges break free from their constraints. And to do so, naturally, he must experience it himself firsthand. In the art world, he is known as \"euphoria\". It can be dangerous to grant people's darkest desires – sometimes, even deadly. But in the spirit of avant-garde, Towa is willing to die for his art... [From the digital manual included with r59230]",
+        "zh": "20XX年。日本。 深刻な不況を打破するために、日本の一大カジノ・リゾートとして開発された特別行政区「新神海しんこうみ」。 かつて東京臨海副都心13号地に属していたその地は事実上、カジノの民間運営業者である「鷹郷組たかさとぐみ」が統治する国のような存在となっており、不況の中においても一定の繁栄を保っていた。 明日のこともわからぬ不安定な状況が続く中、人々は一攫千金を夢見て、あるいは鬱屈した気持ちを晴らしに新神海へ集まった。 有象無象をも受け入れる街の治安は乱れ、そこかしこに退廃の影が漂い、犯罪が多発していた。 そんな街に住む主人公トワは、知り合いの医師タクの病院に居候しつつ、明日のことなど考えない、自堕落で刹那的な日々を送っていた。 トワにはある趣味があった。 それは「人の欲望を描くこと」。 人の心の奥底に押し込められた爆発寸前の欲望をモチーフにして油彩画を制作する。 欲望を自分にぶつけさせて、その体験を筆に乗せるのだ。 作家としての名は「euphoria」。 欲望を叶えた結果、自分と相手がたとえ瀕死の重傷を負ったとしても構わない。 それが、相手にとっての「幸せ」なのだから……。"
+      },
+      "year": 2021,
+      "released": "2021-02-25",
+      "image": "https://t.vndb.org/cv/61/75661.jpg",
+      "lengthMinutes": 3210,
+      "genres": [
+        "BL",
+        "Nitro+CHiRAL",
+        "淵井鏑"
+      ],
+      "platforms": [
+        "win"
+      ],
+      "overallScore": 84.38053333333333,
+      "sources": {
+        "vndb": {
+          "score": 85.6,
+          "votes": 1462,
+          "href": "https://vndb.org/v19035"
+        },
+        "bangumi": {
+          "score": 65,
+          "votes": 86,
+          "href": "https://bgm.tv/subject/170222"
+        },
+        "egs": {
+          "score": 82.58,
+          "votes": 43,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=23389"
         }
       }
     },
@@ -2004,7 +2004,7 @@
       "year": 2009,
       "released": "2009-01-30",
       "image": "https://t.vndb.org/cv/72/79672.jpg",
-      "lengthMinutes": 3628,
+      "lengthMinutes": 3610,
       "genres": [
         "Navel",
         "王雀孫",
@@ -2015,16 +2015,16 @@
         "ps3",
         "psv"
       ],
-      "overallScore": 84.22307462933819,
+      "overallScore": 84.23187928896238,
       "sources": {
         "vndb": {
-          "score": 86.3,
-          "votes": 633,
+          "score": 86.4,
+          "votes": 634,
           "href": "https://vndb.org/v1141"
         },
         "bangumi": {
           "score": 83,
-          "votes": 1064,
+          "votes": 1074,
           "href": "https://bgm.tv/subject/7868"
         },
         "egs": {
@@ -2197,7 +2197,7 @@
         "swi",
         "web"
       ],
-      "overallScore": 83.90405027494108,
+      "overallScore": 83.90491051805338,
       "sources": {
         "vndb": {
           "score": 81.4,
@@ -2206,7 +2206,7 @@
         },
         "bangumi": {
           "score": 85,
-          "votes": 2951,
+          "votes": 2956,
           "href": "https://bgm.tv/subject/1143"
         },
         "egs": {
@@ -2218,99 +2218,10 @@
     },
     {
       "rank": 48,
-      "id": "v26154",
-      "titles": {
-        "en": "Jack Jeanne",
-        "zh": "JACKJEANNE",
-        "ja": "ジャックジャンヌ"
-      },
-      "descriptions": {
-        "en": "The game's story centers around protagonist Kisa Tachibana, a girl who had given up a career in theater, but receives an invitation to attend the Univeil Drama School, an elite drama school for male actors, where students play female roles (referred to as \"Jeanne\" roles) in addition to male roles (\"Jack\" roles). However, to maintain her enrollment, she must land a starring role in the school's play at the end of the year, and also hide that she is a girl. [From ANN]",
-        "zh": "男性だけで構成された劇団、玉坂座。 男性が女性も演じる玉坂座は、役者を育てつつ公演を行うユニヴェール歌劇学校も有しており、そのどちらが行う公演も、圧倒的に煌びやかな世界が観る人の視線を1秒たりとも逃さない。 ユニヴェール歌劇学校では狭き門を突破して入学した才能ある生徒たちが4つのクラスに分かれて演劇を学び、ユニヴェール内で最優のクラスという称号を勝ち取るため、競い合っていた。 演劇の道を諦めていた主人公 ｢立花希佐｣ は、とある出来事がきっかけで2つの約束を条件にユニヴェール歌劇学校の生徒になることを特別に許可される。 その条件とは、1年の最後にある最終公演で主演になること。 そして、女性であることを隠し通すこと…— 自身の夢を叶えるため、所属するクラスのため、｢歯車｣ となって仲間たちと絆を深めていく主人公。 仲間たちと過ごした先に主人公を待ち受ける未来とは……？"
-      },
-      "year": 2021,
-      "released": "2021-03-18",
-      "image": "https://t.vndb.org/cv/49/97449.jpg",
-      "lengthMinutes": 5512,
-      "genres": [
-        "乙女向",
-        "乙女ゲーム",
-        "石田スイ"
-      ],
-      "platforms": [
-        "ios",
-        "and",
-        "swi"
-      ],
-      "overallScore": 83.82338108882522,
-      "sources": {
-        "vndb": {
-          "score": 87.1,
-          "votes": 519,
-          "href": "https://vndb.org/v26154"
-        },
-        "bangumi": {
-          "score": 79,
-          "votes": 331,
-          "href": "https://bgm.tv/subject/281992"
-        },
-        "egs": {
-          "score": 79.2,
-          "votes": 15,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=32189"
-        }
-      }
-    },
-    {
-      "rank": 49,
-      "id": "v23741",
-      "titles": {
-        "en": "NUKITASHI 2",
-        "zh": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？ 2",
-        "ja": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？ 2"
-      },
-      "descriptions": {
-        "en": "After Junnosuke was victorious in the Pervert War, saving Seiran Island and establishing a new set of laws, he was celebrated as a hero along with his comrades. He enjoyed peaceful days with his NLNS friends while reminiscing about their past fierce battles and thought that it would continue forever. That was until one day he heard about a certain onahole from a friend on Onatter, a social network site where gentlemanly perverts gathered. This onahole’s sensation was so amazing that he stroked faster than the speed of light, causing him to be enveloped in a bright light and brought into another world, along with the SS Big Three, who just happened to be there at that time. This parallel world was a dream paradise where he had absolute authority as the feared SS deputy leader known as the ‘Sex Emperor’. The pervert laws were still the ones from before the war. Will he be able to safely return to his world? A new battle begins with the SS Big Three… [From Hau~Omochikaeri!]",
-        "zh": "今度は並行世界で大暴れ！？ SS副会長としての新たな闘いがはじまる！ それは、あったかもしれないグランドストーリーの後―― 青藍島を救い、真ドスケベ条例を生み出した主人公……橘淳之介。 彼はかの“ドスケベ戦役”以降、“鋼鉄の6人”のひとりとして、島の英雄となっていた。 激しい闘いの日々を懐かしく思いながら、NLNSの仲間たちと穏やかに過ごす毎日。 真の共存を勝ち得え、こんな毎日がこの先もずっと続ていく。 ――……そう、信じていた。 そんなある日のこと。 変態紳士の集うSNS“Onatter”で知り合った友人と、オナホールのデータを交換した淳之介。 しかしそのオナホの快感はあまりに凄まじく、シゴく手が光の速さを突破してしまう。 そしてたまたま居合わせたSSビッグスリーと共に、激しい光に呑みこまれ、別世界へと転移してしまった。 その並行世界とは、淳之介が“性帝”と呼ばれ畏怖され、SS副会長として絶対的な地位を築いている幻の桃源郷であった。 古きドスケベ条例の残る青藍島で、彼らは……。 淳之介は無事に元の世界へと帰還することができるのか？ SSビッグスリーと共に、新たな戦いが始まる――"
-      },
-      "year": 2019,
-      "released": "2019-07-26",
-      "image": "https://t.vndb.org/cv/80/78380.jpg",
-      "lengthMinutes": 2538,
-      "genres": [
-        "Qruppo",
-        "拔作岛",
-        "剧情作"
-      ],
-      "platforms": [
-        "win",
-        "and"
-      ],
-      "overallScore": 83.82305619707466,
-      "sources": {
-        "vndb": {
-          "score": 83.6,
-          "votes": 1612,
-          "href": "https://vndb.org/v23741"
-        },
-        "bangumi": {
-          "score": 81,
-          "votes": 2756,
-          "href": "https://bgm.tv/subject/273493"
-        },
-        "egs": {
-          "score": 87.65,
-          "votes": 1418,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=27720"
-        }
-      }
-    },
-    {
-      "rank": 50,
       "id": "v14018",
       "titles": {
         "en": "CHAOS;CHILD",
-        "zh": "混沌之子",
+        "zh": "混沌子",
         "ja": "CHAOS;CHILD"
       },
       "descriptions": {
@@ -2337,22 +2248,111 @@
         "swi",
         "xbo"
       ],
-      "overallScore": 83.79450106588163,
+      "overallScore": 83.8466392694064,
       "sources": {
         "vndb": {
-          "score": 83.6,
-          "votes": 5136,
+          "score": 83.7,
+          "votes": 5138,
           "href": "https://vndb.org/v14018"
         },
         "bangumi": {
           "score": 84,
-          "votes": 4676,
+          "votes": 4678,
           "href": "https://bgm.tv/subject/88765"
         },
         "egs": {
           "score": 84.77,
           "votes": 26,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=21111"
+        }
+      }
+    },
+    {
+      "rank": 49,
+      "id": "v26154",
+      "titles": {
+        "en": "Jack Jeanne",
+        "zh": "JACKJEANNE",
+        "ja": "ジャックジャンヌ"
+      },
+      "descriptions": {
+        "en": "The game's story centers around protagonist Kisa Tachibana, a girl who had given up a career in theater, but receives an invitation to attend the Univeil Drama School, an elite drama school for male actors, where students play female roles (referred to as \"Jeanne\" roles) in addition to male roles (\"Jack\" roles). However, to maintain her enrollment, she must land a starring role in the school's play at the end of the year, and also hide that she is a girl. [From ANN]",
+        "zh": "男性だけで構成された劇団、玉坂座。 男性が女性も演じる玉坂座は、役者を育てつつ公演を行うユニヴェール歌劇学校も有しており、そのどちらが行う公演も、圧倒的に煌びやかな世界が観る人の視線を1秒たりとも逃さない。 ユニヴェール歌劇学校では狭き門を突破して入学した才能ある生徒たちが4つのクラスに分かれて演劇を学び、ユニヴェール内で最優のクラスという称号を勝ち取るため、競い合っていた。 演劇の道を諦めていた主人公 ｢立花希佐｣ は、とある出来事がきっかけで2つの約束を条件にユニヴェール歌劇学校の生徒になることを特別に許可される。 その条件とは、1年の最後にある最終公演で主演になること。 そして、女性であることを隠し通すこと…— 自身の夢を叶えるため、所属するクラスのため、｢歯車｣ となって仲間たちと絆を深めていく主人公。 仲間たちと過ごした先に主人公を待ち受ける未来とは……？"
+      },
+      "year": 2021,
+      "released": "2021-03-18",
+      "image": "https://t.vndb.org/cv/49/97449.jpg",
+      "lengthMinutes": 5512,
+      "genres": [
+        "乙女向",
+        "乙女ゲーム",
+        "石田スイ"
+      ],
+      "platforms": [
+        "ios",
+        "and",
+        "swi"
+      ],
+      "overallScore": 83.8271322266743,
+      "sources": {
+        "vndb": {
+          "score": 87.1,
+          "votes": 520,
+          "href": "https://vndb.org/v26154"
+        },
+        "bangumi": {
+          "score": 79,
+          "votes": 331,
+          "href": "https://bgm.tv/subject/281992"
+        },
+        "egs": {
+          "score": 79.2,
+          "votes": 15,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=32189"
+        }
+      }
+    },
+    {
+      "rank": 50,
+      "id": "v23741",
+      "titles": {
+        "en": "NUKITASHI 2",
+        "zh": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？ 2",
+        "ja": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？ 2"
+      },
+      "descriptions": {
+        "en": "After Junnosuke was victorious in the Pervert War, saving Seiran Island and establishing a new set of laws, he was celebrated as a hero along with his comrades. He enjoyed peaceful days with his NLNS friends while reminiscing about their past fierce battles and thought that it would continue forever. That was until one day he heard about a certain onahole from a friend on Onatter, a social network site where gentlemanly perverts gathered. This onahole’s sensation was so amazing that he stroked faster than the speed of light, causing him to be enveloped in a bright light and brought into another world, along with the SS Big Three, who just happened to be there at that time. This parallel world was a dream paradise where he had absolute authority as the feared SS deputy leader known as the ‘Sex Emperor’. The pervert laws were still the ones from before the war. Will he be able to safely return to his world? A new battle begins with the SS Big Three… [From Hau~Omochikaeri!]",
+        "zh": "今度は並行世界で大暴れ！？ SS副会長としての新たな闘いがはじまる！ それは、あったかもしれないグランドストーリーの後―― 青藍島を救い、真ドスケベ条例を生み出した主人公……橘淳之介。 彼はかの“ドスケベ戦役”以降、“鋼鉄の6人”のひとりとして、島の英雄となっていた。 激しい闘いの日々を懐かしく思いながら、NLNSの仲間たちと穏やかに過ごす毎日。 真の共存を勝ち得え、こんな毎日がこの先もずっと続ていく。 ――……そう、信じていた。 そんなある日のこと。 変態紳士の集うSNS“Onatter”で知り合った友人と、オナホールのデータを交換した淳之介。 しかしそのオナホの快感はあまりに凄まじく、シゴく手が光の速さを突破してしまう。 そしてたまたま居合わせたSSビッグスリーと共に、激しい光に呑みこまれ、別世界へと転移してしまった。 その並行世界とは、淳之介が“性帝”と呼ばれ畏怖され、SS副会長として絶対的な地位を築いている幻の桃源郷であった。 古きドスケベ条例の残る青藍島で、彼らは……。 淳之介は無事に元の世界へと帰還することができるのか？ SSビッグスリーと共に、新たな戦いが始まる――"
+      },
+      "year": 2019,
+      "released": "2019-07-26",
+      "image": "https://t.vndb.org/cv/80/78380.jpg",
+      "lengthMinutes": 2538,
+      "genres": [
+        "Qruppo",
+        "拔作岛",
+        "剧情作"
+      ],
+      "platforms": [
+        "win",
+        "and"
+      ],
+      "overallScore": 83.82291891060163,
+      "sources": {
+        "vndb": {
+          "score": 83.6,
+          "votes": 1616,
+          "href": "https://vndb.org/v23741"
+        },
+        "bangumi": {
+          "score": 81,
+          "votes": 2756,
+          "href": "https://bgm.tv/subject/273493"
+        },
+        "egs": {
+          "score": 87.65,
+          "votes": 1418,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=27720"
         }
       }
     },
@@ -2370,7 +2370,7 @@
       },
       "year": 2018,
       "released": "2018-06-29",
-      "image": "https://t.vndb.org/cv/30/85430.jpg",
+      "image": "https://t.vndb.org/cv/08/75908.jpg",
       "lengthMinutes": 3240,
       "genres": [
         "key",
@@ -2384,16 +2384,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 83.5757979021539,
+      "overallScore": 83.57498520828337,
       "sources": {
         "vndb": {
           "score": 84.6,
-          "votes": 4750,
+          "votes": 4757,
           "href": "https://vndb.org/v20424"
         },
         "bangumi": {
           "score": 82,
-          "votes": 5840,
+          "votes": 5851,
           "href": "https://bgm.tv/subject/200763"
         },
         "egs": {
@@ -2427,16 +2427,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 83.52616455470285,
+      "overallScore": 83.52557517388979,
       "sources": {
         "vndb": {
           "score": 83.4,
-          "votes": 572,
+          "votes": 573,
           "href": "https://vndb.org/v768"
         },
         "bangumi": {
           "score": 82,
-          "votes": 692,
+          "votes": 693,
           "href": "https://bgm.tv/subject/926"
         },
         "egs": {
@@ -2451,7 +2451,7 @@
       "id": "v57",
       "titles": {
         "en": "Sharin no Kuni: The Girl Among the Sunflowers",
-        "zh": "车轮之国，向日葵的少女",
+        "zh": "车轮之国、向日葵的少女",
         "ja": "車輪の国、向日葵の少女"
       },
       "descriptions": {
@@ -2474,7 +2474,7 @@
         "ps3",
         "xb3"
       ],
-      "overallScore": 83.40411430995175,
+      "overallScore": 83.40373197625107,
       "sources": {
         "vndb": {
           "score": 81.4,
@@ -2483,7 +2483,7 @@
         },
         "bangumi": {
           "score": 81,
-          "votes": 3349,
+          "votes": 3352,
           "href": "https://bgm.tv/subject/1124"
         },
         "egs": {
@@ -2498,7 +2498,7 @@
       "id": "v66",
       "titles": {
         "en": "CROSS†CHANNEL",
-        "zh": "CROSS†CHANNEL",
+        "zh": "交错†频道",
         "ja": "CROSS†CHANNEL"
       },
       "descriptions": {
@@ -2508,7 +2508,7 @@
       "year": 2003,
       "released": "2003-09-26",
       "image": "https://t.vndb.org/cv/79/86579.jpg",
-      "lengthMinutes": 1809,
+      "lengthMinutes": 1806,
       "genres": [
         "田中ロミオ",
         "孤独",
@@ -2530,7 +2530,7 @@
         "xb3",
         "web"
       ],
-      "overallScore": 83.34004493540536,
+      "overallScore": 83.34025210608425,
       "sources": {
         "vndb": {
           "score": 78.8,
@@ -2539,7 +2539,7 @@
         },
         "bangumi": {
           "score": 85,
-          "votes": 4272,
+          "votes": 4274,
           "href": "https://bgm.tv/subject/2720"
         },
         "egs": {
@@ -2576,16 +2576,16 @@
         "swi",
         "web"
       ],
-      "overallScore": 83.33158646616542,
+      "overallScore": 83.33545147995503,
       "sources": {
         "vndb": {
           "score": 80.3,
-          "votes": 913,
+          "votes": 914,
           "href": "https://vndb.org/v22783"
         },
         "bangumi": {
           "score": 85,
-          "votes": 829,
+          "votes": 837,
           "href": "https://bgm.tv/subject/241897"
         },
         "egs": {
@@ -2610,7 +2610,7 @@
       "year": 2016,
       "released": "2016-08-13",
       "image": "https://t.vndb.org/cv/58/92858.jpg",
-      "lengthMinutes": 1938,
+      "lengthMinutes": 1980,
       "genres": [
         "BL",
         "くろさわ凛子",
@@ -2655,7 +2655,7 @@
       "year": 2015,
       "released": "2015-08-28",
       "image": "https://t.vndb.org/cv/15/95815.jpg",
-      "lengthMinutes": 2463,
+      "lengthMinutes": 2466,
       "genres": [
         "兰斯",
         "alicesoft",
@@ -2665,16 +2665,16 @@
         "win",
         "web"
       ],
-      "overallScore": 83.29627569154691,
+      "overallScore": 83.29734485952454,
       "sources": {
         "vndb": {
           "score": 85.2,
-          "votes": 1876,
+          "votes": 1881,
           "href": "https://vndb.org/v17642"
         },
         "bangumi": {
           "score": 82,
-          "votes": 3095,
+          "votes": 3097,
           "href": "https://bgm.tv/subject/134929"
         },
         "egs": {
@@ -2751,16 +2751,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 82.92615412979352,
+      "overallScore": 82.92595062638173,
       "sources": {
         "vndb": {
           "score": 83.3,
-          "votes": 1466,
+          "votes": 1468,
           "href": "https://vndb.org/v13802"
         },
         "bangumi": {
           "score": 82,
-          "votes": 2245,
+          "votes": 2247,
           "href": "https://bgm.tv/subject/88739"
         },
         "egs": {
@@ -2798,16 +2798,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 82.91473689662315,
+      "overallScore": 82.91265413884145,
       "sources": {
         "vndb": {
           "score": 83.5,
-          "votes": 12907,
+          "votes": 12909,
           "href": "https://vndb.org/v5154"
         },
         "bangumi": {
           "score": 77,
-          "votes": 1505,
+          "votes": 1512,
           "href": "https://bgm.tv/subject/10869"
         },
         "egs": {
@@ -2842,16 +2842,16 @@
         "win",
         "swi"
       ],
-      "overallScore": 82.73060828025478,
+      "overallScore": 82.72852005092298,
       "sources": {
         "vndb": {
           "score": 84.9,
-          "votes": 2239,
+          "votes": 2241,
           "href": "https://vndb.org/v26987"
         },
         "bangumi": {
           "score": 74,
-          "votes": 1857,
+          "votes": 1859,
           "href": "https://bgm.tv/subject/295075"
         },
         "egs": {
@@ -2866,7 +2866,7 @@
       "id": "v1143",
       "titles": {
         "en": "Majikoi! Love Me Seriously!!",
-        "zh": "认真和我谈恋爱！！",
+        "zh": "认真和我恋爱",
         "ja": "真剣で私に恋しなさい！"
       },
       "descriptions": {
@@ -2880,7 +2880,7 @@
       "genres": [
         "神CV阵",
         "欢乐日常",
-        "真剑"
+        "タカヒロ"
       ],
       "platforms": [
         "win",
@@ -2930,16 +2930,16 @@
         "win",
         "swi"
       ],
-      "overallScore": 82.61630557801132,
+      "overallScore": 82.61457339264051,
       "sources": {
         "vndb": {
           "score": 81.1,
-          "votes": 982,
+          "votes": 983,
           "href": "https://vndb.org/v19273"
         },
         "bangumi": {
           "score": 84,
-          "votes": 1354,
+          "votes": 1352,
           "href": "https://bgm.tv/subject/226956"
         },
         "egs": {
@@ -2979,16 +2979,16 @@
         "xb3",
         "web"
       ],
-      "overallScore": 82.59848600025339,
+      "overallScore": 82.57377516141284,
       "sources": {
         "vndb": {
-          "score": 79.3,
-          "votes": 892,
+          "score": 79.2,
+          "votes": 894,
           "href": "https://vndb.org/v45"
         },
         "bangumi": {
           "score": 81,
-          "votes": 1187,
+          "votes": 1188,
           "href": "https://bgm.tv/subject/78442"
         },
         "egs": {
@@ -3049,7 +3049,7 @@
       "id": "v7",
       "titles": {
         "en": "Tsukihime",
-        "zh": "月姫",
+        "zh": "月姬",
         "ja": "月姫"
       },
       "descriptions": {
@@ -3059,7 +3059,7 @@
       "year": 2000,
       "released": "2000-08-11",
       "image": "https://t.vndb.org/cv/48/90048.jpg",
-      "lengthMinutes": 2593,
+      "lengthMinutes": 2597,
       "genres": [
         "Type-Moon",
         "奈须きのこ",
@@ -3078,16 +3078,16 @@
         "vnd",
         "web"
       ],
-      "overallScore": 82.21094779093761,
+      "overallScore": 82.21076140697839,
       "sources": {
         "vndb": {
           "score": 81.8,
-          "votes": 11548,
+          "votes": 11555,
           "href": "https://vndb.org/v7"
         },
         "bangumi": {
           "score": 82,
-          "votes": 2587,
+          "votes": 2589,
           "href": "https://bgm.tv/subject/1908"
         },
         "egs": {
@@ -3099,55 +3099,6 @@
     },
     {
       "rank": 67,
-      "id": "v7721",
-      "titles": {
-        "en": "Utawarerumono: Mask of Deception",
-        "zh": "传颂之物-虚伪的假面-",
-        "ja": "うたわれるもの 偽りの仮面"
-      },
-      "descriptions": {
-        "en": "The only thing I can remember is coming to in the middle of an unfamiliar snowscape. Where that was or how I got there, I don't know. I couldn't even remember my own name. The memories just wouldn't come. I only had a moment, left at a loss, to ponder what to do — but fate seemed intent on furthering my misery as a giant, insect-like monster burst from the snow and ice to attack me. Naturally, I ran like hell. The creature cornered me anyway. That's when SHE appeared, as if from nowhere — the beautiful, mysterious girl who saved my life. She told me her name was Kuon. A beautiful, mysterious girl... ...with a tail and ears like a beast's. [From Atlus]",
-        "zh": "在不知何方的雪原里醒来的青年，发现自己失去了记忆，甚至连自己的名字都想不起来。 他还未把握现在身处的状况，就遭受到怪物的袭击。 幸好，他被长着兽耳和尾巴的美少女“久远”所救。 而这场邂逅又带来了新的邂逅，使他的命运变得坎坷多变，亦令他卷进一场大战乱中…… 気がつけば、雪の舞う何処とも知れぬ荒野に立ち尽くしていた。 何故こんな所にいるのか判らない。 それ所か記憶が・・・・・・自分が何者なのか、名前すらも覚えていなかった。 あまりの状況に呆然と立ち尽くす。 だが、それをあざ笑うかのように、突然昆虫のような巨大なバケモノが襲いかかってきた。 必死に逃げるも追い詰められ、絶体絶命の危機におちいってしまう。 そこに颯爽と現れた少女。 彼女の名は 「クオン」 命を救ってくれたのは、獣のような耳と尻尾を持つ、 見目麗しい少女だった──"
-      },
-      "year": 2015,
-      "released": "2015-09-24",
-      "image": "https://t.vndb.org/cv/61/85161.jpg",
-      "lengthMinutes": 2220,
-      "genres": [
-        "传颂之物",
-        "leaf",
-        "Aquaplus"
-      ],
-      "platforms": [
-        "win",
-        "ios",
-        "and",
-        "ps3",
-        "ps4",
-        "psv",
-        "swi"
-      ],
-      "overallScore": 82.17863422291994,
-      "sources": {
-        "vndb": {
-          "score": 83.2,
-          "votes": 3134,
-          "href": "https://vndb.org/v7721"
-        },
-        "bangumi": {
-          "score": 80,
-          "votes": 1584,
-          "href": "https://bgm.tv/subject/32340"
-        },
-        "egs": {
-          "score": 82.84,
-          "votes": 252,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=22618"
-        }
-      }
-    },
-    {
-      "rank": 68,
       "id": "v3112",
       "titles": {
         "en": "999: Nine Hours, Nine Persons, Nine Doors",
@@ -3177,11 +3128,11 @@
         "xxs",
         "web"
       ],
-      "overallScore": 82.17853786681475,
+      "overallScore": 82.17869710039714,
       "sources": {
         "vndb": {
           "score": 82.8,
-          "votes": 9080,
+          "votes": 9083,
           "href": "https://vndb.org/v3112"
         },
         "bangumi": {
@@ -3193,6 +3144,55 @@
           "score": 80.41,
           "votes": 125,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=13501"
+        }
+      }
+    },
+    {
+      "rank": 68,
+      "id": "v7721",
+      "titles": {
+        "en": "Utawarerumono: Mask of Deception",
+        "zh": "传颂之物-虚伪的假面-",
+        "ja": "うたわれるもの 偽りの仮面"
+      },
+      "descriptions": {
+        "en": "The only thing I can remember is coming to in the middle of an unfamiliar snowscape. Where that was or how I got there, I don't know. I couldn't even remember my own name. The memories just wouldn't come. I only had a moment, left at a loss, to ponder what to do — but fate seemed intent on furthering my misery as a giant, insect-like monster burst from the snow and ice to attack me. Naturally, I ran like hell. The creature cornered me anyway. That's when SHE appeared, as if from nowhere — the beautiful, mysterious girl who saved my life. She told me her name was Kuon. A beautiful, mysterious girl... ...with a tail and ears like a beast's. [From Atlus]",
+        "zh": "在不知何方的雪原里醒来的青年，发现自己失去了记忆，甚至连自己的名字都想不起来。 他还未把握现在身处的状况，就遭受到怪物的袭击。 幸好，他被长着兽耳和尾巴的美少女“久远”所救。 而这场邂逅又带来了新的邂逅，使他的命运变得坎坷多变，亦令他卷进一场大战乱中…… 気がつけば、雪の舞う何処とも知れぬ荒野に立ち尽くしていた。 何故こんな所にいるのか判らない。 それ所か記憶が・・・・・・自分が何者なのか、名前すらも覚えていなかった。 あまりの状況に呆然と立ち尽くす。 だが、それをあざ笑うかのように、突然昆虫のような巨大なバケモノが襲いかかってきた。 必死に逃げるも追い詰められ、絶体絶命の危機におちいってしまう。 そこに颯爽と現れた少女。 彼女の名は 「クオン」 命を救ってくれたのは、獣のような耳と尻尾を持つ、 見目麗しい少女だった──"
+      },
+      "year": 2015,
+      "released": "2015-09-24",
+      "image": "https://t.vndb.org/cv/61/85161.jpg",
+      "lengthMinutes": 2220,
+      "genres": [
+        "传颂之物",
+        "leaf",
+        "Aquaplus"
+      ],
+      "platforms": [
+        "win",
+        "ios",
+        "and",
+        "ps3",
+        "ps4",
+        "psv",
+        "swi"
+      ],
+      "overallScore": 82.17820678830685,
+      "sources": {
+        "vndb": {
+          "score": 83.2,
+          "votes": 3134,
+          "href": "https://vndb.org/v7721"
+        },
+        "bangumi": {
+          "score": 80,
+          "votes": 1585,
+          "href": "https://bgm.tv/subject/32340"
+        },
+        "egs": {
+          "score": 82.84,
+          "votes": 252,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=22618"
         }
       }
     },
@@ -3222,16 +3222,16 @@
         "psp",
         "vnd"
       ],
-      "overallScore": 82.16108144327804,
+      "overallScore": 82.16040072268123,
       "sources": {
         "vndb": {
           "score": 82.1,
-          "votes": 12114,
+          "votes": 12116,
           "href": "https://vndb.org/v211"
         },
         "bangumi": {
           "score": 78,
-          "votes": 4583,
+          "votes": 4587,
           "href": "https://bgm.tv/subject/1385"
         },
         "egs": {
@@ -3286,49 +3286,6 @@
     },
     {
       "rank": 71,
-      "id": "v3184",
-      "titles": {
-        "en": "Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~",
-        "zh": "家族计划~再开~",
-        "ja": "家族計画 〜そしてまた家族計画を〜"
-      },
-      "descriptions": {
-        "en": "Continuation of the Matsuri end of Kazoku Keikaku.",
-        "zh": "~そしてまた家族計画を~ シナリオはもちろん、山田一が担当。今回は「家族計画」の後日談を心温まる描き下ろしシナリオで紹介。同梱特典は、A4サイズの128ページのMOOK！内容はシナリオの山田一、原画の福永ユミのインタビューや、原画集座談会などファン必見の企画を満載！さらに、その他にも家族計画特製「しおりセット」＆家族計画特製「下敷き」と豪華セットが付き！ 「家族計画」の秀逸でテンポの良いシナリオをもう一度味わいたい、「家族計画」のキャラクター達にまた会いたい……物語りを語るには欠かせない舞台裏を満載したMOOKを特典としてつけることにより魅力的な世界観を完全網羅。あの高屋敷一家にもう一度逢える！"
-      },
-      "year": 2004,
-      "released": "2004-07-30",
-      "image": "https://t.vndb.org/cv/44/3844.jpg",
-      "lengthMinutes": 125,
-      "genres": [
-        "田中ロミオ",
-        "田中罗密欧",
-        "FD"
-      ],
-      "platforms": [
-        "win"
-      ],
-      "overallScore": 82.01609494861775,
-      "sources": {
-        "vndb": {
-          "score": 79.1,
-          "votes": 179,
-          "href": "https://vndb.org/v3184"
-        },
-        "bangumi": {
-          "score": 87,
-          "votes": 1756,
-          "href": "https://bgm.tv/subject/101434"
-        },
-        "egs": {
-          "score": 76.6,
-          "votes": 1013,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=3789"
-        }
-      }
-    },
-    {
-      "rank": 72,
       "id": "v1278",
       "titles": {
         "en": "Saihate no Ima",
@@ -3352,16 +3309,16 @@
         "win",
         "psp"
       ],
-      "overallScore": 82.0109829059829,
+      "overallScore": 82.0185189131593,
       "sources": {
         "vndb": {
           "score": 85.4,
-          "votes": 281,
+          "votes": 284,
           "href": "https://vndb.org/v1278"
         },
         "bangumi": {
           "score": 84,
-          "votes": 460,
+          "votes": 462,
           "href": "https://bgm.tv/subject/7978"
         },
         "egs": {
@@ -3372,11 +3329,99 @@
       }
     },
     {
+      "rank": 72,
+      "id": "v3184",
+      "titles": {
+        "en": "Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~",
+        "zh": "家族计划~再开~",
+        "ja": "家族計画 〜そしてまた家族計画を〜"
+      },
+      "descriptions": {
+        "en": "Continuation of the Matsuri end of Kazoku Keikaku.",
+        "zh": "~そしてまた家族計画を~ シナリオはもちろん、山田一が担当。今回は「家族計画」の後日談を心温まる描き下ろしシナリオで紹介。同梱特典は、A4サイズの128ページのMOOK！内容はシナリオの山田一、原画の福永ユミのインタビューや、原画集座談会などファン必見の企画を満載！さらに、その他にも家族計画特製「しおりセット」＆家族計画特製「下敷き」と豪華セットが付き！ 「家族計画」の秀逸でテンポの良いシナリオをもう一度味わいたい、「家族計画」のキャラクター達にまた会いたい……物語りを語るには欠かせない舞台裏を満載したMOOKを特典としてつけることにより魅力的な世界観を完全網羅。あの高屋敷一家にもう一度逢える！"
+      },
+      "year": 2004,
+      "released": "2004-07-30",
+      "image": "https://t.vndb.org/cv/44/3844.jpg",
+      "lengthMinutes": 125,
+      "genres": [
+        "田中ロミオ",
+        "田中罗密欧",
+        "FD"
+      ],
+      "platforms": [
+        "win"
+      ],
+      "overallScore": 82.01753725944147,
+      "sources": {
+        "vndb": {
+          "score": 79.1,
+          "votes": 179,
+          "href": "https://vndb.org/v3184"
+        },
+        "bangumi": {
+          "score": 87,
+          "votes": 1757,
+          "href": "https://bgm.tv/subject/101434"
+        },
+        "egs": {
+          "score": 76.6,
+          "votes": 1013,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=3789"
+        }
+      }
+    },
+    {
       "rank": 73,
+      "id": "v16032",
+      "titles": {
+        "en": "TAISHO x ALICE",
+        "zh": "大正×对称爱丽丝 all in one",
+        "ja": "大正×対称アリス"
+      },
+      "descriptions": {
+        "en": "Once upon a time, in a topsy-turvy world... In the beginning, you find yourself lost within a world of utter darkness. Your memories are gone; even your name is a mystery. But just when the bitter loneliness threatens to break your spirit, you meet Alice—a blond-haired, blue-eyed young man who promptly christens you \"Arisu.\" Like you, Alice cannot remember anything beyond his own name. Ignoring his protests, you drag him along with you through the darkness... until you happen upon a massive mirror made of crystal. You stumble through the glass and into the Looking-Glass World, an antiquated fairytale dreamscape that feels oddly familiar... There, amid a colorful cast of gender-swapped fairytale characters, you take on the role of the heroine and join them in their twisted tales. How will the story end? It's up to you!",
+        "zh": "これは王子様を救うおとぎ話 女性向けコンテンツ品牌「Primula」よりPC用软件として発売された夢見るおとぎ話冒险游戏「大正×対称アリス」全4巻が、ワンパッケージになってPS Vitaに登場！ 物語の舞台は、全てがあべこべな鏡の国。「シンデレラ」や「赤ずきん」などの童話をモチーフに、性別が逆転した童話の角色達と紡ぐちょっぴり不思議で歪な物語。 プレイヤーは各童話のヒロインとなり、ヒーロー（攻略角色達）が抱える心の傷を癒やし、歪んだ世界を正常に導いていく。 PS Vita版では、PS Vitaのホーム画面に設定できる「壁紙集」や、集めたボイスの再生順を自由に変更してプレイヤーだけのボイスドラマを作れる「ボイスコレクション」を搭載。 「大正×対称アリス all in one」がNintendo Switchに登場！ 描き下ろしイベントスチルとビジュアルノベルを追加！ これまで汎用の立ち絵と背景で展開していたシーンをイベントスチル化。攻略キャラクター全員に描き下ろされます。 また、PS Vita版の初回生産分特典ドラマCD「鏡の国一のドMは誰だ大会！」をビジュアルノベル化して収録。 シンデレラ、グレーテル、魔法使い、アリス、猟師の織り成す本編では見ることのできないエピソードをお楽しみいただけます。"
+      },
+      "year": 2015,
+      "released": "2015-02-20",
+      "image": "https://t.vndb.org/cv/96/87196.jpg",
+      "lengthMinutes": 2535,
+      "genres": [
+        "乙女向",
+        "藤文",
+        "乙女ゲーム"
+      ],
+      "platforms": [
+        "win",
+        "psv",
+        "swi"
+      ],
+      "overallScore": 82.0017133443163,
+      "sources": {
+        "vndb": {
+          "score": 82.7,
+          "votes": 795,
+          "href": "https://vndb.org/v16032"
+        },
+        "bangumi": {
+          "score": 76,
+          "votes": 96,
+          "href": "https://bgm.tv/subject/175431"
+        },
+        "egs": {
+          "score": 83.08,
+          "votes": 13,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=23298"
+        }
+      }
+    },
+    {
+      "rank": 74,
       "id": "v17046",
       "titles": {
         "en": "Monmusu Quest! Paradox RPG Zenshou",
-        "zh": "勇者大战魔物娘RPG前章",
+        "zh": "勇者大战魔物娘RPG 前章",
         "ja": "もんむす・くえすと！ ぱらどっくすRPG前章"
       },
       "descriptions": {
@@ -3397,7 +3442,7 @@
         "ios",
         "and"
       ],
-      "overallScore": 82.0080529509101,
+      "overallScore": 82.0003305785124,
       "sources": {
         "vndb": {
           "score": 82.8,
@@ -3406,58 +3451,13 @@
         },
         "bangumi": {
           "score": 75,
-          "votes": 143,
+          "votes": 144,
           "href": "https://bgm.tv/subject/131500"
         },
         "egs": {
           "score": 84.92,
           "votes": 125,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=20981"
-        }
-      }
-    },
-    {
-      "rank": 74,
-      "id": "v16032",
-      "titles": {
-        "en": "TAISHO x ALICE",
-        "zh": "大正×对称爱丽丝 all in one",
-        "ja": "大正×対称アリス"
-      },
-      "descriptions": {
-        "en": "Once upon a time, in a topsy-turvy world... In the beginning, you find yourself lost within a world of utter darkness. Your memories are gone; even your name is a mystery. But just when the bitter loneliness threatens to break your spirit, you meet Alice—a blond-haired, blue-eyed young man who promptly christens you \"Arisu.\" Like you, Alice cannot remember anything beyond his own name. Ignoring his protests, you drag him along with you through the darkness... until you happen upon a massive mirror made of crystal. You stumble through the glass and into the Looking-Glass World, an antiquated fairytale dreamscape that feels oddly familiar... There, amid a colorful cast of gender-swapped fairytale characters, you take on the role of the heroine and join them in their twisted tales. How will the story end? It's up to you!",
-        "zh": "これは王子様を救うおとぎ話 女性向けコンテンツ品牌「Primula」よりPC用软件として発売された夢見るおとぎ話冒险游戏「大正×対称アリス」全4巻が、ワンパッケージになってPS Vitaに登場！ 物語の舞台は、全てがあべこべな鏡の国。「シンデレラ」や「赤ずきん」などの童話をモチーフに、性別が逆転した童話の角色達と紡ぐちょっぴり不思議で歪な物語。 プレイヤーは各童話のヒロインとなり、ヒーロー（攻略角色達）が抱える心の傷を癒やし、歪んだ世界を正常に導いていく。 PS Vita版では、PS Vitaのホーム画面に設定できる「壁紙集」や、集めたボイスの再生順を自由に変更してプレイヤーだけのボイスドラマを作れる「ボイスコレクション」を搭載。 「大正×対称アリス all in one」がNintendo Switchに登場！ 描き下ろしイベントスチルとビジュアルノベルを追加！ これまで汎用の立ち絵と背景で展開していたシーンをイベントスチル化。攻略キャラクター全員に描き下ろされます。 また、PS Vita版の初回生産分特典ドラマCD「鏡の国一のドMは誰だ大会！」をビジュアルノベル化して収録。 シンデレラ、グレーテル、魔法使い、アリス、猟師の織り成す本編では見ることのできないエピソードをお楽しみいただけます。"
-      },
-      "year": 2015,
-      "released": "2015-02-20",
-      "image": "https://t.vndb.org/cv/96/87196.jpg",
-      "lengthMinutes": 2535,
-      "genres": [
-        "乙女向",
-        "乙女ゲーム",
-        "藤文"
-      ],
-      "platforms": [
-        "win",
-        "psv",
-        "swi"
-      ],
-      "overallScore": 82.00094557449148,
-      "sources": {
-        "vndb": {
-          "score": 82.7,
-          "votes": 794,
-          "href": "https://vndb.org/v16032"
-        },
-        "bangumi": {
-          "score": 76,
-          "votes": 96,
-          "href": "https://bgm.tv/subject/175431"
-        },
-        "egs": {
-          "score": 83.08,
-          "votes": 13,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=23298"
         }
       }
     },
@@ -3508,52 +3508,6 @@
     },
     {
       "rank": 76,
-      "id": "v26523",
-      "titles": {
-        "en": "9-nine-:Episode 4",
-        "zh": "9-nine-雪色雪花雪余痕",
-        "ja": "9-nine-ゆきいろゆきはなゆきのあと"
-      },
-      "descriptions": {
-        "en": "This is the fourth game in Palette’s 9-nine- series. 9-nine- takes place in the run-of-the-mill college town of Shiromitsugawa where an earthquake breaks a sacred artifact from the Shrine of the White Serpent, unleashing jewelry-like items that bestow their holder's special powers called \"Artifacts\" from a parallel world. When an incident involving a power that transcends human comprehension, Kakeru Niimi, our protagonist, investigates several branches (parallel worlds) in order to settle the matter. With the mastermind finally revealed, Sophitia, otherworldly entity set to reclaim the Artifacts, tells him to defeat this person pulling the strings. The first day, the day that the festival was cancelled due to the earthquake back at the shrine—Kakeru is now equipped with memories from every branch and is on the move to solve this conflict. Amidst this, a girl with a strong sense of justice from Kuho Girls Academy, Noa Yuuki, has an ability that seems to be the key to defeating the mastermind. Knowing this, Kakeru divulges about the events in other branches to her. All the while uncovering the secrets behind why the Artifacts come to this world, settling the scores with the Evil Eye's User, what will be the fate of these young men and women with otherworldly power at the fingertips? [Taken from Steam]",
-        "zh": "白巳津川市。学園都市であること以外になんの特色もない街。 大地震により、白蛇九十九神社に祀られていた神器が破損し、 並行世界から所有者に特殊能力を授ける装飾品「アーティファクト」が流入した。 その人知を超えた力を悪用した事件を主人公「新海翔」は、 様々な枝（並行世界）で調査、そして解決してきた。 そしてついに全ての黒幕が「イーリス」だと分かり、 イーリスを倒してくれと「ソフィーティア」にお願いされる。 始まりの日。白蛇九十九神社でフェスを行い大地震により中断されたあの日。 全ての枝の記憶を持った翔は、打倒イーリスのため動き始める。 そして玖方女学院の正義感あふれる少女「結城希亜」の能力、 「ジ・オーダー」がイーリス打倒のカギだと分かり、 翔は希亜に違う枝での出来事を打ち明ける。 アーティファクト流出の真相。魔眼のユーザーとの決着。 異能の力を手に入れた少年少女たちの運命は――。"
-      },
-      "year": 2020,
-      "released": "2020-04-24",
-      "image": "https://t.vndb.org/cv/30/95130.jpg",
-      "lengthMinutes": 731,
-      "genres": [
-        "调色板",
-        "和泉つばす",
-        "分割商法"
-      ],
-      "platforms": [
-        "win",
-        "and",
-        "ps4",
-        "swi"
-      ],
-      "overallScore": 81.9894141259677,
-      "sources": {
-        "vndb": {
-          "score": 85.3,
-          "votes": 3620,
-          "href": "https://vndb.org/v26523"
-        },
-        "bangumi": {
-          "score": 77,
-          "votes": 4299,
-          "href": "https://bgm.tv/subject/290856"
-        },
-        "egs": {
-          "score": 85.71,
-          "votes": 1696,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=28639"
-        }
-      }
-    },
-    {
-      "rank": 77,
       "id": "v7679",
       "titles": {
         "en": "Danganronpa 2: Goodbye Despair",
@@ -3587,16 +3541,16 @@
         "xxs",
         "web"
       ],
-      "overallScore": 81.98927418275281,
+      "overallScore": 81.98905339221196,
       "sources": {
         "vndb": {
           "score": 80.8,
-          "votes": 13202,
+          "votes": 13208,
           "href": "https://vndb.org/v7679"
         },
         "bangumi": {
           "score": 85,
-          "votes": 5055,
+          "votes": 5056,
           "href": "https://bgm.tv/subject/39066"
         },
         "egs": {
@@ -3607,11 +3561,57 @@
       }
     },
     {
+      "rank": 77,
+      "id": "v26523",
+      "titles": {
+        "en": "9-nine-:Episode 4",
+        "zh": "9-nine-雪色雪花雪之痕",
+        "ja": "9-nine-ゆきいろゆきはなゆきのあと"
+      },
+      "descriptions": {
+        "en": "This is the fourth game in Palette’s 9-nine- series. 9-nine- takes place in the run-of-the-mill college town of Shiromitsugawa where an earthquake breaks a sacred artifact from the Shrine of the White Serpent, unleashing jewelry-like items that bestow their holder's special powers called \"Artifacts\" from a parallel world. When an incident involving a power that transcends human comprehension, Kakeru Niimi, our protagonist, investigates several branches (parallel worlds) in order to settle the matter. With the mastermind finally revealed, Sophitia, otherworldly entity set to reclaim the Artifacts, tells him to defeat this person pulling the strings. The first day, the day that the festival was cancelled due to the earthquake back at the shrine—Kakeru is now equipped with memories from every branch and is on the move to solve this conflict. Amidst this, a girl with a strong sense of justice from Kuho Girls Academy, Noa Yuuki, has an ability that seems to be the key to defeating the mastermind. Knowing this, Kakeru divulges about the events in other branches to her. All the while uncovering the secrets behind why the Artifacts come to this world, settling the scores with the Evil Eye's User, what will be the fate of these young men and women with otherworldly power at the fingertips? [Taken from Steam]",
+        "zh": "白巳津川市。学園都市であること以外になんの特色もない街。 大地震により、白蛇九十九神社に祀られていた神器が破損し、 並行世界から所有者に特殊能力を授ける装飾品「アーティファクト」が流入した。 その人知を超えた力を悪用した事件を主人公「新海翔」は、 様々な枝（並行世界）で調査、そして解決してきた。 そしてついに全ての黒幕が「イーリス」だと分かり、 イーリスを倒してくれと「ソフィーティア」にお願いされる。 始まりの日。白蛇九十九神社でフェスを行い大地震により中断されたあの日。 全ての枝の記憶を持った翔は、打倒イーリスのため動き始める。 そして玖方女学院の正義感あふれる少女「結城希亜」の能力、 「ジ・オーダー」がイーリス打倒のカギだと分かり、 翔は希亜に違う枝での出来事を打ち明ける。 アーティファクト流出の真相。魔眼のユーザーとの決着。 異能の力を手に入れた少年少女たちの運命は――。"
+      },
+      "year": 2020,
+      "released": "2020-04-24",
+      "image": "https://t.vndb.org/cv/30/95130.jpg",
+      "lengthMinutes": 736,
+      "genres": [
+        "调色板",
+        "和泉つばす",
+        "分割商法"
+      ],
+      "platforms": [
+        "win",
+        "and",
+        "ps4",
+        "swi"
+      ],
+      "overallScore": 81.98877280106962,
+      "sources": {
+        "vndb": {
+          "score": 85.3,
+          "votes": 3624,
+          "href": "https://vndb.org/v26523"
+        },
+        "bangumi": {
+          "score": 77,
+          "votes": 4303,
+          "href": "https://bgm.tv/subject/290856"
+        },
+        "egs": {
+          "score": 85.71,
+          "votes": 1696,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=28639"
+        }
+      }
+    },
+    {
       "rank": 78,
       "id": "v60663",
       "titles": {
         "en": "Dimension Totsu Lovers!!",
-        "zh": "超次元恋人！！",
+        "zh": "越界恋人!!",
         "ja": "ディメンション凸ラバース！！"
       },
       "descriptions": {
@@ -3621,7 +3621,7 @@
       "year": 2026,
       "released": "2026-04-24",
       "image": "https://t.vndb.org/cv/90/126490.jpg",
-      "lengthMinutes": 1703,
+      "lengthMinutes": 1712,
       "genres": [
         "CRYSTALiA",
         "水晶社",
@@ -3630,16 +3630,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 81.97845430502498,
+      "overallScore": 81.97165298944901,
       "sources": {
         "vndb": {
           "score": 82.6,
-          "votes": 482,
+          "votes": 483,
           "href": "https://vndb.org/v60663"
         },
         "bangumi": {
           "score": 79,
-          "votes": 1889,
+          "votes": 1897,
           "href": "https://bgm.tv/subject/611546"
         },
         "egs": {
@@ -3677,7 +3677,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 81.95753424657534,
+      "overallScore": 81.95718459010406,
       "sources": {
         "vndb": {
           "score": 83.1,
@@ -3686,7 +3686,7 @@
         },
         "bangumi": {
           "score": 81,
-          "votes": 1296,
+          "votes": 1297,
           "href": "https://bgm.tv/subject/119895"
         },
         "egs": {
@@ -3726,7 +3726,7 @@
         "ps3",
         "psv"
       ],
-      "overallScore": 81.94375137594483,
+      "overallScore": 81.94390637610977,
       "sources": {
         "vndb": {
           "score": 74.4,
@@ -3735,7 +3735,7 @@
         },
         "bangumi": {
           "score": 83,
-          "votes": 2293,
+          "votes": 2294,
           "href": "https://bgm.tv/subject/4347"
         },
         "egs": {
@@ -3772,11 +3772,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 81.86553191489362,
+      "overallScore": 81.8650898770104,
       "sources": {
         "vndb": {
           "score": 82.8,
-          "votes": 835,
+          "votes": 834,
           "href": "https://vndb.org/v18152"
         },
         "bangumi": {
@@ -3865,11 +3865,11 @@
         "xbo",
         "xxs"
       ],
-      "overallScore": 81.75220502636444,
+      "overallScore": 81.75230026699526,
       "sources": {
         "vndb": {
           "score": 82.1,
-          "votes": 5996,
+          "votes": 5998,
           "href": "https://vndb.org/v7809"
         },
         "bangumi": {
@@ -3889,7 +3889,7 @@
       "id": "v11849",
       "titles": {
         "en": "Monster Girl Quest - Part 3",
-        "zh": "勇者大战魔物娘 终章",
+        "zh": "勇者大战魔物娘! 终章～输掉就会被妖女硬上～",
         "ja": "もんむす・くえすと!終章 ～負ければ妖女に犯される～"
       },
       "descriptions": {
@@ -3959,11 +3959,11 @@
         "mac",
         "psv"
       ],
-      "overallScore": 81.66157433184854,
+      "overallScore": 81.66203897007654,
       "sources": {
         "vndb": {
           "score": 85,
-          "votes": 3781,
+          "votes": 3782,
           "href": "https://vndb.org/v5922"
         },
         "bangumi": {
@@ -3983,7 +3983,7 @@
       "id": "v12246",
       "titles": {
         "en": "Otome Riron to Sono Shuuhen -Ecole de Paris-",
-        "zh": "少女理论及其周边 -École de Paris-",
+        "zh": "少女理论及其周边 -巴黎学院篇-",
         "ja": "乙女理論とその周辺 -Ecole de Paris-"
       },
       "descriptions": {
@@ -4003,7 +4003,7 @@
         "win",
         "psv"
       ],
-      "overallScore": 81.63471142520612,
+      "overallScore": 81.63388413533244,
       "sources": {
         "vndb": {
           "score": 81.4,
@@ -4012,7 +4012,7 @@
         },
         "bangumi": {
           "score": 79,
-          "votes": 3127,
+          "votes": 3129,
           "href": "https://bgm.tv/subject/66760"
         },
         "egs": {
@@ -4057,16 +4057,16 @@
         "swi",
         "mob"
       ],
-      "overallScore": 81.57356873418325,
+      "overallScore": 81.57349992839754,
       "sources": {
         "vndb": {
           "score": 78,
-          "votes": 2939,
+          "votes": 2940,
           "href": "https://vndb.org/v36"
         },
         "bangumi": {
           "score": 83,
-          "votes": 2695,
+          "votes": 2697,
           "href": "https://bgm.tv/subject/232"
         },
         "egs": {
@@ -4154,16 +4154,16 @@
         "n3d",
         "xbo"
       ],
-      "overallScore": 81.44232254863743,
+      "overallScore": 81.44238549009884,
       "sources": {
         "vndb": {
           "score": 80.7,
-          "votes": 9442,
+          "votes": 9445,
           "href": "https://vndb.org/v711"
         },
         "bangumi": {
           "score": 83,
-          "votes": 4543,
+          "votes": 4545,
           "href": "https://bgm.tv/subject/1111"
         },
         "egs": {
@@ -4237,8 +4237,8 @@
       },
       "year": 2021,
       "released": "2021-02-26",
-      "image": "https://t.vndb.org/cv/94/90194.jpg",
-      "lengthMinutes": 1575,
+      "image": "https://t.vndb.org/cv/97/110297.jpg",
+      "lengthMinutes": 1568,
       "genres": [
         "桐葉",
         "rkr",
@@ -4249,11 +4249,11 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 81.37556028368795,
+      "overallScore": 81.37594165958652,
       "sources": {
         "vndb": {
           "score": 81.6,
-          "votes": 820,
+          "votes": 823,
           "href": "https://vndb.org/v29383"
         },
         "bangumi": {
@@ -4273,7 +4273,7 @@
       "id": "v16212",
       "titles": {
         "en": "A Clockwork Ley-Line: Flowers Falling in the Morning Mist",
-        "zh": "时钟机关的Ley-line -朝雾中飘零之花-",
+        "zh": "时钟机关的Ley-line-朝雾中飘零之花-",
         "ja": "時計仕掛けのレイライン －朝霧に散る花－"
       },
       "descriptions": {
@@ -4294,7 +4294,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 81.31323843416371,
+      "overallScore": 81.31250166777852,
       "sources": {
         "vndb": {
           "score": 81.6,
@@ -4303,7 +4303,7 @@
         },
         "bangumi": {
           "score": 78,
-          "votes": 1516,
+          "votes": 1517,
           "href": "https://bgm.tv/subject/106118"
         },
         "egs": {
@@ -4318,7 +4318,7 @@
       "id": "v5652",
       "titles": {
         "en": "Kamidori Alchemy Meister",
-        "zh": "神采炼金名匠",
+        "zh": "神采炼金大师",
         "ja": "神採りアルケミーマイスター"
       },
       "descriptions": {
@@ -4380,16 +4380,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 81.30200292499478,
+      "overallScore": 81.30173755656108,
       "sources": {
         "vndb": {
           "score": 82,
-          "votes": 5029,
+          "votes": 5031,
           "href": "https://vndb.org/v6245"
         },
         "bangumi": {
           "score": 78,
-          "votes": 220,
+          "votes": 221,
           "href": "https://bgm.tv/subject/22963"
         },
         "egs": {
@@ -4414,7 +4414,7 @@
       "year": 2014,
       "released": "2014-11-28",
       "image": "https://t.vndb.org/cv/55/79855.jpg",
-      "lengthMinutes": 2650,
+      "lengthMinutes": 2652,
       "genres": [
         "sprite",
         "青春",
@@ -4429,16 +4429,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 81.23730910813865,
+      "overallScore": 81.23693655941406,
       "sources": {
         "vndb": {
           "score": 82.6,
-          "votes": 6609,
+          "votes": 6610,
           "href": "https://vndb.org/v12849"
         },
         "bangumi": {
           "score": 78,
-          "votes": 4441,
+          "votes": 4443,
           "href": "https://bgm.tv/subject/76912"
         },
         "egs": {
@@ -4477,11 +4477,11 @@
         "swi",
         "oth"
       ],
-      "overallScore": 81.21674402493937,
+      "overallScore": 81.2167598926314,
       "sources": {
         "vndb": {
           "score": 81.4,
-          "votes": 5859,
+          "votes": 5860,
           "href": "https://vndb.org/v50"
         },
         "bangumi": {
@@ -4571,16 +4571,16 @@
         "vnd",
         "web"
       ],
-      "overallScore": 81.14543363416244,
+      "overallScore": 81.1798998789746,
       "sources": {
         "vndb": {
-          "score": 75.7,
-          "votes": 3129,
+          "score": 75.8,
+          "votes": 3130,
           "href": "https://vndb.org/v414"
         },
         "bangumi": {
           "score": 84,
-          "votes": 2546,
+          "votes": 2548,
           "href": "https://bgm.tv/subject/2723"
         },
         "egs": {
@@ -4614,11 +4614,11 @@
       "platforms": [
         "psp"
       ],
-      "overallScore": 81.14279902359641,
+      "overallScore": 81.1439024390244,
       "sources": {
         "vndb": {
           "score": 82.5,
-          "votes": 794,
+          "votes": 795,
           "href": "https://vndb.org/v12369"
         },
         "bangumi": {
@@ -4662,11 +4662,11 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 81.1017608897127,
+      "overallScore": 81.10194444444444,
       "sources": {
         "vndb": {
           "score": 81.3,
-          "votes": 986,
+          "votes": 987,
           "href": "https://vndb.org/v20032"
         },
         "bangumi": {
@@ -4706,16 +4706,16 @@
         "win",
         "web"
       ],
-      "overallScore": 81.07801652892562,
+      "overallScore": 81.07689768976897,
       "sources": {
         "vndb": {
           "score": 82.1,
-          "votes": 1486,
+          "votes": 1488,
           "href": "https://vndb.org/v25931"
         },
         "bangumi": {
           "score": 77,
-          "votes": 323,
+          "votes": 324,
           "href": "https://bgm.tv/subject/224621"
         },
         "egs": {
@@ -4794,7 +4794,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 80.98244541484715,
+      "overallScore": 80.97954611579866,
       "sources": {
         "vndb": {
           "score": 79.8,
@@ -4803,7 +4803,7 @@
         },
         "bangumi": {
           "score": 76,
-          "votes": 171,
+          "votes": 172,
           "href": "https://bgm.tv/subject/150138"
         },
         "egs": {
@@ -4818,7 +4818,7 @@
       "id": "v37",
       "titles": {
         "en": "The Rotting Princess ~Euthanasia~",
-        "zh": "腐姫 ～euthanasia～",
+        "zh": "腐姬",
         "ja": "腐り姫 ～euthanasia～"
       },
       "descriptions": {
@@ -4889,7 +4889,7 @@
         "xbo",
         "xxs"
       ],
-      "overallScore": 80.97520179372198,
+      "overallScore": 80.97531119888973,
       "sources": {
         "vndb": {
           "score": 79.3,
@@ -4898,7 +4898,7 @@
         },
         "bangumi": {
           "score": 82,
-          "votes": 5600,
+          "votes": 5601,
           "href": "https://bgm.tv/subject/215470"
         },
         "egs": {
@@ -4913,7 +4913,7 @@
       "id": "v20860",
       "titles": {
         "en": "Hikari no Umi no Apeiria",
-        "zh": "景之海的艾佩莉娅",
+        "zh": "流景之海的艾佩理雅",
         "ja": "景の海のアペイリア"
       },
       "descriptions": {
@@ -4932,7 +4932,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 80.9341397899433,
+      "overallScore": 80.93342097928087,
       "sources": {
         "vndb": {
           "score": 80.1,
@@ -4941,7 +4941,7 @@
         },
         "bangumi": {
           "score": 79,
-          "votes": 2741,
+          "votes": 2743,
           "href": "https://bgm.tv/subject/210068"
         },
         "egs": {
@@ -4956,7 +4956,7 @@
       "id": "v26664",
       "titles": {
         "en": "Sakura no Kumo * Scarlet no Koi",
-        "zh": "樱色之云＊绯色之恋",
+        "zh": "樱色之云绯色之恋",
         "ja": "さくらの雲＊スカアレットの恋"
       },
       "descriptions": {
@@ -4977,16 +4977,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 80.93050420168066,
+      "overallScore": 80.9266157954979,
       "sources": {
         "vndb": {
           "score": 80.6,
-          "votes": 553,
+          "votes": 555,
           "href": "https://vndb.org/v26664"
         },
         "bangumi": {
           "score": 76,
-          "votes": 2337,
+          "votes": 2341,
           "href": "https://bgm.tv/subject/292024"
         },
         "egs": {
@@ -5024,11 +5024,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 80.84734962507417,
+      "overallScore": 80.84739789587267,
       "sources": {
         "vndb": {
           "score": 80.4,
-          "votes": 4792,
+          "votes": 4791,
           "href": "https://vndb.org/v7723"
         },
         "bangumi": {
@@ -5153,11 +5153,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 80.58262407718733,
+      "overallScore": 80.58262153666203,
       "sources": {
         "vndb": {
           "score": 80.6,
-          "votes": 3869,
+          "votes": 3868,
           "href": "https://vndb.org/v7724"
         },
         "bangumi": {
@@ -5187,7 +5187,7 @@
       "year": 2012,
       "released": "2012-08-31",
       "image": "https://t.vndb.org/cv/82/88282.jpg",
-      "lengthMinutes": 2298,
+      "lengthMinutes": 2280,
       "genres": [
         "FAVORITE",
         "光鸟鸟",
@@ -5221,7 +5221,7 @@
       "id": "v428",
       "titles": {
         "en": "Zoku Satsuriku no Django -Jigoku no Shoukinkubi-",
-        "zh": "续杀戮姜戈--地狱通缉犯",
+        "zh": "续·杀戮之姜戈—地狱通缉犯—",
         "ja": "続・殺戮のジャンゴ ─地獄の賞金首─"
       },
       "descriptions": {
@@ -5240,7 +5240,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 80.4652637818613,
+      "overallScore": 80.46587003752715,
       "sources": {
         "vndb": {
           "score": 77.4,
@@ -5249,7 +5249,7 @@
         },
         "bangumi": {
           "score": 82,
-          "votes": 1077,
+          "votes": 1078,
           "href": "https://bgm.tv/subject/20714"
         },
         "egs": {
@@ -5264,7 +5264,7 @@
       "id": "v11093",
       "titles": {
         "en": "A Clockwork Ley-Line: Daybreak of Remnants Shadow",
-        "zh": "时钟机关的Ley-line -残影之夜将明时-",
+        "zh": "时钟机关的Ley-line-残影之夜将明时-",
         "ja": "時計仕掛けのレイライン －残影の夜が明ける時－"
       },
       "descriptions": {
@@ -5285,16 +5285,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 80.45785645523586,
+      "overallScore": 80.45714743932427,
       "sources": {
         "vndb": {
           "score": 79.6,
-          "votes": 1131,
+          "votes": 1132,
           "href": "https://vndb.org/v11093"
         },
         "bangumi": {
           "score": 78,
-          "votes": 1484,
+          "votes": 1485,
           "href": "https://bgm.tv/subject/49533"
         },
         "egs": {
@@ -5340,7 +5340,7 @@
         "web",
         "mob"
       ],
-      "overallScore": 80.45059179265658,
+      "overallScore": 80.45082901554403,
       "sources": {
         "vndb": {
           "score": 78.5,
@@ -5349,7 +5349,7 @@
         },
         "bangumi": {
           "score": 81,
-          "votes": 1919,
+          "votes": 1920,
           "href": "https://bgm.tv/subject/1733"
         },
         "egs": {
@@ -5427,7 +5427,7 @@
         "win",
         "and"
       ],
-      "overallScore": 80.32842814614344,
+      "overallScore": 80.32871882270194,
       "sources": {
         "vndb": {
           "score": 76.1,
@@ -5436,7 +5436,7 @@
         },
         "bangumi": {
           "score": 81,
-          "votes": 2262,
+          "votes": 2266,
           "href": "https://bgm.tv/subject/2722"
         },
         "egs": {
@@ -5471,16 +5471,16 @@
         "win",
         "web"
       ],
-      "overallScore": 80.31956119105286,
+      "overallScore": 80.31848476217601,
       "sources": {
         "vndb": {
           "score": 79.2,
-          "votes": 2233,
+          "votes": 2235,
           "href": "https://vndb.org/v2047"
         },
         "bangumi": {
           "score": 75,
-          "votes": 1846,
+          "votes": 1847,
           "href": "https://bgm.tv/subject/11168"
         },
         "egs": {
@@ -5505,7 +5505,7 @@
       "year": 2009,
       "released": "2009-07-24",
       "image": "https://t.vndb.org/cv/16/79716.jpg",
-      "lengthMinutes": 4838,
+      "lengthMinutes": 4894,
       "genres": [
         "正田崇",
         "LIGHT",
@@ -5518,7 +5518,7 @@
         "psp",
         "swi"
       ],
-      "overallScore": 80.2100825340174,
+      "overallScore": 80.20958965209635,
       "sources": {
         "vndb": {
           "score": 81.3,
@@ -5527,7 +5527,7 @@
         },
         "bangumi": {
           "score": 78,
-          "votes": 244,
+          "votes": 245,
           "href": "https://bgm.tv/subject/16849"
         },
         "egs": {
@@ -5552,7 +5552,7 @@
       "year": 2023,
       "released": "2023-11-16",
       "image": "https://t.vndb.org/cv/43/82543.jpg",
-      "lengthMinutes": 798,
+      "lengthMinutes": 799,
       "genres": [
         "瀬戸口廉也",
         "全年龄",
@@ -5561,7 +5561,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 80.18362937853107,
+      "overallScore": 80.18202663055743,
       "sources": {
         "vndb": {
           "score": 79.4,
@@ -5570,7 +5570,7 @@
         },
         "bangumi": {
           "score": 79,
-          "votes": 1324,
+          "votes": 1327,
           "href": "https://bgm.tv/subject/402650"
         },
         "egs": {
@@ -5602,11 +5602,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 80.17983425414364,
+      "overallScore": 80.17902483900644,
       "sources": {
         "vndb": {
           "score": 79.3,
-          "votes": 561,
+          "votes": 562,
           "href": "https://vndb.org/v27057"
         },
         "bangumi": {
@@ -5650,16 +5650,16 @@
         "swi",
         "xbo"
       ],
-      "overallScore": 80.17796893935994,
+      "overallScore": 80.17779238257593,
       "sources": {
         "vndb": {
           "score": 80.7,
-          "votes": 7662,
+          "votes": 7665,
           "href": "https://vndb.org/v17102"
         },
         "bangumi": {
           "score": 79,
-          "votes": 3272,
+          "votes": 3275,
           "href": "https://bgm.tv/subject/129820"
         },
         "egs": {
@@ -5785,11 +5785,11 @@
         "ps2",
         "psv"
       ],
-      "overallScore": 80.09859649122807,
+      "overallScore": 80.0989366515837,
       "sources": {
         "vndb": {
           "score": 80.7,
-          "votes": 779,
+          "votes": 780,
           "href": "https://vndb.org/v1281"
         },
         "bangumi": {
@@ -5828,7 +5828,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 80.09566462167689,
+      "overallScore": 80.09281143635125,
       "sources": {
         "vndb": {
           "score": 80.1,
@@ -5837,7 +5837,7 @@
         },
         "bangumi": {
           "score": 78,
-          "votes": 262,
+          "votes": 264,
           "href": "https://bgm.tv/subject/156122"
         },
         "egs": {
@@ -5876,16 +5876,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 80.04247742579196,
+      "overallScore": 80.04238491845793,
       "sources": {
         "vndb": {
           "score": 81.6,
-          "votes": 3833,
+          "votes": 3835,
           "href": "https://vndb.org/v21852"
         },
         "bangumi": {
           "score": 76,
-          "votes": 3329,
+          "votes": 3330,
           "href": "https://bgm.tv/subject/225784"
         },
         "egs": {
@@ -5962,11 +5962,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 79.95724344569287,
+      "overallScore": 79.95820493642482,
       "sources": {
         "vndb": {
           "score": 80.6,
-          "votes": 514,
+          "votes": 515,
           "href": "https://vndb.org/v23393"
         },
         "bangumi": {
@@ -6007,16 +6007,16 @@
         "ps4",
         "psv"
       ],
-      "overallScore": 79.9355369928401,
+      "overallScore": 79.93398568019091,
       "sources": {
         "vndb": {
           "score": 80.5,
-          "votes": 2737,
+          "votes": 2736,
           "href": "https://vndb.org/v14265"
         },
         "bangumi": {
           "score": 74,
-          "votes": 313,
+          "votes": 314,
           "href": "https://bgm.tv/subject/91166"
         },
         "egs": {
@@ -6050,16 +6050,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 79.73992150105305,
+      "overallScore": 79.73953501722158,
       "sources": {
         "vndb": {
           "score": 79.2,
-          "votes": 761,
+          "votes": 762,
           "href": "https://vndb.org/v470"
         },
         "bangumi": {
           "score": 79,
-          "votes": 2959,
+          "votes": 2961,
           "href": "https://bgm.tv/subject/17436"
         },
         "egs": {
@@ -6140,11 +6140,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 79.6600584453536,
+      "overallScore": 79.66007400194742,
       "sources": {
         "vndb": {
           "score": 79.7,
-          "votes": 5082,
+          "votes": 5084,
           "href": "https://vndb.org/v18872"
         },
         "bangumi": {
@@ -6164,7 +6164,7 @@
       "id": "v7853",
       "titles": {
         "en": "Monster Girl Quest - Part 2",
-        "zh": "勇者大战魔物娘 中章",
+        "zh": "勇者大战魔物娘! 中章～输掉就会被妖女硬上～",
         "ja": "もんむす・くえすと!中章 ～負ければ妖女に犯される～"
       },
       "descriptions": {
@@ -6238,16 +6238,16 @@
         "vnd",
         "web"
       ],
-      "overallScore": 79.60710360765181,
+      "overallScore": 79.60688358362212,
       "sources": {
         "vndb": {
           "score": 75.5,
-          "votes": 2827,
+          "votes": 2828,
           "href": "https://vndb.org/v70"
         },
         "bangumi": {
           "score": 82,
-          "votes": 3579,
+          "votes": 3580,
           "href": "https://bgm.tv/subject/1168"
         },
         "egs": {
@@ -6381,16 +6381,16 @@
         "vnd",
         "web"
       ],
-      "overallScore": 79.43944810465004,
+      "overallScore": 79.43892399223695,
       "sources": {
         "vndb": {
           "score": 75.1,
-          "votes": 7044,
+          "votes": 7048,
           "href": "https://vndb.org/v10"
         },
         "bangumi": {
           "score": 84,
-          "votes": 6564,
+          "votes": 6566,
           "href": "https://bgm.tv/subject/1167"
         },
         "egs": {
@@ -6415,7 +6415,7 @@
       "year": 2023,
       "released": "2023-06-23",
       "image": "https://t.vndb.org/cv/16/90216.jpg",
-      "lengthMinutes": 864,
+      "lengthMinutes": 858,
       "genres": [
         "和泉つばす",
         "调色板",
@@ -6424,7 +6424,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 79.43253418803418,
+      "overallScore": 79.42667662116041,
       "sources": {
         "vndb": {
           "score": 82.5,
@@ -6433,7 +6433,7 @@
         },
         "bangumi": {
           "score": 76,
-          "votes": 1046,
+          "votes": 1050,
           "href": "https://bgm.tv/subject/417463"
         },
         "egs": {
@@ -6518,7 +6518,7 @@
         "ps4",
         "psv"
       ],
-      "overallScore": 79.40201578508751,
+      "overallScore": 79.40068211888078,
       "sources": {
         "vndb": {
           "score": 79.5,
@@ -6527,7 +6527,7 @@
         },
         "bangumi": {
           "score": 76,
-          "votes": 5289,
+          "votes": 5293,
           "href": "https://bgm.tv/subject/44123"
         },
         "egs": {
@@ -6566,7 +6566,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 79.35783316716517,
+      "overallScore": 79.35294586516108,
       "sources": {
         "vndb": {
           "score": 80.8,
@@ -6575,7 +6575,7 @@
         },
         "bangumi": {
           "score": 72,
-          "votes": 233,
+          "votes": 234,
           "href": "https://bgm.tv/subject/107473"
         },
         "egs": {
@@ -6656,7 +6656,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 79.1755036075036,
+      "overallScore": 79.17499495168036,
       "sources": {
         "vndb": {
           "score": 81.8,
@@ -6665,7 +6665,7 @@
         },
         "bangumi": {
           "score": 78,
-          "votes": 4483,
+          "votes": 4486,
           "href": "https://bgm.tv/subject/111552"
         },
         "egs": {
@@ -6748,16 +6748,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 79.08430888030888,
+      "overallScore": 79.0824645280691,
       "sources": {
         "vndb": {
           "score": 81.2,
-          "votes": 1800,
+          "votes": 1804,
           "href": "https://vndb.org/v29443"
         },
         "bangumi": {
           "score": 75,
-          "votes": 3169,
+          "votes": 3174,
           "href": "https://bgm.tv/subject/317675"
         },
         "egs": {
@@ -6835,11 +6835,11 @@
         "ios",
         "and"
       ],
-      "overallScore": 79.05922746781116,
+      "overallScore": 79.05957142857143,
       "sources": {
         "vndb": {
           "score": 79.3,
-          "votes": 1296,
+          "votes": 1298,
           "href": "https://vndb.org/v17915"
         },
         "bangumi": {
@@ -6881,16 +6881,16 @@
         "dvd",
         "psv"
       ],
-      "overallScore": 79.02695191883548,
+      "overallScore": 79.02693664559753,
       "sources": {
         "vndb": {
           "score": 80.3,
-          "votes": 7914,
+          "votes": 7917,
           "href": "https://vndb.org/v810"
         },
         "bangumi": {
           "score": 75,
-          "votes": 3708,
+          "votes": 3709,
           "href": "https://bgm.tv/subject/1130"
         },
         "egs": {
@@ -6905,7 +6905,7 @@
       "id": "v10557",
       "titles": {
         "en": "HimaNatsu: Of Churches, Sunflowers, and Long Summers",
-        "zh": "向日葵的教会与漫长的暑假",
+        "zh": "向日葵的教会与长长的暑假",
         "ja": "向日葵の教会と長い夏休み"
       },
       "descriptions": {
@@ -6928,11 +6928,11 @@
         "psp",
         "ps3"
       ],
-      "overallScore": 78.98912816950332,
+      "overallScore": 78.98908438476676,
       "sources": {
         "vndb": {
           "score": 78.8,
-          "votes": 601,
+          "votes": 602,
           "href": "https://vndb.org/v10557"
         },
         "bangumi": {
@@ -7029,16 +7029,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 78.83069392033542,
+      "overallScore": 78.83033116747012,
       "sources": {
         "vndb": {
           "score": 80.2,
-          "votes": 1681,
+          "votes": 1682,
           "href": "https://vndb.org/v7302"
         },
         "bangumi": {
           "score": 74,
-          "votes": 3185,
+          "votes": 3186,
           "href": "https://bgm.tv/subject/19002"
         },
         "egs": {
@@ -7080,16 +7080,16 @@
         "swi",
         "web"
       ],
-      "overallScore": 78.6800295889253,
+      "overallScore": 78.67978664976764,
       "sources": {
         "vndb": {
           "score": 78.8,
-          "votes": 18550,
+          "votes": 18559,
           "href": "https://vndb.org/v945"
         },
         "bangumi": {
           "score": 73,
-          "votes": 244,
+          "votes": 245,
           "href": "https://bgm.tv/subject/28710"
         },
         "egs": {
@@ -7218,7 +7218,7 @@
         "win",
         "ps2"
       ],
-      "overallScore": 78.54899762470309,
+      "overallScore": 78.55016144349479,
       "sources": {
         "vndb": {
           "score": 76,
@@ -7227,7 +7227,7 @@
         },
         "bangumi": {
           "score": 81,
-          "votes": 1024,
+          "votes": 1025,
           "href": "https://bgm.tv/subject/1079"
         },
         "egs": {
@@ -7263,16 +7263,16 @@
         "and",
         "psp"
       ],
-      "overallScore": 78.5409396729938,
+      "overallScore": 78.54854244928624,
       "sources": {
         "vndb": {
-          "score": 79.6,
-          "votes": 464,
+          "score": 79.7,
+          "votes": 465,
           "href": "https://vndb.org/v3938"
         },
         "bangumi": {
           "score": 75,
-          "votes": 2136,
+          "votes": 2138,
           "href": "https://bgm.tv/subject/7700"
         },
         "egs": {
@@ -7306,16 +7306,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 78.53089824561404,
+      "overallScore": 78.5151332398317,
       "sources": {
         "vndb": {
-          "score": 79.4,
-          "votes": 422,
+          "score": 79.3,
+          "votes": 423,
           "href": "https://vndb.org/v16166"
         },
         "bangumi": {
           "score": 75,
-          "votes": 1030,
+          "votes": 1031,
           "href": "https://bgm.tv/subject/115976"
         },
         "egs": {
@@ -7349,7 +7349,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 78.49226546100435,
+      "overallScore": 78.49016949152542,
       "sources": {
         "vndb": {
           "score": 81.6,
@@ -7358,7 +7358,7 @@
         },
         "bangumi": {
           "score": 72,
-          "votes": 944,
+          "votes": 945,
           "href": "https://bgm.tv/subject/161787"
         },
         "egs": {
@@ -7373,7 +7373,7 @@
       "id": "v33175",
       "titles": {
         "en": "Jewelry Hearts Academia -We will wing wonder world-",
-        "zh": "宝石心学院",
+        "zh": "宝石心学园",
         "ja": "ジュエリー・ハーツ・アカデミア -We will wing wonder world-"
       },
       "descriptions": {
@@ -7394,7 +7394,7 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 78.4004589041096,
+      "overallScore": 78.39607802874744,
       "sources": {
         "vndb": {
           "score": 80.7,
@@ -7403,7 +7403,7 @@
         },
         "bangumi": {
           "score": 72,
-          "votes": 1037,
+          "votes": 1039,
           "href": "https://bgm.tv/subject/363763"
         },
         "egs": {
@@ -7439,11 +7439,11 @@
         "ps3",
         "psv"
       ],
-      "overallScore": 78.37146853146854,
+      "overallScore": 78.33435614422369,
       "sources": {
         "vndb": {
-          "score": 80.9,
-          "votes": 1033,
+          "score": 80.8,
+          "votes": 1034,
           "href": "https://vndb.org/v16493"
         },
         "bangumi": {
@@ -7482,11 +7482,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 78.34707729468599,
+      "overallScore": 78.31679002413516,
       "sources": {
         "vndb": {
-          "score": 80,
-          "votes": 392,
+          "score": 79.9,
+          "votes": 393,
           "href": "https://vndb.org/v29057"
         },
         "bangumi": {
@@ -7506,7 +7506,7 @@
       "id": "v8508",
       "titles": {
         "en": "Kindred Spirits on the Roof",
-        "zh": "天台上的百合灵",
+        "zh": "屋上的百合灵",
         "ja": "屋上の百合霊さん"
       },
       "descriptions": {
@@ -7530,16 +7530,16 @@
         "swi",
         "web"
       ],
-      "overallScore": 78.30993143778988,
+      "overallScore": 78.30859359258513,
       "sources": {
         "vndb": {
           "score": 79.3,
-          "votes": 1547,
+          "votes": 1548,
           "href": "https://vndb.org/v8508"
         },
         "bangumi": {
           "score": 74,
-          "votes": 430,
+          "votes": 431,
           "href": "https://bgm.tv/subject/27499"
         },
         "egs": {
@@ -7573,7 +7573,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 78.30965048543689,
+      "overallScore": 78.30450048496604,
       "sources": {
         "vndb": {
           "score": 83.2,
@@ -7582,7 +7582,7 @@
         },
         "bangumi": {
           "score": 73,
-          "votes": 456,
+          "votes": 457,
           "href": "https://bgm.tv/subject/403275"
         },
         "egs": {
@@ -7620,16 +7620,16 @@
         "bdp",
         "swi"
       ],
-      "overallScore": 78.27705149501662,
+      "overallScore": 78.2758657829329,
       "sources": {
         "vndb": {
           "score": 80.7,
-          "votes": 331,
+          "votes": 333,
           "href": "https://vndb.org/v17843"
         },
         "bangumi": {
           "score": 72,
-          "votes": 240,
+          "votes": 241,
           "href": "https://bgm.tv/subject/137782"
         },
         "egs": {
@@ -7710,11 +7710,11 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 78.1827961656719,
+      "overallScore": 78.1832513562387,
       "sources": {
         "vndb": {
           "score": 80.7,
-          "votes": 1942,
+          "votes": 1943,
           "href": "https://vndb.org/v24717"
         },
         "bangumi": {
@@ -7753,16 +7753,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 78.11030084569528,
+      "overallScore": 78.1100207900208,
       "sources": {
         "vndb": {
           "score": 80.2,
-          "votes": 2672,
+          "votes": 2673,
           "href": "https://vndb.org/v27519"
         },
         "bangumi": {
           "score": 74,
-          "votes": 3221,
+          "votes": 3222,
           "href": "https://bgm.tv/subject/297734"
         },
         "egs": {
@@ -7797,7 +7797,7 @@
         "win",
         "dvd"
       ],
-      "overallScore": 78.08501634750115,
+      "overallScore": 78.07840410639292,
       "sources": {
         "vndb": {
           "score": 84.3,
@@ -7806,7 +7806,7 @@
         },
         "bangumi": {
           "score": 71,
-          "votes": 406,
+          "votes": 407,
           "href": "https://bgm.tv/subject/310158"
         },
         "egs": {
@@ -7839,11 +7839,11 @@
         "win",
         "swi"
       ],
-      "overallScore": 77.94186046511626,
+      "overallScore": 77.94508133230053,
       "sources": {
         "vndb": {
           "score": 82.1,
-          "votes": 690,
+          "votes": 691,
           "href": "https://vndb.org/v4463"
         },
         "bangumi": {
@@ -7886,16 +7886,16 @@
         "and",
         "psv"
       ],
-      "overallScore": 77.91280462618752,
+      "overallScore": 77.91483312731768,
       "sources": {
         "vndb": {
           "score": 80.1,
-          "votes": 1139,
+          "votes": 1143,
           "href": "https://vndb.org/v58641"
         },
         "bangumi": {
           "score": 76,
-          "votes": 1252,
+          "votes": 1254,
           "href": "https://bgm.tv/subject/604105"
         },
         "egs": {
@@ -7932,16 +7932,16 @@
         "and",
         "swi"
       ],
-      "overallScore": 77.85610659308742,
+      "overallScore": 77.85571521881124,
       "sources": {
         "vndb": {
           "score": 79.4,
-          "votes": 8269,
+          "votes": 8273,
           "href": "https://vndb.org/v7738"
         },
         "bangumi": {
           "score": 74,
-          "votes": 3829,
+          "votes": 3832,
           "href": "https://bgm.tv/subject/59842"
         },
         "egs": {
@@ -7975,16 +7975,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 77.78843755904023,
+      "overallScore": 77.76570349386213,
       "sources": {
         "vndb": {
-          "score": 79.6,
+          "score": 79.5,
           "votes": 584,
           "href": "https://vndb.org/v57252"
         },
         "bangumi": {
           "score": 76,
-          "votes": 1470,
+          "votes": 1471,
           "href": "https://bgm.tv/subject/566420"
         },
         "egs": {
@@ -7996,6 +7996,50 @@
     },
     {
       "rank": 174,
+      "id": "v1483",
+      "titles": {
+        "en": "Kitto, Sumiwataru Asairo Yori mo,",
+        "zh": "从晴朗的朝色泛起之际开始",
+        "ja": "きっと、澄みわたる朝色よりも、"
+      },
+      "descriptions": {
+        "en": "We were always together. Irreplaceable friends. There was a strong tie between us even we got separated. Several years later, we have a chance to meet again at school. There are only four classmates, but that's enough. Only us. However... \"Stop acting like before.\" Our relationship gets cold and distant. It's only me who believed in our eternal friendship. What made us like this...? \"Ayanashisai Festival\" Each person was given their own color. \"Red\" I make up my mind to establish our good-old relationship again... [From ErogeShop]",
+        "zh": "互いの希望を持ち寄って、夢を語ろう。そうすれば、そこに仲間ができる。 互いの思いやりを持ち寄って、重ね合わせよう。そうすれば、そこに絆が生まれる。 互いに手を取り合えば、そこには―― ――俺たちは、全員揃って初めて「俺たち」だった。 子供の頃から一緒だった。何をするにも、何処へ行くにも。 他の何にも替えられない仲間たち―― その名を『四君子』。 ……例え、離れ離れになったとしても。決して色褪せない絆が、そこにはあった。 あれから幾年月が過ぎ去って、遂に再会の機会が訪れた。 芸術家志望の霊峰、あの憧れの夢見鳥学園で。 たった四人しかいない、そのクラス。けれど充分な、そのクラス。 あいつらしかいない、そのクラス―― ――だが。 「 “仲間ごっこ”は卒業しよう」 突きつけられたのは現実。生じたのはよそよそしさ、噛み合わないのは届きそうで届かない距離。 俺たちはいつまでもあの頃と変わらない―― そんな事を信じていたのは自分だけだったのか。 ……きっかけがあった。 『彩生祭』 ……振り分けられた色があった。 『赤』 だから俺は誓った。 きっとまた、あの頃のように一緒にいられる関係が築けると信じて。 ――あり得ない事をなし遂げてみせると、誓った。"
+      },
+      "year": 2009,
+      "released": "2009-07-24",
+      "image": "https://t.vndb.org/cv/98/79698.jpg",
+      "lengthMinutes": 1928,
+      "genres": [
+        "朱门优",
+        "propeller",
+        "神音乐"
+      ],
+      "platforms": [
+        "win",
+        "bdp"
+      ],
+      "overallScore": 77.67567676226213,
+      "sources": {
+        "vndb": {
+          "score": 83.7,
+          "votes": 568,
+          "href": "https://vndb.org/v1483"
+        },
+        "bangumi": {
+          "score": 75,
+          "votes": 1186,
+          "href": "https://bgm.tv/subject/3591"
+        },
+        "egs": {
+          "score": 77.55,
+          "votes": 1318,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=12144"
+        }
+      }
+    },
+    {
+      "rank": 175,
       "id": "v5834",
       "titles": {
         "en": "Irotoridori No Sekai - The Colorful World",
@@ -8009,7 +8053,7 @@
       "year": 2011,
       "released": "2011-07-29",
       "image": "https://t.vndb.org/cv/77/88277.jpg",
-      "lengthMinutes": 2748,
+      "lengthMinutes": 2745,
       "genres": [
         "FAVORITE",
         "色鸟鸟",
@@ -8039,50 +8083,6 @@
       }
     },
     {
-      "rank": 175,
-      "id": "v1483",
-      "titles": {
-        "en": "Kitto, Sumiwataru Asairo Yori mo,",
-        "zh": "从晴朗的朝色泛起之际开始",
-        "ja": "きっと、澄みわたる朝色よりも、"
-      },
-      "descriptions": {
-        "en": "We were always together. Irreplaceable friends. There was a strong tie between us even we got separated. Several years later, we have a chance to meet again at school. There are only four classmates, but that's enough. Only us. However... \"Stop acting like before.\" Our relationship gets cold and distant. It's only me who believed in our eternal friendship. What made us like this...? \"Ayanashisai Festival\" Each person was given their own color. \"Red\" I make up my mind to establish our good-old relationship again... [From ErogeShop]",
-        "zh": "互いの希望を持ち寄って、夢を語ろう。そうすれば、そこに仲間ができる。 互いの思いやりを持ち寄って、重ね合わせよう。そうすれば、そこに絆が生まれる。 互いに手を取り合えば、そこには―― ――俺たちは、全員揃って初めて「俺たち」だった。 子供の頃から一緒だった。何をするにも、何処へ行くにも。 他の何にも替えられない仲間たち―― その名を『四君子』。 ……例え、離れ離れになったとしても。決して色褪せない絆が、そこにはあった。 あれから幾年月が過ぎ去って、遂に再会の機会が訪れた。 芸術家志望の霊峰、あの憧れの夢見鳥学園で。 たった四人しかいない、そのクラス。けれど充分な、そのクラス。 あいつらしかいない、そのクラス―― ――だが。 「 “仲間ごっこ”は卒業しよう」 突きつけられたのは現実。生じたのはよそよそしさ、噛み合わないのは届きそうで届かない距離。 俺たちはいつまでもあの頃と変わらない―― そんな事を信じていたのは自分だけだったのか。 ……きっかけがあった。 『彩生祭』 ……振り分けられた色があった。 『赤』 だから俺は誓った。 きっとまた、あの頃のように一緒にいられる関係が築けると信じて。 ――あり得ない事をなし遂げてみせると、誓った。"
-      },
-      "year": 2009,
-      "released": "2009-07-24",
-      "image": "https://t.vndb.org/cv/98/79698.jpg",
-      "lengthMinutes": 1928,
-      "genres": [
-        "朱门优",
-        "propeller",
-        "神音乐"
-      ],
-      "platforms": [
-        "win",
-        "bdp"
-      ],
-      "overallScore": 77.65886058981232,
-      "sources": {
-        "vndb": {
-          "score": 83.6,
-          "votes": 567,
-          "href": "https://vndb.org/v1483"
-        },
-        "bangumi": {
-          "score": 75,
-          "votes": 1186,
-          "href": "https://bgm.tv/subject/3591"
-        },
-        "egs": {
-          "score": 77.55,
-          "votes": 1318,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=12144"
-        }
-      }
-    },
-    {
       "rank": 176,
       "id": "v24803",
       "titles": {
@@ -8108,7 +8108,7 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 77.630539901054,
+      "overallScore": 77.62854869920447,
       "sources": {
         "vndb": {
           "score": 80.9,
@@ -8117,7 +8117,7 @@
         },
         "bangumi": {
           "score": 73,
-          "votes": 953,
+          "votes": 954,
           "href": "https://bgm.tv/subject/253621"
         },
         "egs": {
@@ -8286,7 +8286,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 77.35565383045312,
+      "overallScore": 77.35474085158482,
       "sources": {
         "vndb": {
           "score": 79.2,
@@ -8295,7 +8295,7 @@
         },
         "bangumi": {
           "score": 74,
-          "votes": 2461,
+          "votes": 2463,
           "href": "https://bgm.tv/subject/24796"
         },
         "egs": {
@@ -8509,7 +8509,7 @@
         "bdp",
         "swi"
       ],
-      "overallScore": 76.56874809160306,
+      "overallScore": 76.56595971925542,
       "sources": {
         "vndb": {
           "score": 79.6,
@@ -8518,7 +8518,7 @@
         },
         "bangumi": {
           "score": 72,
-          "votes": 385,
+          "votes": 386,
           "href": "https://bgm.tv/subject/114735"
         },
         "egs": {
@@ -8554,7 +8554,7 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 76.41712802768166,
+      "overallScore": 76.41474074074074,
       "sources": {
         "vndb": {
           "score": 80,
@@ -8563,7 +8563,7 @@
         },
         "bangumi": {
           "score": 74,
-          "votes": 1559,
+          "votes": 1562,
           "href": "https://bgm.tv/subject/360498"
         },
         "egs": {
@@ -8597,16 +8597,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 76.41167114867461,
+      "overallScore": 76.41093282149711,
       "sources": {
         "vndb": {
           "score": 78.9,
-          "votes": 1499,
+          "votes": 1500,
           "href": "https://vndb.org/v13774"
         },
         "bangumi": {
           "score": 72,
-          "votes": 576,
+          "votes": 577,
           "href": "https://bgm.tv/subject/84520"
         },
         "egs": {
@@ -8684,16 +8684,16 @@
         "win",
         "web"
       ],
-      "overallScore": 76.32402573899056,
+      "overallScore": 76.32577456298975,
       "sources": {
         "vndb": {
           "score": 80,
-          "votes": 1668,
+          "votes": 1671,
           "href": "https://vndb.org/v6985"
         },
         "bangumi": {
           "score": 74,
-          "votes": 1724,
+          "votes": 1725,
           "href": "https://bgm.tv/subject/19750"
         },
         "egs": {
@@ -8708,7 +8708,7 @@
       "id": "v18486",
       "titles": {
         "en": "Tsumamigui 3",
-        "zh": "妻中蜜 3",
+        "zh": "妻中蜜3",
         "ja": "妻みぐい3"
       },
       "descriptions": {
@@ -8728,7 +8728,7 @@
         "win",
         "web"
       ],
-      "overallScore": 76.26556928508386,
+      "overallScore": 76.26423698912085,
       "sources": {
         "vndb": {
           "score": 79.2,
@@ -8737,7 +8737,7 @@
         },
         "bangumi": {
           "score": 74,
-          "votes": 801,
+          "votes": 802,
           "href": "https://bgm.tv/subject/149220"
         },
         "egs": {
@@ -8792,52 +8792,6 @@
     },
     {
       "rank": 192,
-      "id": "v29661",
-      "titles": {
-        "en": "Virche Evermore: -ErroR:salvation-",
-        "zh": "终远的威尔修 -ErroR:salvation-",
-        "ja": "終遠のヴィルシュ -ErroR:salvation-"
-      },
-      "descriptions": {
-        "en": "Arpéchéle is a small island country surrounded by the sea and black flowers of misfortune called Lycoris Noirges. The people of this country are born with a curse that leads to death at the age of 23. The people of the country lament and oppose their short-lived fates. After many years of research, a system was created—a “memory download” system. Once the body dies, the memories may live on in a clone known as a “Reliver”. These Relivers continue to resist their fate for another 23 years. The story follows a girl known as “Death,” as everyone she is involved with dies before the curse can consume them. Just as she is about to end her own life in regret, a mysterious man who calls himself the “Watchman of Death” appears before her. Under the watchman’s guidance, the girl will approach the truth of the various mysteries of death that haunts this country, whether she likes it or not… Without knowing that despair is the fate that awaits those who are loved by Death. [From Aksys Games]",
-        "zh": "西ヨーロッパの小国・アルペシェール。 四方を海と黒き災いの花――リコリス・ノワージュに囲まれたこの国の人間は 23歳までに死に至る《死の呪い》を抱いて生まれてくる。 万人に等しく死が降り注ぐアルペシェールは、いつしかこう呼ばれるようになった。 ――死神に魅入られた国、と。 国民は短命である自分たちの運命を嘆き、抗う。 そして長年にわたる研究の末、あるシステムを創り出した。 23歳までに死を迎える肉体を捨て、記憶だけを生き永らえさせる――“記憶のダウンロード”。 “記憶のダウンロード”によって永続的に生き続ける人々は“リライバー”と呼ばれ、 短命に抗い続けている。 時を同じくして、関わる者全てが不幸になることから《死神》と呼ばれる少女がいた。 人生を嘆いた少女が自ら生を終わらせようとした瞬間、 目の前に《死の番人》だと名乗る謎の男が現れる。 番人の導きにより、少女は否応なしにこの国に巣食う《様々な死の謎》に近づくこととなる。 死神に魅入られた者の運命が行きつく先は――絶望だと知らずに。"
-      },
-      "year": 2021,
-      "released": "2021-10-07",
-      "image": "https://t.vndb.org/cv/55/88055.jpg",
-      "lengthMinutes": 3300,
-      "genres": [
-        "乙女向",
-        "乙女ゲーム",
-        "中山智美"
-      ],
-      "platforms": [
-        "win",
-        "ios",
-        "and",
-        "swi"
-      ],
-      "overallScore": 76.07332430969139,
-      "sources": {
-        "vndb": {
-          "score": 82.2,
-          "votes": 676,
-          "href": "https://vndb.org/v29661"
-        },
-        "bangumi": {
-          "score": 52,
-          "votes": 192,
-          "href": "https://bgm.tv/subject/320129"
-        },
-        "egs": {
-          "score": 84.73,
-          "votes": 37,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=30590"
-        }
-      }
-    },
-    {
-      "rank": 193,
       "id": "v15125",
       "titles": {
         "en": "The Great Ace Attorney: Adventures",
@@ -8885,6 +8839,52 @@
       }
     },
     {
+      "rank": 193,
+      "id": "v29661",
+      "titles": {
+        "en": "Virche Evermore: -ErroR:salvation-",
+        "zh": "终远的威尔修 -ErroR:salvation-",
+        "ja": "終遠のヴィルシュ -ErroR:salvation-"
+      },
+      "descriptions": {
+        "en": "Arpéchéle is a small island country surrounded by the sea and black flowers of misfortune called Lycoris Noirges. The people of this country are born with a curse that leads to death at the age of 23. The people of the country lament and oppose their short-lived fates. After many years of research, a system was created—a “memory download” system. Once the body dies, the memories may live on in a clone known as a “Reliver”. These Relivers continue to resist their fate for another 23 years. The story follows a girl known as “Death,” as everyone she is involved with dies before the curse can consume them. Just as she is about to end her own life in regret, a mysterious man who calls himself the “Watchman of Death” appears before her. Under the watchman’s guidance, the girl will approach the truth of the various mysteries of death that haunts this country, whether she likes it or not… Without knowing that despair is the fate that awaits those who are loved by Death. [From Aksys Games]",
+        "zh": "西ヨーロッパの小国・アルペシェール。 四方を海と黒き災いの花――リコリス・ノワージュに囲まれたこの国の人間は 23歳までに死に至る《死の呪い》を抱いて生まれてくる。 万人に等しく死が降り注ぐアルペシェールは、いつしかこう呼ばれるようになった。 ――死神に魅入られた国、と。 国民は短命である自分たちの運命を嘆き、抗う。 そして長年にわたる研究の末、あるシステムを創り出した。 23歳までに死を迎える肉体を捨て、記憶だけを生き永らえさせる――“記憶のダウンロード”。 “記憶のダウンロード”によって永続的に生き続ける人々は“リライバー”と呼ばれ、 短命に抗い続けている。 時を同じくして、関わる者全てが不幸になることから《死神》と呼ばれる少女がいた。 人生を嘆いた少女が自ら生を終わらせようとした瞬間、 目の前に《死の番人》だと名乗る謎の男が現れる。 番人の導きにより、少女は否応なしにこの国に巣食う《様々な死の謎》に近づくこととなる。 死神に魅入られた者の運命が行きつく先は――絶望だと知らずに。"
+      },
+      "year": 2021,
+      "released": "2021-10-07",
+      "image": "https://t.vndb.org/cv/55/88055.jpg",
+      "lengthMinutes": 3300,
+      "genres": [
+        "乙女向",
+        "乙女ゲーム",
+        "中山智美"
+      ],
+      "platforms": [
+        "win",
+        "ios",
+        "and",
+        "swi"
+      ],
+      "overallScore": 76.0067225527312,
+      "sources": {
+        "vndb": {
+          "score": 82.1,
+          "votes": 677,
+          "href": "https://vndb.org/v29661"
+        },
+        "bangumi": {
+          "score": 52,
+          "votes": 192,
+          "href": "https://bgm.tv/subject/320129"
+        },
+        "egs": {
+          "score": 84.73,
+          "votes": 37,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=30590"
+        }
+      }
+    },
+    {
       "rank": 194,
       "id": "v26530",
       "titles": {
@@ -8909,11 +8909,11 @@
         "win",
         "dvd"
       ],
-      "overallScore": 75.93662342926632,
+      "overallScore": 75.94080599432968,
       "sources": {
         "vndb": {
           "score": 81.1,
-          "votes": 634,
+          "votes": 635,
           "href": "https://vndb.org/v26530"
         },
         "bangumi": {
@@ -8999,16 +8999,16 @@
         "mac",
         "swi"
       ],
-      "overallScore": 75.6975561325798,
+      "overallScore": 75.69758889058446,
       "sources": {
         "vndb": {
           "score": 81.2,
-          "votes": 1226,
+          "votes": 1228,
           "href": "https://vndb.org/v50283"
         },
         "bangumi": {
           "score": 73,
-          "votes": 4610,
+          "votes": 4614,
           "href": "https://bgm.tv/subject/488392"
         },
         "egs": {
@@ -9042,11 +9042,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 75.57978169605374,
+      "overallScore": 75.63832355406538,
       "sources": {
         "vndb": {
-          "score": 79.4,
-          "votes": 310,
+          "score": 79.5,
+          "votes": 311,
           "href": "https://vndb.org/v26206"
         },
         "bangumi": {
@@ -9066,7 +9066,7 @@
       "id": "v56650",
       "titles": {
         "en": "LimeLight Lemonade Jam",
-        "zh": "聚光灯下的青柠恋曲",
+        "zh": "橘光柠水随想曲",
         "ja": "ライムライト・レモネードジャム"
       },
       "descriptions": {
@@ -9086,16 +9086,16 @@
         "win",
         "web"
       ],
-      "overallScore": 75.55867543252594,
+      "overallScore": 75.57495922598478,
       "sources": {
         "vndb": {
-          "score": 80.8,
-          "votes": 679,
+          "score": 80.9,
+          "votes": 681,
           "href": "https://vndb.org/v56650"
         },
         "bangumi": {
           "score": 69,
-          "votes": 1819,
+          "votes": 1822,
           "href": "https://bgm.tv/subject/561526"
         },
         "egs": {
@@ -9120,7 +9120,7 @@
       "year": 2014,
       "released": "2014-07-25",
       "image": "https://t.vndb.org/cv/31/101331.jpg",
-      "lengthMinutes": 3570,
+      "lengthMinutes": 3540,
       "genres": [
         "FAVORITE",
         "司田カズヒロ",
@@ -9130,7 +9130,7 @@
         "win",
         "psv"
       ],
-      "overallScore": 75.54607434270173,
+      "overallScore": 75.54442631865145,
       "sources": {
         "vndb": {
           "score": 81,
@@ -9139,7 +9139,7 @@
         },
         "bangumi": {
           "score": 71,
-          "votes": 1154,
+          "votes": 1155,
           "href": "https://bgm.tv/subject/78544"
         },
         "egs": {
@@ -9174,7 +9174,7 @@
         "win",
         "swi"
       ],
-      "overallScore": 75.51485475792987,
+      "overallScore": 75.5131706503613,
       "sources": {
         "vndb": {
           "score": 80.4,
@@ -9183,7 +9183,7 @@
         },
         "bangumi": {
           "score": 74,
-          "votes": 3552,
+          "votes": 3557,
           "href": "https://bgm.tv/subject/304421"
         },
         "egs": {
@@ -9217,11 +9217,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 75.17982122036534,
+      "overallScore": 75.18122766122767,
       "sources": {
         "vndb": {
           "score": 78.8,
-          "votes": 889,
+          "votes": 890,
           "href": "https://vndb.org/v8424"
         },
         "bangumi": {
@@ -9262,16 +9262,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 75.12588699080158,
+      "overallScore": 75.12979002624672,
       "sources": {
         "vndb": {
           "score": 84.2,
-          "votes": 388,
+          "votes": 389,
           "href": "https://vndb.org/v25635"
         },
         "bangumi": {
           "score": 72,
-          "votes": 1128,
+          "votes": 1129,
           "href": "https://bgm.tv/subject/305045"
         },
         "egs": {
@@ -9286,7 +9286,7 @@
       "id": "v50215",
       "titles": {
         "en": "AMAKANO 3",
-        "zh": "甜蜜女友 3",
+        "zh": "甜蜜女友3",
         "ja": "アマカノ３"
       },
       "descriptions": {
@@ -9306,7 +9306,7 @@
         "win",
         "and"
       ],
-      "overallScore": 75.11931358169551,
+      "overallScore": 75.1133138001758,
       "sources": {
         "vndb": {
           "score": 81.9,
@@ -9315,7 +9315,7 @@
         },
         "bangumi": {
           "score": 70,
-          "votes": 975,
+          "votes": 977,
           "href": "https://bgm.tv/subject/518278"
         },
         "egs": {
@@ -9350,7 +9350,7 @@
         "win",
         "web"
       ],
-      "overallScore": 74.73544482463645,
+      "overallScore": 74.73384779820437,
       "sources": {
         "vndb": {
           "score": 80.2,
@@ -9359,7 +9359,7 @@
         },
         "bangumi": {
           "score": 71,
-          "votes": 1467,
+          "votes": 1468,
           "href": "https://bgm.tv/subject/331474"
         },
         "egs": {
@@ -9394,16 +9394,16 @@
         "win",
         "swi"
       ],
-      "overallScore": 74.14093023255813,
+      "overallScore": 74.13856090651558,
       "sources": {
         "vndb": {
           "score": 79.1,
-          "votes": 1129,
+          "votes": 1130,
           "href": "https://vndb.org/v54897"
         },
         "bangumi": {
           "score": 65,
-          "votes": 613,
+          "votes": 614,
           "href": "https://bgm.tv/subject/499874"
         },
         "egs": {
@@ -9464,7 +9464,7 @@
       "id": "v17147",
       "titles": {
         "en": "Akai Hitomi ni Utsuru Sekai",
-        "zh": "映入红瞳的世界",
+        "zh": "你朱眸里的五彩世界",
         "ja": "紅い瞳に映るセカイ"
       },
       "descriptions": {
@@ -9474,7 +9474,7 @@
       "year": 2015,
       "released": "2015-07-24",
       "image": "https://t.vndb.org/cv/65/103065.jpg",
-      "lengthMinutes": 575,
+      "lengthMinutes": 572,
       "genres": [
         "FAVORITE",
         "漆原雪人",
@@ -9503,7 +9503,7 @@
       }
     }
   ],
-  "updatedAt": "2026-09-19T12:29:04.998Z",
+  "updatedAt": "2026-09-20T13:02:23.383Z",
   "source": "github-actions-static",
   "catalogSize": 207,
   "calculation": {
