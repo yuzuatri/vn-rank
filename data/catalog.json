@@ -32,7 +32,7 @@
       "vndbScore": 90.4,
       "vndbVotes": 1223,
       "bangumiScore": 93,
-      "bangumiVotes": 3650,
+      "bangumiVotes": 3651,
       "egsScore": 93.48,
       "egsVotes": 1151,
       "egsMedian": 99
@@ -69,7 +69,7 @@
         ]
       },
       "vndbScore": 90.2,
-      "vndbVotes": 4576,
+      "vndbVotes": 4578,
       "bangumiScore": 91,
       "bangumiVotes": 7171,
       "egsScore": 89.63,
@@ -116,9 +116,9 @@
         ]
       },
       "vndbScore": 90.2,
-      "vndbVotes": 16924,
+      "vndbVotes": 16929,
       "bangumiScore": 89,
-      "bangumiVotes": 8554,
+      "bangumiVotes": 8558,
       "egsScore": 90.54,
       "egsVotes": 503,
       "egsMedian": 93
@@ -158,9 +158,9 @@
         ]
       },
       "vndbScore": 89.9,
-      "vndbVotes": 11372,
+      "vndbVotes": 11373,
       "bangumiScore": 88,
-      "bangumiVotes": 4074,
+      "bangumiVotes": 4076,
       "egsScore": 89.42,
       "egsVotes": 3672,
       "egsMedian": 94
@@ -202,7 +202,7 @@
         ]
       },
       "vndbScore": 89.9,
-      "vndbVotes": 11025,
+      "vndbVotes": 11027,
       "bangumiScore": 86,
       "bangumiVotes": 1499,
       "egsScore": 73.5,
@@ -237,10 +237,10 @@
           "win"
         ]
       },
-      "vndbScore": 90.2,
-      "vndbVotes": 6133,
+      "vndbScore": 90.1,
+      "vndbVotes": 6137,
       "bangumiScore": 86,
-      "bangumiVotes": 4454,
+      "bangumiVotes": 4455,
       "egsScore": 88.85,
       "egsVotes": 3009,
       "egsMedian": 90
@@ -284,9 +284,9 @@
         ]
       },
       "vndbScore": 84.5,
-      "vndbVotes": 8762,
+      "vndbVotes": 8763,
       "bangumiScore": 91,
-      "bangumiVotes": 9886,
+      "bangumiVotes": 9891,
       "egsScore": 89.38,
       "egsVotes": 478,
       "egsMedian": 91
@@ -320,7 +320,7 @@
         ]
       },
       "vndbScore": 86.7,
-      "vndbVotes": 2721,
+      "vndbVotes": 2722,
       "bangumiScore": 88,
       "bangumiVotes": 3252,
       "egsScore": 88.88,
@@ -358,7 +358,7 @@
       "vndbScore": 88.9,
       "vndbVotes": 172,
       "bangumiScore": 88,
-      "bangumiVotes": 1062,
+      "bangumiVotes": 1064,
       "egsScore": 84.69,
       "egsVotes": 54,
       "egsMedian": 89
@@ -381,7 +381,7 @@
         "released": "2004-04-28",
         "year": 2004,
         "image": "https://t.vndb.org/cv/95/75895.jpg",
-        "lengthMinutes": 4680,
+        "lengthMinutes": 4686,
         "genres": [
           "key",
           "CLANNAD",
@@ -403,7 +403,7 @@
         ]
       },
       "vndbScore": 87.2,
-      "vndbVotes": 11442,
+      "vndbVotes": 11443,
       "bangumiScore": 89,
       "bangumiVotes": 6473,
       "egsScore": 87.25,
@@ -428,7 +428,7 @@
         "released": "2004-12-30",
         "year": 2004,
         "image": "https://t.vndb.org/cv/92/76392.jpg",
-        "lengthMinutes": 3908,
+        "lengthMinutes": 3905,
         "genres": [
           "竜騎士07",
           "寒蝉鸣泣之时",
@@ -450,12 +450,49 @@
         ]
       },
       "vndbScore": 88.4,
-      "vndbVotes": 7995,
+      "vndbVotes": 7997,
       "bangumiScore": 84,
       "bangumiVotes": 879,
       "egsScore": 83.5,
       "egsVotes": 385,
       "egsMedian": 85
+    },
+    {
+      "name": "サクラノ詩－櫻の森の上を舞う－",
+      "vndbId": "v562",
+      "bangumiId": "22423",
+      "egsId": "4529",
+      "metadata": {
+        "titles": {
+          "en": "Sakura no Uta -To Dance Over the Cherry Blossoms-",
+          "zh": "樱之诗 - 在樱花之森上飞舞",
+          "ja": "サクラノ詩－櫻の森の上を舞う－"
+        },
+        "descriptions": {
+          "en": "ーWhat comes after happiness? It is springtime, and Naoya Kusanagi has just been orphaned by the death of his father (the world-famous painter). He moves in with his best friend Kei’s family, where he grows closer to his homeroom teacher Ai and to Kei’s younger sister, the actress Shizuku Natsume. As the new semester arrives, his childhood friend Rin Misakura, who had transferred to a different school long ago, returns to his life as well. A gust stirs up a swirl of sakura petals—with a promised reunion in its wake. Feelings grow fonder to time’s constant drumbeat, and the torrent of emotion begins to take shape—but where will it lead? Sakura no Uta is a story of those whose paths stop short—and of those who walk on. [From Shiravune] A complete re-imagining of the stalled Sakura no Uta project by SCA-Ji, the writer of Subarashiki Hibi.",
+          "zh": "「幸福の先への物語」 春。 世界的な美術家である父の死により、天涯孤独となった主人公・草薙直哉は、親友である夏目圭の家へと世話になることに。 そこには、直哉が通う学園の担任である夏目藍、圭の妹で女優の夏目雫との交流が待っていた。 そして、新学期の到来と共に、遠い昔に転校した幼なじみ・御桜稟が、再び直哉の前に現れる。 風に巻く桜の花びらの向こう、それは、約束されていた再会の如く――。 時の刻みが想いを重ね、感情の奔流が形になるとき、そこで出会う光景とは? 物語の先にある幸福。 その先にある物語の形――。 サクラノ詩は、立ち止まる人とその先を歩き続ける人々の物語。"
+        },
+        "released": "2015-10-23",
+        "year": 2015,
+        "image": "https://t.vndb.org/cv/63/79663.jpg",
+        "lengthMinutes": 3900,
+        "genres": [
+          "SCA-自",
+          "枕",
+          "樱之诗"
+        ],
+        "platforms": [
+          "win",
+          "and"
+        ]
+      },
+      "vndbScore": 87.4,
+      "vndbVotes": 2561,
+      "bangumiScore": 87,
+      "bangumiVotes": 6729,
+      "egsScore": 88.52,
+      "egsVotes": 2670,
+      "egsMedian": 90
     },
     {
       "name": "うみねこのなく頃に",
@@ -498,50 +535,13 @@
           "web"
         ]
       },
-      "vndbScore": 88.7,
-      "vndbVotes": 13906,
+      "vndbScore": 88.6,
+      "vndbVotes": 13910,
       "bangumiScore": 84,
       "bangumiVotes": 2534,
       "egsScore": 76.11,
       "egsVotes": 361,
       "egsMedian": 78
-    },
-    {
-      "name": "サクラノ詩－櫻の森の上を舞う－",
-      "vndbId": "v562",
-      "bangumiId": "22423",
-      "egsId": "4529",
-      "metadata": {
-        "titles": {
-          "en": "Sakura no Uta -To Dance Over the Cherry Blossoms-",
-          "zh": "樱之诗 - 在樱花之森上飞舞",
-          "ja": "サクラノ詩－櫻の森の上を舞う－"
-        },
-        "descriptions": {
-          "en": "ーWhat comes after happiness? It is springtime, and Naoya Kusanagi has just been orphaned by the death of his father (the world-famous painter). He moves in with his best friend Kei’s family, where he grows closer to his homeroom teacher Ai and to Kei’s younger sister, the actress Shizuku Natsume. As the new semester arrives, his childhood friend Rin Misakura, who had transferred to a different school long ago, returns to his life as well. A gust stirs up a swirl of sakura petals—with a promised reunion in its wake. Feelings grow fonder to time’s constant drumbeat, and the torrent of emotion begins to take shape—but where will it lead? Sakura no Uta is a story of those whose paths stop short—and of those who walk on. [From Shiravune] A complete re-imagining of the stalled Sakura no Uta project by SCA-Ji, the writer of Subarashiki Hibi.",
-          "zh": "「幸福の先への物語」 春。 世界的な美術家である父の死により、天涯孤独となった主人公・草薙直哉は、親友である夏目圭の家へと世話になることに。 そこには、直哉が通う学園の担任である夏目藍、圭の妹で女優の夏目雫との交流が待っていた。 そして、新学期の到来と共に、遠い昔に転校した幼なじみ・御桜稟が、再び直哉の前に現れる。 風に巻く桜の花びらの向こう、それは、約束されていた再会の如く――。 時の刻みが想いを重ね、感情の奔流が形になるとき、そこで出会う光景とは? 物語の先にある幸福。 その先にある物語の形――。 サクラノ詩は、立ち止まる人とその先を歩き続ける人々の物語。"
-        },
-        "released": "2015-10-23",
-        "year": 2015,
-        "image": "https://t.vndb.org/cv/63/79663.jpg",
-        "lengthMinutes": 3900,
-        "genres": [
-          "SCA-自",
-          "枕",
-          "樱之诗"
-        ],
-        "platforms": [
-          "win",
-          "and"
-        ]
-      },
-      "vndbScore": 87.4,
-      "vndbVotes": 2558,
-      "bangumiScore": 87,
-      "bangumiVotes": 6729,
-      "egsScore": 88.52,
-      "egsVotes": 2670,
-      "egsMedian": 90
     },
     {
       "name": "大逆転裁判2 -成歩堂龍ノ介の覺悟-",
@@ -577,7 +577,7 @@
         ]
       },
       "vndbScore": 87.3,
-      "vndbVotes": 1679,
+      "vndbVotes": 1680,
       "bangumiScore": 87,
       "bangumiVotes": 1696,
       "egsScore": 86.92,
@@ -619,7 +619,7 @@
         ]
       },
       "vndbScore": 89.1,
-      "vndbVotes": 2955,
+      "vndbVotes": 2956,
       "bangumiScore": 82,
       "bangumiVotes": 1552,
       "egsScore": 89.41,
@@ -644,7 +644,7 @@
         "released": "2010-03-26",
         "year": 2010,
         "image": "https://t.vndb.org/cv/17/90017.jpg",
-        "lengthMinutes": 3100,
+        "lengthMinutes": 3102,
         "genres": [
           "电波",
           "哲学",
@@ -659,9 +659,9 @@
         ]
       },
       "vndbScore": 86.8,
-      "vndbVotes": 12045,
+      "vndbVotes": 12053,
       "bangumiScore": 87,
-      "bangumiVotes": 8573,
+      "bangumiVotes": 8576,
       "egsScore": 86.59,
       "egsVotes": 3287,
       "egsMedian": 90
@@ -701,9 +701,9 @@
         ]
       },
       "vndbScore": 87.9,
-      "vndbVotes": 7632,
+      "vndbVotes": 7634,
       "bangumiScore": 84,
-      "bangumiVotes": 3069,
+      "bangumiVotes": 3072,
       "egsScore": 86.61,
       "egsVotes": 467,
       "egsMedian": 89
@@ -738,9 +738,9 @@
         ]
       },
       "vndbScore": 86.7,
-      "vndbVotes": 1915,
+      "vndbVotes": 1916,
       "bangumiScore": 86,
-      "bangumiVotes": 3839,
+      "bangumiVotes": 3842,
       "egsScore": 88.6,
       "egsVotes": 1024,
       "egsMedian": 90
@@ -784,9 +784,9 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 6571,
+      "vndbVotes": 6573,
       "bangumiScore": 88,
-      "bangumiVotes": 4331,
+      "bangumiVotes": 4332,
       "egsScore": 84.44,
       "egsVotes": 62,
       "egsMedian": 85
@@ -824,9 +824,9 @@
         ]
       },
       "vndbScore": 82.5,
-      "vndbVotes": 3260,
+      "vndbVotes": 3261,
       "bangumiScore": 89,
-      "bangumiVotes": 4649,
+      "bangumiVotes": 4650,
       "egsScore": 79.98,
       "egsVotes": 255,
       "egsMedian": 80
@@ -862,7 +862,7 @@
         ]
       },
       "vndbScore": 83.8,
-      "vndbVotes": 1107,
+      "vndbVotes": 1108,
       "bangumiScore": 84,
       "bangumiVotes": 488,
       "egsScore": 87.28,
@@ -909,9 +909,9 @@
         ]
       },
       "vndbScore": 86.3,
-      "vndbVotes": 19283,
+      "vndbVotes": 19286,
       "bangumiScore": 83,
-      "bangumiVotes": 5561,
+      "bangumiVotes": 5563,
       "egsScore": 86.86,
       "egsVotes": 4860,
       "egsMedian": 90
@@ -946,7 +946,7 @@
         ]
       },
       "vndbScore": 88.2,
-      "vndbVotes": 2976,
+      "vndbVotes": 2978,
       "bangumiScore": 82,
       "bangumiVotes": 1977,
       "egsScore": 86.74,
@@ -984,9 +984,9 @@
         ]
       },
       "vndbScore": 86.3,
-      "vndbVotes": 5532,
+      "vndbVotes": 5534,
       "bangumiScore": 86,
-      "bangumiVotes": 7147,
+      "bangumiVotes": 7149,
       "egsScore": 82.05,
       "egsVotes": 1076,
       "egsMedian": 85
@@ -1035,7 +1035,7 @@
       "vndbScore": 86.1,
       "vndbVotes": 11300,
       "bangumiScore": 83,
-      "bangumiVotes": 1263,
+      "bangumiVotes": 1264,
       "egsScore": 83.99,
       "egsVotes": 1151,
       "egsMedian": 85
@@ -1075,7 +1075,7 @@
       "vndbScore": 87.3,
       "vndbVotes": 1903,
       "bangumiScore": 83,
-      "bangumiVotes": 2077,
+      "bangumiVotes": 2078,
       "egsScore": 87.25,
       "egsVotes": 624,
       "egsMedian": 88
@@ -1098,7 +1098,7 @@
         "released": "2007-07-27",
         "year": 2007,
         "image": "https://t.vndb.org/cv/12/75612.jpg",
-        "lengthMinutes": 4968,
+        "lengthMinutes": 4974,
         "genres": [
           "key",
           "麻枝准",
@@ -1115,9 +1115,9 @@
         ]
       },
       "vndbScore": 86.3,
-      "vndbVotes": 9296,
+      "vndbVotes": 9299,
       "bangumiScore": 85,
-      "bangumiVotes": 2843,
+      "bangumiVotes": 2844,
       "egsScore": 82.97,
       "egsVotes": 1775,
       "egsMedian": 85
@@ -1262,10 +1262,10 @@
           "swi"
         ]
       },
-      "vndbScore": 85.5,
-      "vndbVotes": 2674,
+      "vndbScore": 85.6,
+      "vndbVotes": 2675,
       "bangumiScore": 85,
-      "bangumiVotes": 1420,
+      "bangumiVotes": 1421,
       "egsScore": 82.94,
       "egsVotes": 143,
       "egsMedian": 85
@@ -1300,9 +1300,9 @@
         ]
       },
       "vndbScore": 83.7,
-      "vndbVotes": 6037,
+      "vndbVotes": 6042,
       "bangumiScore": 83,
-      "bangumiVotes": 2826,
+      "bangumiVotes": 2827,
       "egsScore": 88.21,
       "egsVotes": 3171,
       "egsMedian": 90
@@ -1337,7 +1337,7 @@
         ]
       },
       "vndbScore": 88.7,
-      "vndbVotes": 398,
+      "vndbVotes": 399,
       "bangumiScore": 63,
       "bangumiVotes": 73,
       "egsScore": 85.7,
@@ -1377,7 +1377,7 @@
       "vndbScore": 82.3,
       "vndbVotes": 690,
       "bangumiScore": 81,
-      "bangumiVotes": 505,
+      "bangumiVotes": 506,
       "egsScore": 86.22,
       "egsVotes": 1758,
       "egsMedian": 88
@@ -1411,9 +1411,9 @@
         ]
       },
       "vndbScore": 86.7,
-      "vndbVotes": 211,
+      "vndbVotes": 213,
       "bangumiScore": 82,
-      "bangumiVotes": 461,
+      "bangumiVotes": 463,
       "egsScore": 87.28,
       "egsVotes": 234,
       "egsMedian": 88
@@ -1493,9 +1493,9 @@
         ]
       },
       "vndbScore": 85.3,
-      "vndbVotes": 8440,
+      "vndbVotes": 8441,
       "bangumiScore": 86,
-      "bangumiVotes": 5317,
+      "bangumiVotes": 5318,
       "egsScore": 80.21,
       "egsVotes": 1859,
       "egsMedian": 82
@@ -1529,9 +1529,9 @@
         ]
       },
       "vndbScore": 81.5,
-      "vndbVotes": 3172,
+      "vndbVotes": 3173,
       "bangumiScore": 84,
-      "bangumiVotes": 3168,
+      "bangumiVotes": 3169,
       "egsScore": 87.5,
       "egsVotes": 2692,
       "egsMedian": 90
@@ -1608,7 +1608,7 @@
           "psv"
         ]
       },
-      "vndbScore": 87,
+      "vndbScore": 87.1,
       "vndbVotes": 1094,
       "bangumiScore": 81,
       "bangumiVotes": 3526,
@@ -1651,7 +1651,7 @@
       "vndbScore": 84.7,
       "vndbVotes": 3107,
       "bangumiScore": 83,
-      "bangumiVotes": 8104,
+      "bangumiVotes": 8107,
       "egsScore": 86.36,
       "egsVotes": 3637,
       "egsMedian": 88
@@ -1685,7 +1685,7 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 1476,
+      "vndbVotes": 1477,
       "bangumiScore": 65,
       "bangumiVotes": 86,
       "egsScore": 82.58,
@@ -1723,9 +1723,9 @@
         ]
       },
       "vndbScore": 86.4,
-      "vndbVotes": 637,
+      "vndbVotes": 639,
       "bangumiScore": 83,
-      "bangumiVotes": 1078,
+      "bangumiVotes": 1079,
       "egsScore": 84.22,
       "egsVotes": 2893,
       "egsMedian": 86
@@ -1761,7 +1761,7 @@
       "vndbScore": 84.4,
       "vndbVotes": 1614,
       "bangumiScore": 81,
-      "bangumiVotes": 1875,
+      "bangumiVotes": 1876,
       "egsScore": 89,
       "egsVotes": 685,
       "egsMedian": 90
@@ -1801,9 +1801,9 @@
         ]
       },
       "vndbScore": 85,
-      "vndbVotes": 1941,
+      "vndbVotes": 1942,
       "bangumiScore": 82,
-      "bangumiVotes": 1021,
+      "bangumiVotes": 1022,
       "egsScore": 85.11,
       "egsVotes": 28,
       "egsMedian": 85
@@ -1839,9 +1839,9 @@
         ]
       },
       "vndbScore": 85.3,
-      "vndbVotes": 875,
+      "vndbVotes": 876,
       "bangumiScore": 82,
-      "bangumiVotes": 2726,
+      "bangumiVotes": 2728,
       "egsScore": 86.3,
       "egsVotes": 1147,
       "egsMedian": 90
@@ -1877,9 +1877,9 @@
         ]
       },
       "vndbScore": 81.4,
-      "vndbVotes": 2421,
+      "vndbVotes": 2422,
       "bangumiScore": 85,
-      "bangumiVotes": 2959,
+      "bangumiVotes": 2960,
       "egsScore": 86.72,
       "egsVotes": 666,
       "egsMedian": 89
@@ -1921,9 +1921,9 @@
         ]
       },
       "vndbScore": 83.7,
-      "vndbVotes": 5145,
+      "vndbVotes": 5146,
       "bangumiScore": 84,
-      "bangumiVotes": 4683,
+      "bangumiVotes": 4685,
       "egsScore": 84.77,
       "egsVotes": 26,
       "egsMedian": 89
@@ -1961,7 +1961,7 @@
       "vndbScore": 87.1,
       "vndbVotes": 522,
       "bangumiScore": 79,
-      "bangumiVotes": 331,
+      "bangumiVotes": 332,
       "egsScore": 79.2,
       "egsVotes": 15,
       "egsMedian": 80
@@ -1996,9 +1996,9 @@
         ]
       },
       "vndbScore": 83.6,
-      "vndbVotes": 1618,
+      "vndbVotes": 1620,
       "bangumiScore": 81,
-      "bangumiVotes": 2763,
+      "bangumiVotes": 2766,
       "egsScore": 87.65,
       "egsVotes": 1418,
       "egsMedian": 89
@@ -2036,9 +2036,9 @@
         ]
       },
       "vndbScore": 84.6,
-      "vndbVotes": 4765,
+      "vndbVotes": 4767,
       "bangumiScore": 82,
-      "bangumiVotes": 5853,
+      "bangumiVotes": 5856,
       "egsScore": 85.86,
       "egsVotes": 1266,
       "egsMedian": 87
@@ -2074,7 +2074,7 @@
       "vndbScore": 83.4,
       "vndbVotes": 575,
       "bangumiScore": 82,
-      "bangumiVotes": 693,
+      "bangumiVotes": 694,
       "egsScore": 84.26,
       "egsVotes": 1025,
       "egsMedian": 85
@@ -2112,7 +2112,7 @@
         ]
       },
       "vndbScore": 81.4,
-      "vndbVotes": 6874,
+      "vndbVotes": 6873,
       "bangumiScore": 81,
       "bangumiVotes": 3358,
       "egsScore": 85.93,
@@ -2153,7 +2153,7 @@
       "vndbScore": 80.4,
       "vndbVotes": 916,
       "bangumiScore": 85,
-      "bangumiVotes": 844,
+      "bangumiVotes": 848,
       "egsScore": 84.84,
       "egsVotes": 612,
       "egsMedian": 85
@@ -2202,7 +2202,7 @@
       "vndbScore": 78.8,
       "vndbVotes": 4867,
       "bangumiScore": 85,
-      "bangumiVotes": 4284,
+      "bangumiVotes": 4288,
       "egsScore": 85.51,
       "egsVotes": 4596,
       "egsMedian": 90
@@ -2275,9 +2275,9 @@
         ]
       },
       "vndbScore": 85.2,
-      "vndbVotes": 1894,
+      "vndbVotes": 1897,
       "bangumiScore": 82,
-      "bangumiVotes": 3102,
+      "bangumiVotes": 3104,
       "egsScore": 83.59,
       "egsVotes": 1000,
       "egsMedian": 85
@@ -2347,9 +2347,9 @@
         ]
       },
       "vndbScore": 83.3,
-      "vndbVotes": 1475,
+      "vndbVotes": 1479,
       "bangumiScore": 82,
-      "bangumiVotes": 2252,
+      "bangumiVotes": 2253,
       "egsScore": 83.82,
       "egsVotes": 1142,
       "egsMedian": 85
@@ -2387,9 +2387,9 @@
         ]
       },
       "vndbScore": 83.5,
-      "vndbVotes": 12923,
+      "vndbVotes": 12924,
       "bangumiScore": 77,
-      "bangumiVotes": 1508,
+      "bangumiVotes": 1509,
       "egsScore": 83.19,
       "egsVotes": 3264,
       "egsMedian": 85
@@ -2424,9 +2424,9 @@
         ]
       },
       "vndbScore": 84.9,
-      "vndbVotes": 2248,
+      "vndbVotes": 2249,
       "bangumiScore": 74,
-      "bangumiVotes": 1861,
+      "bangumiVotes": 1862,
       "egsScore": 87.93,
       "egsVotes": 1456,
       "egsMedian": 90
@@ -2453,7 +2453,7 @@
         "genres": [
           "神CV阵",
           "欢乐日常",
-          "真剑"
+          "タカヒロ"
         ],
         "platforms": [
           "win",
@@ -2461,7 +2461,7 @@
         ]
       },
       "vndbScore": 83.4,
-      "vndbVotes": 9423,
+      "vndbVotes": 9424,
       "bangumiScore": 79,
       "bangumiVotes": 652,
       "egsScore": 81.72,
@@ -2498,9 +2498,9 @@
         ]
       },
       "vndbScore": 81.1,
-      "vndbVotes": 986,
+      "vndbVotes": 987,
       "bangumiScore": 84,
-      "bangumiVotes": 1361,
+      "bangumiVotes": 1362,
       "egsScore": 79.83,
       "egsVotes": 92,
       "egsMedian": 81
@@ -2540,7 +2540,7 @@
         ]
       },
       "vndbScore": 79.2,
-      "vndbVotes": 898,
+      "vndbVotes": 899,
       "bangumiScore": 81,
       "bangumiVotes": 1190,
       "egsScore": 85.19,
@@ -2604,7 +2604,7 @@
         "released": "2000-08-11",
         "year": 2000,
         "image": "https://t.vndb.org/cv/48/90048.jpg",
-        "lengthMinutes": 2589,
+        "lengthMinutes": 2593,
         "genres": [
           "Type-Moon",
           "奈须きのこ",
@@ -2625,9 +2625,9 @@
         ]
       },
       "vndbScore": 81.8,
-      "vndbVotes": 11578,
+      "vndbVotes": 11581,
       "bangumiScore": 82,
-      "bangumiVotes": 2591,
+      "bangumiVotes": 2593,
       "egsScore": 83.7,
       "egsVotes": 2369,
       "egsMedian": 85
@@ -2667,7 +2667,7 @@
         ]
       },
       "vndbScore": 83.2,
-      "vndbVotes": 3140,
+      "vndbVotes": 3141,
       "bangumiScore": 80,
       "bangumiVotes": 1585,
       "egsScore": 82.84,
@@ -2710,9 +2710,9 @@
         ]
       },
       "vndbScore": 82.8,
-      "vndbVotes": 9089,
+      "vndbVotes": 9092,
       "bangumiScore": 80,
-      "bangumiVotes": 2441,
+      "bangumiVotes": 2442,
       "egsScore": 80.41,
       "egsVotes": 125,
       "egsMedian": 80
@@ -2750,7 +2750,7 @@
       "vndbScore": 82.1,
       "vndbVotes": 12126,
       "bangumiScore": 78,
-      "bangumiVotes": 4589,
+      "bangumiVotes": 4591,
       "egsScore": 84.66,
       "egsVotes": 5285,
       "egsMedian": 86
@@ -2821,9 +2821,9 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 287,
+      "vndbVotes": 288,
       "bangumiScore": 84,
-      "bangumiVotes": 462,
+      "bangumiVotes": 463,
       "egsScore": 80.36,
       "egsVotes": 754,
       "egsMedian": 82
@@ -2859,7 +2859,7 @@
       "vndbScore": 79.1,
       "vndbVotes": 179,
       "bangumiScore": 87,
-      "bangumiVotes": 1759,
+      "bangumiVotes": 1761,
       "egsScore": 76.6,
       "egsVotes": 1013,
       "egsMedian": 80
@@ -2941,46 +2941,6 @@
       "egsMedian": 82
     },
     {
-      "name": "FLOWERS -Le volume sur été-",
-      "vndbId": "v15395",
-      "bangumiId": "119895",
-      "egsId": "21122",
-      "metadata": {
-        "titles": {
-          "en": "Flowers -Le volume sur ete-",
-          "zh": "FLOWERS 夏篇",
-          "ja": "FLOWERS -Le volume sur été-"
-        },
-        "descriptions": {
-          "en": "Erika/Chidori: \"Have you ever thought of wanting to do something for the one you love?\" This is the all-age sequel to FLOWERS -Le volume sur printemps-. In the season of first meetings, a girl with a wounded heart, Suou, found a friend and lover who would accept her. However, this friend and lover left the school without telling her the reason at the end of spring. Suou was in denial about her loss, and fellow bookworm Erika was gravely worried and looked for a way to heal Suou’s broken heart. With the early arrival of summer, a girl named Chidori transferred into the school. She met Erika by accident when Erika was coming back to the dorm and told Erika that she was a coward for stalking her. It was the worst first meeting for the two who would end up becoming each other's \"Amitié.\" [From Hau~ Omochikaeri!]",
-          "zh": "心有创伤的少女，白羽苏芳。 在春季与友人相识、相知，并与自身所爱结为连理。 然而，匂坂真由理，这位与她相互认可的恋人却毫无征兆地离她而去。 她极力隐藏自己的失落，而这一切被八重垣艾莉卡看在眼里，为之心痛。 难道就没有办法治愈她吗？冥思苦想之际，学院迎来初夏，一名少女转学至此。 少女名为——考崎千鸟。 经历了最糟糕的邂逅，少女对八重垣艾莉卡说： “你是个卑鄙的人。” 夏季的学院中又发生了几桩离奇事件。 八重垣艾莉卡将与amitié考崎千鸟一同，向这些谜团发起挑战。"
-        },
-        "released": "2015-04-17",
-        "year": 2015,
-        "image": "https://t.vndb.org/cv/80/77880.jpg",
-        "lengthMinutes": 960,
-        "genres": [
-          "百合",
-          "InnocentGrey",
-          "杉菜水姫"
-        ],
-        "platforms": [
-          "win",
-          "psp",
-          "ps4",
-          "psv",
-          "swi"
-        ]
-      },
-      "vndbScore": 83.2,
-      "vndbVotes": 1135,
-      "bangumiScore": 81,
-      "bangumiVotes": 1297,
-      "egsScore": 81.78,
-      "egsVotes": 205,
-      "egsMedian": 82
-    },
-    {
       "name": "ときめきメモリアル Girl's Side 3rd Story",
       "vndbId": "v2956",
       "bangumiId": "8407",
@@ -3013,7 +2973,7 @@
       "vndbScore": 81.9,
       "vndbVotes": 395,
       "bangumiScore": 84,
-      "bangumiVotes": 105,
+      "bangumiVotes": 107,
       "egsScore": 65.43,
       "egsVotes": 7,
       "egsMedian": 70
@@ -3058,9 +3018,9 @@
         ]
       },
       "vndbScore": 80.8,
-      "vndbVotes": 13240,
+      "vndbVotes": 13245,
       "bangumiScore": 85,
-      "bangumiVotes": 5062,
+      "bangumiVotes": 5064,
       "egsScore": 83.14,
       "egsVotes": 279,
       "egsMedian": 85
@@ -3097,12 +3057,52 @@
         ]
       },
       "vndbScore": 85.3,
-      "vndbVotes": 3634,
+      "vndbVotes": 3636,
       "bangumiScore": 77,
       "bangumiVotes": 4313,
       "egsScore": 85.71,
       "egsVotes": 1696,
       "egsMedian": 86
+    },
+    {
+      "name": "FLOWERS -Le volume sur été-",
+      "vndbId": "v15395",
+      "bangumiId": "119895",
+      "egsId": "21122",
+      "metadata": {
+        "titles": {
+          "en": "Flowers -Le volume sur ete-",
+          "zh": "FLOWERS 夏篇",
+          "ja": "FLOWERS -Le volume sur été-"
+        },
+        "descriptions": {
+          "en": "Erika/Chidori: \"Have you ever thought of wanting to do something for the one you love?\" This is the all-age sequel to FLOWERS -Le volume sur printemps-. In the season of first meetings, a girl with a wounded heart, Suou, found a friend and lover who would accept her. However, this friend and lover left the school without telling her the reason at the end of spring. Suou was in denial about her loss, and fellow bookworm Erika was gravely worried and looked for a way to heal Suou’s broken heart. With the early arrival of summer, a girl named Chidori transferred into the school. She met Erika by accident when Erika was coming back to the dorm and told Erika that she was a coward for stalking her. It was the worst first meeting for the two who would end up becoming each other's \"Amitié.\" [From Hau~ Omochikaeri!]",
+          "zh": "心有创伤的少女，白羽苏芳。 在春季与友人相识、相知，并与自身所爱结为连理。 然而，匂坂真由理，这位与她相互认可的恋人却毫无征兆地离她而去。 她极力隐藏自己的失落，而这一切被八重垣艾莉卡看在眼里，为之心痛。 难道就没有办法治愈她吗？冥思苦想之际，学院迎来初夏，一名少女转学至此。 少女名为——考崎千鸟。 经历了最糟糕的邂逅，少女对八重垣艾莉卡说： “你是个卑鄙的人。” 夏季的学院中又发生了几桩离奇事件。 八重垣艾莉卡将与amitié考崎千鸟一同，向这些谜团发起挑战。"
+        },
+        "released": "2015-04-17",
+        "year": 2015,
+        "image": "https://t.vndb.org/cv/80/77880.jpg",
+        "lengthMinutes": 960,
+        "genres": [
+          "百合",
+          "InnocentGrey",
+          "杉菜水姫"
+        ],
+        "platforms": [
+          "win",
+          "psp",
+          "ps4",
+          "psv",
+          "swi"
+        ]
+      },
+      "vndbScore": 83.1,
+      "vndbVotes": 1135,
+      "bangumiScore": 81,
+      "bangumiVotes": 1297,
+      "egsScore": 81.78,
+      "egsVotes": 205,
+      "egsMedian": 82
     },
     {
       "name": "ディメンション凸ラバース！！",
@@ -3133,9 +3133,9 @@
         ]
       },
       "vndbScore": 82.5,
-      "vndbVotes": 492,
+      "vndbVotes": 493,
       "bangumiScore": 79,
-      "bangumiVotes": 1914,
+      "bangumiVotes": 1915,
       "egsScore": 87.14,
       "egsVotes": 688,
       "egsMedian": 88
@@ -3177,7 +3177,7 @@
       "vndbScore": 74.4,
       "vndbVotes": 1718,
       "bangumiScore": 83,
-      "bangumiVotes": 2297,
+      "bangumiVotes": 2298,
       "egsScore": 85.7,
       "egsVotes": 1869,
       "egsMedian": 88
@@ -3214,7 +3214,7 @@
         ]
       },
       "vndbScore": 82.8,
-      "vndbVotes": 835,
+      "vndbVotes": 836,
       "bangumiScore": 81,
       "bangumiVotes": 1028,
       "egsScore": 82.3,
@@ -3293,7 +3293,7 @@
         ]
       },
       "vndbScore": 82.1,
-      "vndbVotes": 6002,
+      "vndbVotes": 6003,
       "bangumiScore": 80,
       "bangumiVotes": 1225,
       "egsScore": 82.45,
@@ -3373,9 +3373,9 @@
         ]
       },
       "vndbScore": 85,
-      "vndbVotes": 3791,
+      "vndbVotes": 3793,
       "bangumiScore": 74,
-      "bangumiVotes": 2222,
+      "bangumiVotes": 2224,
       "egsScore": 85.35,
       "egsVotes": 790,
       "egsMedian": 86
@@ -3412,7 +3412,7 @@
       "vndbScore": 81.4,
       "vndbVotes": 634,
       "bangumiScore": 79,
-      "bangumiVotes": 3135,
+      "bangumiVotes": 3136,
       "egsScore": 84.85,
       "egsVotes": 1739,
       "egsMedian": 85
@@ -3457,9 +3457,9 @@
         ]
       },
       "vndbScore": 78,
-      "vndbVotes": 2948,
+      "vndbVotes": 2949,
       "bangumiScore": 83,
-      "bangumiVotes": 2699,
+      "bangumiVotes": 2700,
       "egsScore": 82.95,
       "egsVotes": 3225,
       "egsMedian": 85
@@ -3504,9 +3504,9 @@
         ]
       },
       "vndbScore": 80.8,
-      "vndbVotes": 9462,
+      "vndbVotes": 9466,
       "bangumiScore": 83,
-      "bangumiVotes": 4553,
+      "bangumiVotes": 4555,
       "egsScore": 80.9,
       "egsVotes": 83,
       "egsMedian": 81
@@ -3619,8 +3619,8 @@
           "swi"
         ]
       },
-      "vndbScore": 81.7,
-      "vndbVotes": 826,
+      "vndbScore": 81.6,
+      "vndbVotes": 827,
       "bangumiScore": 70,
       "bangumiVotes": 38,
       "egsScore": 81.65,
@@ -3660,7 +3660,7 @@
       "vndbScore": 81.7,
       "vndbVotes": 978,
       "bangumiScore": 78,
-      "bangumiVotes": 1518,
+      "bangumiVotes": 1519,
       "egsScore": 83.68,
       "egsVotes": 1336,
       "egsMedian": 85
@@ -3774,7 +3774,7 @@
       "vndbScore": 82.6,
       "vndbVotes": 6624,
       "bangumiScore": 78,
-      "bangumiVotes": 4449,
+      "bangumiVotes": 4450,
       "egsScore": 83.25,
       "egsVotes": 1779,
       "egsMedian": 85
@@ -3815,7 +3815,7 @@
       "vndbScore": 81.4,
       "vndbVotes": 5867,
       "bangumiScore": 78,
-      "bangumiVotes": 1739,
+      "bangumiVotes": 1740,
       "egsScore": 82.36,
       "egsVotes": 2634,
       "egsMedian": 85
@@ -3888,7 +3888,7 @@
       "vndbScore": 75,
       "vndbVotes": 762,
       "bangumiScore": 85,
-      "bangumiVotes": 1114,
+      "bangumiVotes": 1115,
       "egsScore": 81.56,
       "egsVotes": 930,
       "egsMedian": 85
@@ -4040,7 +4040,7 @@
         ]
       },
       "vndbScore": 82,
-      "vndbVotes": 1492,
+      "vndbVotes": 1494,
       "bangumiScore": 77,
       "bangumiVotes": 324,
       "egsScore": 47.5,
@@ -4115,10 +4115,48 @@
       "vndbScore": 79,
       "vndbVotes": 548,
       "bangumiScore": 82,
-      "bangumiVotes": 2411,
+      "bangumiVotes": 2412,
       "egsScore": 80.32,
       "egsVotes": 1404,
       "egsMedian": 81
+    },
+    {
+      "name": "さくらの雲＊スカアレットの恋",
+      "vndbId": "v26664",
+      "bangumiId": "292024",
+      "egsId": "28762",
+      "metadata": {
+        "titles": {
+          "en": "Sakura no Kumo * Scarlet no Koi",
+          "zh": "樱色之云绯色之恋",
+          "ja": "さくらの雲＊スカアレットの恋"
+        },
+        "descriptions": {
+          "en": "\"1920 ...?\" Tsukasa Kazami, a young man who lives in 2020, sees himself travel back in time 100 years ago after sitting under a cherry tree. -- Tokyo, the Imperial Capital. Full of hopes for the future, it's a brilliant romantic city where the flowers of culture are in full bloom. \"Elementary, Tsukasa. The last thing left is always the truth.\" A mysterious British woman who runs a detective agency alone in the imperial capital. Under her lack of money, Tsukasa is involved in numerous incidents ...? \"--Now, let's find out the answer\". Which era will awaken his true potential, Reiwa or Taisho? The curtain of this retro mystery among cherry blossoms lifts!",
+          "zh": "2020年に生きる青年・風見司は、桜の木の下から100年前へタイムスリップを遂げてしまった。 ――帝都・東京。 そこは新時代への希望に満ち、文化の華が咲き乱れた、輝かしき浪漫の都。 「初歩だよ、司。最後に残ったものが真実なんだ」 そんな帝都でひとり探偵事務所を営む謎の英国女性・所長。 日々金欠にあえぐ彼女のもとで、司は数々の事件に巻き込まれていき……？ 「ーさぁ、解決編を始めようか」 枝分かれする彼の運命がたどり着くのは、果たして令和か大正か。 100年の時を超えー 今ここに、桜舞うレトロ・ミステリィの幕が開ける！"
+        },
+        "released": "2020-09-25",
+        "year": 2020,
+        "image": "https://t.vndb.org/cv/78/90878.jpg",
+        "lengthMinutes": 2128,
+        "genres": [
+          "冬茜トム",
+          "梱枝りこ",
+          "推理"
+        ],
+        "platforms": [
+          "win",
+          "ps4",
+          "swi"
+        ]
+      },
+      "vndbScore": 80.7,
+      "vndbVotes": 559,
+      "bangumiScore": 76,
+      "bangumiVotes": 2345,
+      "egsScore": 85.92,
+      "egsVotes": 1564,
+      "egsMedian": 87
     },
     {
       "name": "景の海のアペイリア",
@@ -4157,44 +4195,6 @@
       "egsMedian": 85
     },
     {
-      "name": "さくらの雲＊スカアレットの恋",
-      "vndbId": "v26664",
-      "bangumiId": "292024",
-      "egsId": "28762",
-      "metadata": {
-        "titles": {
-          "en": "Sakura no Kumo * Scarlet no Koi",
-          "zh": "樱色之云绯色之恋",
-          "ja": "さくらの雲＊スカアレットの恋"
-        },
-        "descriptions": {
-          "en": "\"1920 ...?\" Tsukasa Kazami, a young man who lives in 2020, sees himself travel back in time 100 years ago after sitting under a cherry tree. -- Tokyo, the Imperial Capital. Full of hopes for the future, it's a brilliant romantic city where the flowers of culture are in full bloom. \"Elementary, Tsukasa. The last thing left is always the truth.\" A mysterious British woman who runs a detective agency alone in the imperial capital. Under her lack of money, Tsukasa is involved in numerous incidents ...? \"--Now, let's find out the answer\". Which era will awaken his true potential, Reiwa or Taisho? The curtain of this retro mystery among cherry blossoms lifts!",
-          "zh": "2020年に生きる青年・風見司は、桜の木の下から100年前へタイムスリップを遂げてしまった。 ――帝都・東京。 そこは新時代への希望に満ち、文化の華が咲き乱れた、輝かしき浪漫の都。 「初歩だよ、司。最後に残ったものが真実なんだ」 そんな帝都でひとり探偵事務所を営む謎の英国女性・所長。 日々金欠にあえぐ彼女のもとで、司は数々の事件に巻き込まれていき……？ 「ーさぁ、解決編を始めようか」 枝分かれする彼の運命がたどり着くのは、果たして令和か大正か。 100年の時を超えー 今ここに、桜舞うレトロ・ミステリィの幕が開ける！"
-        },
-        "released": "2020-09-25",
-        "year": 2020,
-        "image": "https://t.vndb.org/cv/78/90878.jpg",
-        "lengthMinutes": 2128,
-        "genres": [
-          "冬茜トム",
-          "梱枝りこ",
-          "推理"
-        ],
-        "platforms": [
-          "win",
-          "ps4",
-          "swi"
-        ]
-      },
-      "vndbScore": 80.6,
-      "vndbVotes": 556,
-      "bangumiScore": 76,
-      "bangumiVotes": 2345,
-      "egsScore": 85.92,
-      "egsVotes": 1564,
-      "egsMedian": 87
-    },
-    {
       "name": "グリザイアの迷宮 -LE LABYRINTHE DE LA GRISAIA-",
       "vndbId": "v7723",
       "bangumiId": "24275",
@@ -4229,7 +4229,7 @@
       "vndbScore": 80.4,
       "vndbVotes": 4797,
       "bangumiScore": 76,
-      "bangumiVotes": 1033,
+      "bangumiVotes": 1034,
       "egsScore": 82.92,
       "egsVotes": 2297,
       "egsMedian": 84
@@ -4295,7 +4295,7 @@
         ]
       },
       "vndbScore": 81,
-      "vndbVotes": 406,
+      "vndbVotes": 407,
       "bangumiScore": null,
       "bangumiVotes": null,
       "egsScore": 74.23,
@@ -4455,7 +4455,7 @@
       "vndbScore": 78.6,
       "vndbVotes": 224,
       "bangumiScore": 81,
-      "bangumiVotes": 1924,
+      "bangumiVotes": 1925,
       "egsScore": 76.88,
       "egsVotes": 116,
       "egsMedian": 78
@@ -4493,7 +4493,7 @@
       "vndbScore": 79.6,
       "vndbVotes": 1133,
       "bangumiScore": 78,
-      "bangumiVotes": 1488,
+      "bangumiVotes": 1489,
       "egsScore": 82.7,
       "egsVotes": 1373,
       "egsMedian": 83
@@ -4571,9 +4571,9 @@
         ]
       },
       "vndbScore": 79.3,
-      "vndbVotes": 3635,
+      "vndbVotes": 3636,
       "bangumiScore": 81,
-      "bangumiVotes": 5616,
+      "bangumiVotes": 5620,
       "egsScore": 83.43,
       "egsVotes": 92,
       "egsMedian": 85
@@ -4610,7 +4610,7 @@
       "vndbScore": 76.2,
       "vndbVotes": 3622,
       "bangumiScore": 81,
-      "bangumiVotes": 2266,
+      "bangumiVotes": 2268,
       "egsScore": 84.43,
       "egsVotes": 2239,
       "egsMedian": 85
@@ -4645,9 +4645,9 @@
         ]
       },
       "vndbScore": 79.2,
-      "vndbVotes": 2244,
+      "vndbVotes": 2246,
       "bangumiScore": 75,
-      "bangumiVotes": 1853,
+      "bangumiVotes": 1855,
       "egsScore": 84.51,
       "egsVotes": 1960,
       "egsMedian": 85
@@ -4684,7 +4684,7 @@
         ]
       },
       "vndbScore": 85.5,
-      "vndbVotes": 332,
+      "vndbVotes": 333,
       "bangumiScore": 70,
       "bangumiVotes": 27,
       "egsScore": 71.07,
@@ -4760,7 +4760,7 @@
         ]
       },
       "vndbScore": 79.4,
-      "vndbVotes": 415,
+      "vndbVotes": 416,
       "bangumiScore": 79,
       "bangumiVotes": 1328,
       "egsScore": 84.16,
@@ -4834,9 +4834,9 @@
         ]
       },
       "vndbScore": 80.7,
-      "vndbVotes": 7679,
+      "vndbVotes": 7681,
       "bangumiScore": 79,
-      "bangumiVotes": 3283,
+      "bangumiVotes": 3287,
       "egsScore": 79.47,
       "egsVotes": 137,
       "egsMedian": 80
@@ -5022,7 +5022,7 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 2473,
+      "vndbVotes": 2474,
       "bangumiScore": 76,
       "bangumiVotes": 73,
       "egsScore": 79.36,
@@ -5058,7 +5058,7 @@
         ]
       },
       "vndbScore": 80.6,
-      "vndbVotes": 516,
+      "vndbVotes": 517,
       "bangumiScore": 75,
       "bangumiVotes": 95,
       "egsScore": 82.36,
@@ -5096,7 +5096,7 @@
         ]
       },
       "vndbScore": 80.5,
-      "vndbVotes": 2737,
+      "vndbVotes": 2738,
       "bangumiScore": 74,
       "bangumiVotes": 316,
       "egsScore": 80.21,
@@ -5134,7 +5134,7 @@
       "vndbScore": 79.2,
       "vndbVotes": 764,
       "bangumiScore": 79,
-      "bangumiVotes": 2967,
+      "bangumiVotes": 2968,
       "egsScore": 81.47,
       "egsVotes": 1002,
       "egsMedian": 82
@@ -5203,7 +5203,7 @@
         ]
       },
       "vndbScore": 79.7,
-      "vndbVotes": 5090,
+      "vndbVotes": 5091,
       "bangumiScore": null,
       "bangumiVotes": null,
       "egsScore": 75.68,
@@ -5287,9 +5287,9 @@
         ]
       },
       "vndbScore": 75.5,
-      "vndbVotes": 2832,
+      "vndbVotes": 2833,
       "bangumiScore": 82,
-      "bangumiVotes": 3586,
+      "bangumiVotes": 3587,
       "egsScore": 81.81,
       "egsVotes": 922,
       "egsMedian": 82
@@ -5445,9 +5445,9 @@
         ]
       },
       "vndbScore": 75.1,
-      "vndbVotes": 7059,
+      "vndbVotes": 7063,
       "bangumiScore": 84,
-      "bangumiVotes": 6574,
+      "bangumiVotes": 6577,
       "egsScore": 79.74,
       "egsVotes": 1401,
       "egsMedian": 80
@@ -5568,7 +5568,7 @@
       "vndbScore": 79.6,
       "vndbVotes": 1122,
       "bangumiScore": 76,
-      "bangumiVotes": 5298,
+      "bangumiVotes": 5299,
       "egsScore": 84.12,
       "egsVotes": 2527,
       "egsMedian": 85
@@ -5641,10 +5641,10 @@
           "swi"
         ]
       },
-      "vndbScore": 81.8,
-      "vndbVotes": 704,
+      "vndbScore": 81.9,
+      "vndbVotes": 705,
       "bangumiScore": 78,
-      "bangumiVotes": 4495,
+      "bangumiVotes": 4497,
       "egsScore": 81.14,
       "egsVotes": 1164,
       "egsMedian": 83
@@ -5704,7 +5704,7 @@
         },
         "released": "2022-09-30",
         "year": 2022,
-        "image": "https://t.vndb.org/cv/15/75915.jpg",
+        "image": "https://t.vndb.org/cv/99/79699.jpg",
         "lengthMinutes": 600,
         "genres": [
           "田中ロミオ",
@@ -5720,9 +5720,9 @@
         ]
       },
       "vndbScore": 81.2,
-      "vndbVotes": 1811,
+      "vndbVotes": 1814,
       "bangumiScore": 75,
-      "bangumiVotes": 3185,
+      "bangumiVotes": 3186,
       "egsScore": 85.15,
       "egsVotes": 1004,
       "egsMedian": 85
@@ -5828,9 +5828,9 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 7931,
+      "vndbVotes": 7932,
       "bangumiScore": 75,
-      "bangumiVotes": 3716,
+      "bangumiVotes": 3717,
       "egsScore": 81.48,
       "egsVotes": 1320,
       "egsMedian": 83
@@ -5868,9 +5868,9 @@
         ]
       },
       "vndbScore": 78.8,
-      "vndbVotes": 612,
+      "vndbVotes": 616,
       "bangumiScore": 77,
-      "bangumiVotes": 1958,
+      "bangumiVotes": 1959,
       "egsScore": 81.26,
       "egsVotes": 1175,
       "egsMedian": 82
@@ -5914,7 +5914,7 @@
         ]
       },
       "vndbScore": 79.5,
-      "vndbVotes": 1386,
+      "vndbVotes": 1387,
       "bangumiScore": 73,
       "bangumiVotes": 85,
       "egsScore": 66.15,
@@ -5955,9 +5955,9 @@
         ]
       },
       "vndbScore": 80.2,
-      "vndbVotes": 1685,
+      "vndbVotes": 1686,
       "bangumiScore": 74,
-      "bangumiVotes": 3190,
+      "bangumiVotes": 3191,
       "egsScore": 81.63,
       "egsVotes": 3116,
       "egsMedian": 83
@@ -5999,7 +5999,7 @@
         ]
       },
       "vndbScore": 78.8,
-      "vndbVotes": 18581,
+      "vndbVotes": 18583,
       "bangumiScore": 73,
       "bangumiVotes": 246,
       "egsScore": 72.32,
@@ -6118,7 +6118,7 @@
       "vndbScore": 80.7,
       "vndbVotes": 2885,
       "bangumiScore": 81,
-      "bangumiVotes": 496,
+      "bangumiVotes": 497,
       "egsScore": 75.42,
       "egsVotes": 1567,
       "egsMedian": 77
@@ -6156,7 +6156,7 @@
       "vndbScore": 79.6,
       "vndbVotes": 466,
       "bangumiScore": 75,
-      "bangumiVotes": 2141,
+      "bangumiVotes": 2142,
       "egsScore": 81.14,
       "egsVotes": 1814,
       "egsMedian": 81
@@ -6226,7 +6226,7 @@
         ]
       },
       "vndbScore": 81.6,
-      "vndbVotes": 1220,
+      "vndbVotes": 1221,
       "bangumiScore": 72,
       "bangumiVotes": 945,
       "egsScore": 81,
@@ -6340,7 +6340,7 @@
       "vndbScore": 79.9,
       "vndbVotes": 393,
       "bangumiScore": 74,
-      "bangumiVotes": 343,
+      "bangumiVotes": 344,
       "egsScore": 80.01,
       "egsVotes": 338,
       "egsMedian": 80
@@ -6417,7 +6417,7 @@
       "vndbScore": 83.2,
       "vndbVotes": 397,
       "bangumiScore": 73,
-      "bangumiVotes": 459,
+      "bangumiVotes": 460,
       "egsScore": 81.02,
       "egsVotes": 118,
       "egsMedian": 80
@@ -6567,9 +6567,9 @@
         ]
       },
       "vndbScore": 80.2,
-      "vndbVotes": 2682,
+      "vndbVotes": 2684,
       "bangumiScore": 74,
-      "bangumiVotes": 3227,
+      "bangumiVotes": 3229,
       "egsScore": 83.91,
       "egsVotes": 880,
       "egsMedian": 85
@@ -6678,9 +6678,9 @@
         ]
       },
       "vndbScore": 80.1,
-      "vndbVotes": 1158,
+      "vndbVotes": 1160,
       "bangumiScore": 76,
-      "bangumiVotes": 1264,
+      "bangumiVotes": 1267,
       "egsScore": 74.7,
       "egsVotes": 20,
       "egsMedian": 75
@@ -6717,9 +6717,9 @@
         ]
       },
       "vndbScore": 79.5,
-      "vndbVotes": 8301,
+      "vndbVotes": 8304,
       "bangumiScore": 74,
-      "bangumiVotes": 3836,
+      "bangumiVotes": 3837,
       "egsScore": 79.05,
       "egsVotes": 1116,
       "egsMedian": 80
@@ -6791,7 +6791,7 @@
         ]
       },
       "vndbScore": 80.9,
-      "vndbVotes": 1428,
+      "vndbVotes": 1429,
       "bangumiScore": 74,
       "bangumiVotes": 2526,
       "egsScore": 79.52,
@@ -6893,8 +6893,8 @@
         "image": "https://t.vndb.org/cv/71/76571.jpg",
         "lengthMinutes": 1026,
         "genres": [
-          "像素",
           "拔作",
+          "像素",
           "SLG"
         ],
         "platforms": [
@@ -6982,7 +6982,7 @@
       "vndbScore": 79.2,
       "vndbVotes": 2280,
       "bangumiScore": 74,
-      "bangumiVotes": 2466,
+      "bangumiVotes": 2467,
       "egsScore": 78.91,
       "egsVotes": 1740,
       "egsMedian": 80
@@ -7018,7 +7018,7 @@
       "vndbScore": 79.5,
       "vndbVotes": 588,
       "bangumiScore": 75,
-      "bangumiVotes": 1477,
+      "bangumiVotes": 1479,
       "egsScore": 80.44,
       "egsVotes": 395,
       "egsMedian": 80
@@ -7166,7 +7166,7 @@
       "vndbScore": 81,
       "vndbVotes": 545,
       "bangumiScore": 72,
-      "bangumiVotes": 540,
+      "bangumiVotes": 541,
       "egsScore": 77.59,
       "egsVotes": 132,
       "egsMedian": 78
@@ -7204,9 +7204,9 @@
         ]
       },
       "vndbScore": 79.6,
-      "vndbVotes": 496,
+      "vndbVotes": 497,
       "bangumiScore": 72,
-      "bangumiVotes": 386,
+      "bangumiVotes": 387,
       "egsScore": 76.91,
       "egsVotes": 505,
       "egsMedian": 78
@@ -7244,7 +7244,7 @@
       "vndbScore": 80,
       "vndbVotes": 496,
       "bangumiScore": 74,
-      "bangumiVotes": 1563,
+      "bangumiVotes": 1565,
       "egsScore": 78.45,
       "egsVotes": 653,
       "egsMedian": 80
@@ -7278,9 +7278,9 @@
         ]
       },
       "vndbScore": 78.9,
-      "vndbVotes": 1501,
+      "vndbVotes": 1500,
       "bangumiScore": 72,
-      "bangumiVotes": 578,
+      "bangumiVotes": 579,
       "egsScore": 74.16,
       "egsVotes": 352,
       "egsMedian": 77
@@ -7315,7 +7315,7 @@
         ]
       },
       "vndbScore": 80,
-      "vndbVotes": 1677,
+      "vndbVotes": 1682,
       "bangumiScore": 74,
       "bangumiVotes": 1729,
       "egsScore": 74.98,
@@ -7354,7 +7354,7 @@
       "vndbScore": 79.8,
       "vndbVotes": 730,
       "bangumiScore": 65,
-      "bangumiVotes": 225,
+      "bangumiVotes": 226,
       "egsScore": 77.38,
       "egsVotes": 8,
       "egsMedian": 80
@@ -7391,7 +7391,7 @@
       "vndbScore": 80.3,
       "vndbVotes": 492,
       "bangumiScore": 75,
-      "bangumiVotes": 3563,
+      "bangumiVotes": 3564,
       "egsScore": 82.13,
       "egsVotes": 303,
       "egsMedian": 82
@@ -7503,9 +7503,9 @@
         ]
       },
       "vndbScore": 78.9,
-      "vndbVotes": 2048,
+      "vndbVotes": 2051,
       "bangumiScore": 72,
-      "bangumiVotes": 1443,
+      "bangumiVotes": 1444,
       "egsScore": 77.25,
       "egsVotes": 36,
       "egsMedian": 78
@@ -7655,9 +7655,9 @@
         ]
       },
       "vndbScore": 80.9,
-      "vndbVotes": 1247,
+      "vndbVotes": 1248,
       "bangumiScore": 73,
-      "bangumiVotes": 4633,
+      "bangumiVotes": 4638,
       "egsScore": 83.7,
       "egsVotes": 474,
       "egsMedian": 85
@@ -7915,7 +7915,7 @@
       "vndbScore": 80.3,
       "vndbVotes": 419,
       "bangumiScore": 71,
-      "bangumiVotes": 1473,
+      "bangumiVotes": 1474,
       "egsScore": 81.79,
       "egsVotes": 302,
       "egsMedian": 81
@@ -7950,7 +7950,7 @@
         ]
       },
       "vndbScore": 79,
-      "vndbVotes": 1134,
+      "vndbVotes": 1135,
       "bangumiScore": 65,
       "bangumiVotes": 615,
       "egsScore": 74.36,
@@ -8024,8 +8024,8 @@
           "win"
         ]
       },
-      "vndbScore": 78.9,
-      "vndbVotes": 395,
+      "vndbScore": 79,
+      "vndbVotes": 396,
       "bangumiScore": 69,
       "bangumiVotes": 1097,
       "egsScore": 77.74,
