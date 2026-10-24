@@ -32,7 +32,7 @@
       "vndbScore": 90.6,
       "vndbVotes": 1262,
       "bangumiScore": 93,
-      "bangumiVotes": 3681,
+      "bangumiVotes": 3682,
       "egsScore": 93.48,
       "egsVotes": 1151,
       "egsMedian": 99
@@ -69,9 +69,9 @@
         ]
       },
       "vndbScore": 90.2,
-      "vndbVotes": 4647,
+      "vndbVotes": 4649,
       "bangumiScore": 91,
-      "bangumiVotes": 7214,
+      "bangumiVotes": 7216,
       "egsScore": 89.63,
       "egsVotes": 2631,
       "egsMedian": 94
@@ -116,9 +116,9 @@
         ]
       },
       "vndbScore": 90.2,
-      "vndbVotes": 17072,
+      "vndbVotes": 17080,
       "bangumiScore": 89,
-      "bangumiVotes": 8644,
+      "bangumiVotes": 8648,
       "egsScore": 90.54,
       "egsVotes": 503,
       "egsMedian": 93
@@ -158,7 +158,7 @@
         ]
       },
       "vndbScore": 89.9,
-      "vndbVotes": 11449,
+      "vndbVotes": 11452,
       "bangumiScore": 88,
       "bangumiVotes": 4118,
       "egsScore": 89.42,
@@ -203,7 +203,7 @@
         ]
       },
       "vndbScore": 89.8,
-      "vndbVotes": 11144,
+      "vndbVotes": 11149,
       "bangumiScore": 86,
       "bangumiVotes": 1527,
       "egsScore": 73.5,
@@ -239,9 +239,9 @@
         ]
       },
       "vndbScore": 90.2,
-      "vndbVotes": 6260,
+      "vndbVotes": 6262,
       "bangumiScore": 86,
-      "bangumiVotes": 4521,
+      "bangumiVotes": 4522,
       "egsScore": 88.85,
       "egsVotes": 3009,
       "egsMedian": 90
@@ -285,9 +285,9 @@
         ]
       },
       "vndbScore": 84.5,
-      "vndbVotes": 8801,
+      "vndbVotes": 8802,
       "bangumiScore": 91,
-      "bangumiVotes": 9966,
+      "bangumiVotes": 9968,
       "egsScore": 89.38,
       "egsVotes": 478,
       "egsMedian": 91
@@ -359,7 +359,7 @@
       "vndbScore": 88.4,
       "vndbVotes": 180,
       "bangumiScore": 88,
-      "bangumiVotes": 1089,
+      "bangumiVotes": 1091,
       "egsScore": 84.69,
       "egsVotes": 54,
       "egsMedian": 89
@@ -404,9 +404,9 @@
         ]
       },
       "vndbScore": 87.3,
-      "vndbVotes": 11527,
+      "vndbVotes": 11532,
       "bangumiScore": 89,
-      "bangumiVotes": 6525,
+      "bangumiVotes": 6526,
       "egsScore": 87.25,
       "egsVotes": 3294,
       "egsMedian": 90
@@ -451,49 +451,12 @@
         ]
       },
       "vndbScore": 88.4,
-      "vndbVotes": 8079,
+      "vndbVotes": 8084,
       "bangumiScore": 84,
-      "bangumiVotes": 890,
+      "bangumiVotes": 891,
       "egsScore": 83.5,
       "egsVotes": 385,
       "egsMedian": 85
-    },
-    {
-      "name": "サクラノ詩－櫻の森の上を舞う－",
-      "vndbId": "v562",
-      "bangumiId": "22423",
-      "egsId": "4529",
-      "metadata": {
-        "titles": {
-          "en": "Sakura no Uta -To Dance Over the Cherry Blossoms-",
-          "zh": "樱之诗 - 在樱花之森上飞舞",
-          "ja": "サクラノ詩－櫻の森の上を舞う－"
-        },
-        "descriptions": {
-          "en": "ーWhat comes after happiness? It is springtime, and Naoya Kusanagi has just been orphaned by the death of his father (the world-famous painter). He moves in with his best friend Kei’s family, where he grows closer to his homeroom teacher Ai and to Kei’s younger sister, the actress Shizuku Natsume. As the new semester arrives, his childhood friend Rin Misakura, who had transferred to a different school long ago, returns to his life as well. A gust stirs up a swirl of sakura petals—with a promised reunion in its wake. Feelings grow fonder to time’s constant drumbeat, and the torrent of emotion begins to take shape—but where will it lead? Sakura no Uta is a story of those whose paths stop short—and of those who walk on. [From Shiravune] A complete re-imagining of the stalled Sakura no Uta project by SCA-Ji, the writer of Subarashiki Hibi.",
-          "zh": "「幸福の先への物語」 春。 世界的な美術家である父の死により、天涯孤独となった主人公・草薙直哉は、親友である夏目圭の家へと世話になることに。 そこには、直哉が通う学園の担任である夏目藍、圭の妹で女優の夏目雫との交流が待っていた。 そして、新学期の到来と共に、遠い昔に転校した幼なじみ・御桜稟が、再び直哉の前に現れる。 風に巻く桜の花びらの向こう、それは、約束されていた再会の如く――。 時の刻みが想いを重ね、感情の奔流が形になるとき、そこで出会う光景とは? 物語の先にある幸福。 その先にある物語の形――。 サクラノ詩は、立ち止まる人とその先を歩き続ける人々の物語。"
-        },
-        "released": "2015-10-23",
-        "year": 2015,
-        "image": "https://t.vndb.org/cv/63/79663.jpg",
-        "lengthMinutes": 3900,
-        "genres": [
-          "SCA-自",
-          "枕",
-          "樱之诗"
-        ],
-        "platforms": [
-          "win",
-          "and"
-        ]
-      },
-      "vndbScore": 87.4,
-      "vndbVotes": 2606,
-      "bangumiScore": 87,
-      "bangumiVotes": 6762,
-      "egsScore": 88.52,
-      "egsVotes": 2670,
-      "egsMedian": 90
     },
     {
       "name": "うみねこのなく頃に",
@@ -537,13 +500,50 @@
           "web"
         ]
       },
-      "vndbScore": 88.6,
-      "vndbVotes": 14056,
+      "vndbScore": 88.7,
+      "vndbVotes": 14064,
       "bangumiScore": 84,
       "bangumiVotes": 2575,
       "egsScore": 76.11,
       "egsVotes": 361,
       "egsMedian": 78
+    },
+    {
+      "name": "サクラノ詩－櫻の森の上を舞う－",
+      "vndbId": "v562",
+      "bangumiId": "22423",
+      "egsId": "4529",
+      "metadata": {
+        "titles": {
+          "en": "Sakura no Uta -To Dance Over the Cherry Blossoms-",
+          "zh": "樱之诗 - 在樱花之森上飞舞",
+          "ja": "サクラノ詩－櫻の森の上を舞う－"
+        },
+        "descriptions": {
+          "en": "ーWhat comes after happiness? It is springtime, and Naoya Kusanagi has just been orphaned by the death of his father (the world-famous painter). He moves in with his best friend Kei’s family, where he grows closer to his homeroom teacher Ai and to Kei’s younger sister, the actress Shizuku Natsume. As the new semester arrives, his childhood friend Rin Misakura, who had transferred to a different school long ago, returns to his life as well. A gust stirs up a swirl of sakura petals—with a promised reunion in its wake. Feelings grow fonder to time’s constant drumbeat, and the torrent of emotion begins to take shape—but where will it lead? Sakura no Uta is a story of those whose paths stop short—and of those who walk on. [From Shiravune] A complete re-imagining of the stalled Sakura no Uta project by SCA-Ji, the writer of Subarashiki Hibi.",
+          "zh": "「幸福の先への物語」 春。 世界的な美術家である父の死により、天涯孤独となった主人公・草薙直哉は、親友である夏目圭の家へと世話になることに。 そこには、直哉が通う学園の担任である夏目藍、圭の妹で女優の夏目雫との交流が待っていた。 そして、新学期の到来と共に、遠い昔に転校した幼なじみ・御桜稟が、再び直哉の前に現れる。 風に巻く桜の花びらの向こう、それは、約束されていた再会の如く――。 時の刻みが想いを重ね、感情の奔流が形になるとき、そこで出会う光景とは? 物語の先にある幸福。 その先にある物語の形――。 サクラノ詩は、立ち止まる人とその先を歩き続ける人々の物語。"
+        },
+        "released": "2015-10-23",
+        "year": 2015,
+        "image": "https://t.vndb.org/cv/63/79663.jpg",
+        "lengthMinutes": 3900,
+        "genres": [
+          "SCA-自",
+          "枕",
+          "樱之诗"
+        ],
+        "platforms": [
+          "win",
+          "and"
+        ]
+      },
+      "vndbScore": 87.4,
+      "vndbVotes": 2608,
+      "bangumiScore": 87,
+      "bangumiVotes": 6762,
+      "egsScore": 88.52,
+      "egsVotes": 2670,
+      "egsMedian": 90
     },
     {
       "name": "大逆転裁判2 -成歩堂龍ノ介の覺悟-",
@@ -579,7 +579,7 @@
         ]
       },
       "vndbScore": 87.3,
-      "vndbVotes": 1695,
+      "vndbVotes": 1696,
       "bangumiScore": 87,
       "bangumiVotes": 1714,
       "egsScore": 86.92,
@@ -621,7 +621,7 @@
         ]
       },
       "vndbScore": 89.1,
-      "vndbVotes": 2980,
+      "vndbVotes": 2981,
       "bangumiScore": 82,
       "bangumiVotes": 1565,
       "egsScore": 89.41,
@@ -662,9 +662,9 @@
         ]
       },
       "vndbScore": 86.8,
-      "vndbVotes": 12239,
+      "vndbVotes": 12248,
       "bangumiScore": 87,
-      "bangumiVotes": 8621,
+      "bangumiVotes": 8623,
       "egsScore": 86.59,
       "egsVotes": 3287,
       "egsMedian": 90
@@ -704,9 +704,9 @@
         ]
       },
       "vndbScore": 87.9,
-      "vndbVotes": 7744,
+      "vndbVotes": 7750,
       "bangumiScore": 84,
-      "bangumiVotes": 3116,
+      "bangumiVotes": 3120,
       "egsScore": 86.61,
       "egsVotes": 467,
       "egsMedian": 89
@@ -741,9 +741,9 @@
         ]
       },
       "vndbScore": 86.7,
-      "vndbVotes": 1978,
+      "vndbVotes": 1981,
       "bangumiScore": 86,
-      "bangumiVotes": 3907,
+      "bangumiVotes": 3910,
       "egsScore": 88.6,
       "egsVotes": 1024,
       "egsMedian": 90
@@ -787,9 +787,9 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 6609,
+      "vndbVotes": 6612,
       "bangumiScore": 88,
-      "bangumiVotes": 4359,
+      "bangumiVotes": 4361,
       "egsScore": 84.44,
       "egsVotes": 62,
       "egsMedian": 85
@@ -829,7 +829,7 @@
       "vndbScore": 82.5,
       "vndbVotes": 3285,
       "bangumiScore": 89,
-      "bangumiVotes": 4710,
+      "bangumiVotes": 4712,
       "egsScore": 79.98,
       "egsVotes": 255,
       "egsMedian": 80
@@ -861,11 +861,12 @@
         "platforms": [
           "win",
           "lin",
+          "gba",
           "web"
         ]
       },
       "vndbScore": 83.9,
-      "vndbVotes": 1118,
+      "vndbVotes": 1119,
       "bangumiScore": 84,
       "bangumiVotes": 489,
       "egsScore": 87.28,
@@ -912,9 +913,9 @@
         ]
       },
       "vndbScore": 86.3,
-      "vndbVotes": 19397,
+      "vndbVotes": 19403,
       "bangumiScore": 83,
-      "bangumiVotes": 5592,
+      "bangumiVotes": 5593,
       "egsScore": 86.86,
       "egsVotes": 4860,
       "egsMedian": 90
@@ -949,9 +950,9 @@
         ]
       },
       "vndbScore": 88.2,
-      "vndbVotes": 3033,
+      "vndbVotes": 3035,
       "bangumiScore": 82,
-      "bangumiVotes": 1998,
+      "bangumiVotes": 1999,
       "egsScore": 86.74,
       "egsVotes": 317,
       "egsMedian": 87
@@ -974,7 +975,7 @@
         "released": "2012-04-12",
         "year": 2012,
         "image": "https://t.vndb.org/cv/24/85324.jpg",
-        "lengthMinutes": 1816,
+        "lengthMinutes": 1817,
         "genres": [
           "TypeMoon",
           "奈須きのこ",
@@ -987,9 +988,9 @@
         ]
       },
       "vndbScore": 86.3,
-      "vndbVotes": 5646,
+      "vndbVotes": 5653,
       "bangumiScore": 86,
-      "bangumiVotes": 7222,
+      "bangumiVotes": 7223,
       "egsScore": 82.05,
       "egsVotes": 1076,
       "egsMedian": 85
@@ -1035,10 +1036,10 @@
           "mob"
         ]
       },
-      "vndbScore": 86.1,
-      "vndbVotes": 11426,
+      "vndbScore": 86.2,
+      "vndbVotes": 11434,
       "bangumiScore": 83,
-      "bangumiVotes": 1287,
+      "bangumiVotes": 1288,
       "egsScore": 83.99,
       "egsVotes": 1151,
       "egsMedian": 85
@@ -1077,10 +1078,10 @@
           "swi"
         ]
       },
-      "vndbScore": 86.4,
-      "vndbVotes": 9340,
+      "vndbScore": 86.3,
+      "vndbVotes": 9342,
       "bangumiScore": 85,
-      "bangumiVotes": 2868,
+      "bangumiVotes": 2870,
       "egsScore": 82.97,
       "egsVotes": 1775,
       "egsMedian": 85
@@ -1118,9 +1119,9 @@
         ]
       },
       "vndbScore": 87.2,
-      "vndbVotes": 1937,
+      "vndbVotes": 1939,
       "bangumiScore": 83,
-      "bangumiVotes": 2104,
+      "bangumiVotes": 2105,
       "egsScore": 87.25,
       "egsVotes": 624,
       "egsMedian": 88
@@ -1158,7 +1159,7 @@
       "vndbScore": 87.1,
       "vndbVotes": 728,
       "bangumiScore": 83,
-      "bangumiVotes": 529
+      "bangumiVotes": 530
     },
     {
       "name": "ファタモルガーナの館 -Another Episodes-",
@@ -1193,9 +1194,9 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 2712,
+      "vndbVotes": 2718,
       "bangumiScore": 85,
-      "bangumiVotes": 1449,
+      "bangumiVotes": 1450,
       "egsScore": 82.94,
       "egsVotes": 143,
       "egsMedian": 85
@@ -1267,7 +1268,7 @@
       "vndbScore": 86.6,
       "vndbVotes": 224,
       "bangumiScore": 83,
-      "bangumiVotes": 481,
+      "bangumiVotes": 483,
       "egsScore": 87.28,
       "egsVotes": 234,
       "egsMedian": 88
@@ -1302,9 +1303,9 @@
         ]
       },
       "vndbScore": 83.7,
-      "vndbVotes": 6083,
+      "vndbVotes": 6084,
       "bangumiScore": 83,
-      "bangumiVotes": 2871,
+      "bangumiVotes": 2872,
       "egsScore": 88.21,
       "egsVotes": 3171,
       "egsMedian": 90
@@ -1339,7 +1340,7 @@
         ]
       },
       "vndbScore": 88,
-      "vndbVotes": 357,
+      "vndbVotes": 358,
       "bangumiScore": 82,
       "bangumiVotes": 335,
       "egsScore": 83.99,
@@ -1419,7 +1420,7 @@
         ]
       },
       "vndbScore": 80.7,
-      "vndbVotes": 2261,
+      "vndbVotes": 2262,
       "bangumiScore": 85,
       "bangumiVotes": 1317,
       "egsScore": 89.61,
@@ -1456,7 +1457,7 @@
         ]
       },
       "vndbScore": 88.4,
-      "vndbVotes": 414,
+      "vndbVotes": 416,
       "bangumiScore": 63,
       "bangumiVotes": 74,
       "egsScore": 85.7,
@@ -1481,7 +1482,7 @@
         "released": "2011-06-24",
         "year": 2011,
         "image": "https://t.vndb.org/cv/05/75905.jpg",
-        "lengthMinutes": 4635,
+        "lengthMinutes": 4641,
         "genres": [
           "key",
           "田中ロミオ",
@@ -1496,7 +1497,7 @@
         ]
       },
       "vndbScore": 85.3,
-      "vndbVotes": 8480,
+      "vndbVotes": 8483,
       "bangumiScore": 86,
       "bangumiVotes": 5363,
       "egsScore": 80.21,
@@ -1574,9 +1575,9 @@
         ]
       },
       "vndbScore": 83.7,
-      "vndbVotes": 1726,
+      "vndbVotes": 1729,
       "bangumiScore": 85,
-      "bangumiVotes": 3206,
+      "bangumiVotes": 3207,
       "egsScore": 83.91,
       "egsVotes": 23,
       "egsMedian": 85
@@ -1612,9 +1613,9 @@
         ]
       },
       "vndbScore": 87,
-      "vndbVotes": 1113,
+      "vndbVotes": 1114,
       "bangumiScore": 81,
-      "bangumiVotes": 3555,
+      "bangumiVotes": 3556,
       "egsScore": 89.25,
       "egsVotes": 1364,
       "egsMedian": 92
@@ -1648,7 +1649,7 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 1508,
+      "vndbVotes": 1510,
       "bangumiScore": 65,
       "bangumiVotes": 86,
       "egsScore": 82.58,
@@ -1690,7 +1691,7 @@
       "vndbScore": 84.6,
       "vndbVotes": 3149,
       "bangumiScore": 83,
-      "bangumiVotes": 8182,
+      "bangumiVotes": 8183,
       "egsScore": 86.36,
       "egsVotes": 3637,
       "egsMedian": 88
@@ -1721,6 +1722,7 @@
         ],
         "platforms": [
           "win",
+          "and",
           "ps3",
           "psv"
         ]
@@ -1728,7 +1730,7 @@
       "vndbScore": 86.5,
       "vndbVotes": 667,
       "bangumiScore": 83,
-      "bangumiVotes": 1123,
+      "bangumiVotes": 1117,
       "egsScore": 84.22,
       "egsVotes": 2893,
       "egsMedian": 86
@@ -1762,7 +1764,7 @@
         ]
       },
       "vndbScore": 84.4,
-      "vndbVotes": 1664,
+      "vndbVotes": 1665,
       "bangumiScore": 81,
       "bangumiVotes": 1893,
       "egsScore": 89,
@@ -1804,7 +1806,7 @@
         ]
       },
       "vndbScore": 85,
-      "vndbVotes": 1955,
+      "vndbVotes": 1956,
       "bangumiScore": 82,
       "bangumiVotes": 1030,
       "egsScore": 85.11,
@@ -1882,7 +1884,7 @@
       "vndbScore": 81.4,
       "vndbVotes": 2436,
       "bangumiScore": 85,
-      "bangumiVotes": 3037,
+      "bangumiVotes": 3038,
       "egsScore": 86.72,
       "egsVotes": 666,
       "egsMedian": 89
@@ -1917,9 +1919,9 @@
         ]
       },
       "vndbScore": 83.8,
-      "vndbVotes": 1664,
+      "vndbVotes": 1665,
       "bangumiScore": 81,
-      "bangumiVotes": 2798,
+      "bangumiVotes": 2800,
       "egsScore": 87.65,
       "egsVotes": 1418,
       "egsMedian": 89
@@ -1961,9 +1963,9 @@
         ]
       },
       "vndbScore": 83.6,
-      "vndbVotes": 5202,
+      "vndbVotes": 5203,
       "bangumiScore": 84,
-      "bangumiVotes": 4717,
+      "bangumiVotes": 4718,
       "egsScore": 84.77,
       "egsVotes": 26,
       "egsMedian": 89
@@ -1998,8 +2000,8 @@
           "swi"
         ]
       },
-      "vndbScore": 87,
-      "vndbVotes": 525,
+      "vndbScore": 86.9,
+      "vndbVotes": 524,
       "bangumiScore": 79,
       "bangumiVotes": 335,
       "egsScore": 79.2,
@@ -2023,7 +2025,7 @@
         },
         "released": "2018-06-29",
         "year": 2018,
-        "image": "https://t.vndb.org/cv/30/85430.jpg",
+        "image": "https://t.vndb.org/cv/08/75908.jpg",
         "lengthMinutes": 3242,
         "genres": [
           "key",
@@ -2039,9 +2041,9 @@
         ]
       },
       "vndbScore": 84.6,
-      "vndbVotes": 4810,
+      "vndbVotes": 4813,
       "bangumiScore": 82,
-      "bangumiVotes": 5899,
+      "bangumiVotes": 5900,
       "egsScore": 85.86,
       "egsVotes": 1266,
       "egsMedian": 87
@@ -2067,8 +2069,8 @@
         "lengthMinutes": 3570,
         "genres": [
           "Eushully",
-          "RPG",
-          "戦女神ZERO"
+          "戦女神ZERO",
+          "RPG"
         ],
         "platforms": [
           "win"
@@ -2115,9 +2117,9 @@
         ]
       },
       "vndbScore": 81.4,
-      "vndbVotes": 6899,
+      "vndbVotes": 6900,
       "bangumiScore": 81,
-      "bangumiVotes": 3373,
+      "bangumiVotes": 3374,
       "egsScore": 85.93,
       "egsVotes": 5760,
       "egsMedian": 88
@@ -2164,9 +2166,9 @@
         ]
       },
       "vndbScore": 78.9,
-      "vndbVotes": 4896,
+      "vndbVotes": 4898,
       "bangumiScore": 85,
-      "bangumiVotes": 4314,
+      "bangumiVotes": 4315,
       "egsScore": 85.51,
       "egsVotes": 4596,
       "egsMedian": 90
@@ -2239,7 +2241,7 @@
         ]
       },
       "vndbScore": 85.2,
-      "vndbVotes": 1946,
+      "vndbVotes": 1947,
       "bangumiScore": 82,
       "bangumiVotes": 3139,
       "egsScore": 83.59,
@@ -2280,7 +2282,7 @@
       "vndbScore": 80.5,
       "vndbVotes": 933,
       "bangumiScore": 84,
-      "bangumiVotes": 906,
+      "bangumiVotes": 907,
       "egsScore": 84.84,
       "egsVotes": 612,
       "egsMedian": 85
@@ -2390,7 +2392,7 @@
         ]
       },
       "vndbScore": 83.5,
-      "vndbVotes": 12978,
+      "vndbVotes": 12981,
       "bangumiScore": 77,
       "bangumiVotes": 1532,
       "egsScore": 83.19,
@@ -2427,7 +2429,7 @@
         ]
       },
       "vndbScore": 83.4,
-      "vndbVotes": 9477,
+      "vndbVotes": 9479,
       "bangumiScore": 79,
       "bangumiVotes": 660,
       "egsScore": 81.72,
@@ -2464,7 +2466,7 @@
         ]
       },
       "vndbScore": 84.8,
-      "vndbVotes": 2279,
+      "vndbVotes": 2280,
       "bangumiScore": 74,
       "bangumiVotes": 1884,
       "egsScore": 87.93,
@@ -2500,10 +2502,10 @@
           "swi"
         ]
       },
-      "vndbScore": 81.2,
-      "vndbVotes": 1003,
+      "vndbScore": 81.1,
+      "vndbVotes": 1005,
       "bangumiScore": 84,
-      "bangumiVotes": 1392,
+      "bangumiVotes": 1393,
       "egsScore": 79.83,
       "egsVotes": 92,
       "egsMedian": 81
@@ -2526,7 +2528,7 @@
         "released": "2000-02-25",
         "year": 2000,
         "image": "https://t.vndb.org/cv/74/85574.jpg",
-        "lengthMinutes": 1200,
+        "lengthMinutes": 1260,
         "genres": [
           "虚渊玄",
           "Nitro+",
@@ -2584,7 +2586,7 @@
       "vndbScore": 83.2,
       "vndbVotes": 643,
       "bangumiScore": 78,
-      "bangumiVotes": 128,
+      "bangumiVotes": 129,
       "egsScore": 82.52,
       "egsVotes": 322,
       "egsMedian": 83
@@ -2621,7 +2623,7 @@
       "vndbScore": 85.7,
       "vndbVotes": 315,
       "bangumiScore": 84,
-      "bangumiVotes": 580,
+      "bangumiVotes": 581,
       "egsScore": 80.36,
       "egsVotes": 754,
       "egsMedian": 82
@@ -2665,7 +2667,7 @@
         ]
       },
       "vndbScore": 81.8,
-      "vndbVotes": 11658,
+      "vndbVotes": 11666,
       "bangumiScore": 82,
       "bangumiVotes": 2602,
       "egsScore": 83.7,
@@ -2708,9 +2710,9 @@
         ]
       },
       "vndbScore": 82.8,
-      "vndbVotes": 9130,
+      "vndbVotes": 9135,
       "bangumiScore": 80,
-      "bangumiVotes": 2464,
+      "bangumiVotes": 2465,
       "egsScore": 80.41,
       "egsVotes": 125,
       "egsMedian": 80
@@ -2750,7 +2752,7 @@
         ]
       },
       "vndbScore": 83.2,
-      "vndbVotes": 3165,
+      "vndbVotes": 3166,
       "bangumiScore": 80,
       "bangumiVotes": 1605,
       "egsScore": 82.84,
@@ -2788,9 +2790,9 @@
         ]
       },
       "vndbScore": 82.1,
-      "vndbVotes": 12168,
+      "vndbVotes": 12170,
       "bangumiScore": 78,
-      "bangumiVotes": 4617,
+      "bangumiVotes": 4618,
       "egsScore": 84.66,
       "egsVotes": 5285,
       "egsMedian": 86
@@ -2824,7 +2826,7 @@
         ]
       },
       "vndbScore": 83,
-      "vndbVotes": 884,
+      "vndbVotes": 886,
       "bangumiScore": 82,
       "bangumiVotes": 517,
       "egsScore": 71.77,
@@ -2862,7 +2864,7 @@
       "vndbScore": 79.1,
       "vndbVotes": 183,
       "bangumiScore": 87,
-      "bangumiVotes": 1780,
+      "bangumiVotes": 1781,
       "egsScore": 76.6,
       "egsVotes": 1013,
       "egsMedian": 80
@@ -2900,9 +2902,9 @@
         ]
       },
       "vndbScore": 83.2,
-      "vndbVotes": 1152,
+      "vndbVotes": 1155,
       "bangumiScore": 81,
-      "bangumiVotes": 1310,
+      "bangumiVotes": 1311,
       "egsScore": 81.78,
       "egsVotes": 205,
       "egsMedian": 82
@@ -2976,7 +2978,7 @@
         ]
       },
       "vndbScore": 82.7,
-      "vndbVotes": 798,
+      "vndbVotes": 797,
       "bangumiScore": 76,
       "bangumiVotes": 98,
       "egsScore": 83.08,
@@ -3023,9 +3025,9 @@
         ]
       },
       "vndbScore": 80.8,
-      "vndbVotes": 13350,
+      "vndbVotes": 13357,
       "bangumiScore": 85,
-      "bangumiVotes": 5109,
+      "bangumiVotes": 5111,
       "egsScore": 83.14,
       "egsVotes": 279,
       "egsMedian": 85
@@ -3062,9 +3064,9 @@
         ]
       },
       "vndbScore": 85.3,
-      "vndbVotes": 3677,
+      "vndbVotes": 3679,
       "bangumiScore": 77,
-      "bangumiVotes": 4348,
+      "bangumiVotes": 4350,
       "egsScore": 85.71,
       "egsVotes": 1696,
       "egsMedian": 86
@@ -3144,7 +3146,7 @@
       "vndbScore": 74.4,
       "vndbVotes": 1728,
       "bangumiScore": 83,
-      "bangumiVotes": 2327,
+      "bangumiVotes": 2328,
       "egsScore": 85.7,
       "egsVotes": 1869,
       "egsMedian": 88
@@ -3182,7 +3184,7 @@
       "vndbScore": 82.6,
       "vndbVotes": 530,
       "bangumiScore": 79,
-      "bangumiVotes": 2007,
+      "bangumiVotes": 2012,
       "egsScore": 87.14,
       "egsVotes": 688,
       "egsMedian": 88
@@ -3257,7 +3259,7 @@
         ]
       },
       "vndbScore": 82.7,
-      "vndbVotes": 844,
+      "vndbVotes": 846,
       "bangumiScore": 81,
       "bangumiVotes": 1039,
       "egsScore": 82.3,
@@ -3298,7 +3300,7 @@
         ]
       },
       "vndbScore": 82,
-      "vndbVotes": 6026,
+      "vndbVotes": 6030,
       "bangumiScore": 80,
       "bangumiVotes": 1237,
       "egsScore": 82.45,
@@ -3337,7 +3339,7 @@
         ]
       },
       "vndbScore": 85,
-      "vndbVotes": 3842,
+      "vndbVotes": 3843,
       "bangumiScore": 74,
       "bangumiVotes": 2240,
       "egsScore": 85.35,
@@ -3378,9 +3380,9 @@
         ]
       },
       "vndbScore": 82.1,
-      "vndbVotes": 2879,
+      "vndbVotes": 2880,
       "bangumiScore": 78,
-      "bangumiVotes": 527,
+      "bangumiVotes": 528,
       "egsScore": 83.92,
       "egsVotes": 198,
       "egsMedian": 85
@@ -3452,7 +3454,7 @@
       "vndbScore": 81.5,
       "vndbVotes": 638,
       "bangumiScore": 79,
-      "bangumiVotes": 3158,
+      "bangumiVotes": 3159,
       "egsScore": 84.85,
       "egsVotes": 1739,
       "egsMedian": 85
@@ -3475,7 +3477,7 @@
         "released": "2000-09-08",
         "year": 2000,
         "image": "https://t.vndb.org/cv/04/103904.jpg",
-        "lengthMinutes": 1808,
+        "lengthMinutes": 1834,
         "genres": [
           "key",
           "麻枝准",
@@ -3497,7 +3499,7 @@
         ]
       },
       "vndbScore": 78.1,
-      "vndbVotes": 2990,
+      "vndbVotes": 2993,
       "bangumiScore": 83,
       "bangumiVotes": 2720,
       "egsScore": 82.95,
@@ -3587,9 +3589,9 @@
         ]
       },
       "vndbScore": 80.7,
-      "vndbVotes": 9522,
+      "vndbVotes": 9526,
       "bangumiScore": 83,
-      "bangumiVotes": 4578,
+      "bangumiVotes": 4579,
       "egsScore": 80.9,
       "egsVotes": 83,
       "egsMedian": 81
@@ -3665,7 +3667,7 @@
       "vndbScore": 81.6,
       "vndbVotes": 992,
       "bangumiScore": 78,
-      "bangumiVotes": 1529,
+      "bangumiVotes": 1528,
       "egsScore": 83.68,
       "egsVotes": 1336,
       "egsMedian": 85
@@ -3707,42 +3709,6 @@
       "egsMedian": 80
     },
     {
-      "name": "神採りアルケミーマイスター",
-      "vndbId": "v5652",
-      "bangumiId": "13003",
-      "egsId": "14709",
-      "metadata": {
-        "titles": {
-          "en": "Kamidori Alchemy Meister",
-          "zh": "神采炼金大师",
-          "ja": "神採りアルケミーマイスター"
-        },
-        "descriptions": {
-          "en": "In the Setetori region of the southern part of the Raulbhach continent lies the Mikelti Kingdom, and amongst the seven major cities of this region is the workshop city of Yuidora. This is where a young orphan named Wilfred lives, pursuing his dream of becoming an alchemist. However, soon after gaining his license he gets entangled with three girls with differing personalities and goals, and he soon agrees to hire them as his guards in order to help each other out. Like this, Wil begins his life as an alchemist, surrounded by the ever growing group of his allies as he follows his parents' footsteps in becoming a great alchemist. Spiritual sequel of Himegari Dungeon Meister, with a heavier focus on item creation.",
-          "zh": "ラウルバーシュ大陸南方セテトリ地方―― その一角を担うミケルティ王国は、長きに渡る戦争の末に連合都市として新たな歴史を刻み始めていた。 ミケルティ王国連合七大都市のひとつユイドラは、諸国の技術が集まり多種多様な武具が生み出される工房都市。 そんな街に暮らすウィルフレドは亡き両親から小さな工房を受け継ぎ、今、工匠として希望に満ちた一歩を踏み出した。 未だ王国内や隣国との緊張状態が続く中、それぞれに苦悩を抱えた三人の女性を護衛として招き入れるウィルフレド。 彼は新たな技術の発見と創造を目指し、様々な種族の協力を得ながら、さらなる研鑽と工房の発展に勤しむ日々を送る。 やがて工房を発展させつつ仲間たちとの愛情を深めていく中、それぞれが抱える問題に直面する。 国内での紛争、他国との戦争、他種族との諍いと、ユイドラを含むミケルティ王国連合の存亡をかけた戦乱に巻き込まれていく……。 王国の平和は、若き少年と少女たちの手に委ねられた。"
-        },
-        "released": "2011-04-22",
-        "year": 2011,
-        "image": "https://t.vndb.org/cv/28/89128.jpg",
-        "lengthMinutes": 7200,
-        "genres": [
-          "Eushully",
-          "SLG",
-          "神採"
-        ],
-        "platforms": [
-          "win"
-        ]
-      },
-      "vndbScore": 81.2,
-      "vndbVotes": 5176,
-      "bangumiScore": 74,
-      "bangumiVotes": 602,
-      "egsScore": 83.7,
-      "egsVotes": 1368,
-      "egsMedian": 85
-    },
-    {
       "name": "Fate/EXTRA CCC",
       "vndbId": "v12369",
       "bangumiId": "35862",
@@ -3773,9 +3739,45 @@
       "vndbScore": 82.7,
       "vndbVotes": 810,
       "bangumiScore": 77,
-      "bangumiVotes": 299,
+      "bangumiVotes": 300,
       "egsScore": 82.25,
       "egsVotes": 92,
+      "egsMedian": 85
+    },
+    {
+      "name": "神採りアルケミーマイスター",
+      "vndbId": "v5652",
+      "bangumiId": "13003",
+      "egsId": "14709",
+      "metadata": {
+        "titles": {
+          "en": "Kamidori Alchemy Meister",
+          "zh": "神采炼金大师",
+          "ja": "神採りアルケミーマイスター"
+        },
+        "descriptions": {
+          "en": "In the Setetori region of the southern part of the Raulbhach continent lies the Mikelti Kingdom, and amongst the seven major cities of this region is the workshop city of Yuidora. This is where a young orphan named Wilfred lives, pursuing his dream of becoming an alchemist. However, soon after gaining his license he gets entangled with three girls with differing personalities and goals, and he soon agrees to hire them as his guards in order to help each other out. Like this, Wil begins his life as an alchemist, surrounded by the ever growing group of his allies as he follows his parents' footsteps in becoming a great alchemist. Spiritual sequel of Himegari Dungeon Meister, with a heavier focus on item creation.",
+          "zh": "ラウルバーシュ大陸南方セテトリ地方―― その一角を担うミケルティ王国は、長きに渡る戦争の末に連合都市として新たな歴史を刻み始めていた。 ミケルティ王国連合七大都市のひとつユイドラは、諸国の技術が集まり多種多様な武具が生み出される工房都市。 そんな街に暮らすウィルフレドは亡き両親から小さな工房を受け継ぎ、今、工匠として希望に満ちた一歩を踏み出した。 未だ王国内や隣国との緊張状態が続く中、それぞれに苦悩を抱えた三人の女性を護衛として招き入れるウィルフレド。 彼は新たな技術の発見と創造を目指し、様々な種族の協力を得ながら、さらなる研鑽と工房の発展に勤しむ日々を送る。 やがて工房を発展させつつ仲間たちとの愛情を深めていく中、それぞれが抱える問題に直面する。 国内での紛争、他国との戦争、他種族との諍いと、ユイドラを含むミケルティ王国連合の存亡をかけた戦乱に巻き込まれていく……。 王国の平和は、若き少年と少女たちの手に委ねられた。"
+        },
+        "released": "2011-04-22",
+        "year": 2011,
+        "image": "https://t.vndb.org/cv/28/89128.jpg",
+        "lengthMinutes": 7200,
+        "genres": [
+          "Eushully",
+          "SLG",
+          "神採"
+        ],
+        "platforms": [
+          "win"
+        ]
+      },
+      "vndbScore": 81.1,
+      "vndbVotes": 5177,
+      "bangumiScore": 74,
+      "bangumiVotes": 602,
+      "egsScore": 83.7,
+      "egsVotes": 1368,
       "egsMedian": 85
     },
     {
@@ -3813,9 +3815,9 @@
         ]
       },
       "vndbScore": 82.6,
-      "vndbVotes": 6677,
+      "vndbVotes": 6680,
       "bangumiScore": 78,
-      "bangumiVotes": 4487,
+      "bangumiVotes": 4489,
       "egsScore": 83.25,
       "egsVotes": 1779,
       "egsMedian": 85
@@ -3854,9 +3856,9 @@
         ]
       },
       "vndbScore": 81.4,
-      "vndbVotes": 5894,
+      "vndbVotes": 5895,
       "bangumiScore": 78,
-      "bangumiVotes": 1752,
+      "bangumiVotes": 1753,
       "egsScore": 82.36,
       "egsVotes": 2634,
       "egsMedian": 85
@@ -3893,7 +3895,7 @@
       "vndbScore": 75,
       "vndbVotes": 763,
       "bangumiScore": 85,
-      "bangumiVotes": 1123,
+      "bangumiVotes": 1124,
       "egsScore": 81.56,
       "egsVotes": 930,
       "egsMedian": 85
@@ -3974,7 +3976,7 @@
         ]
       },
       "vndbScore": 81.3,
-      "vndbVotes": 1001,
+      "vndbVotes": 1004,
       "bangumiScore": 79,
       "bangumiVotes": 94
     },
@@ -4081,8 +4083,8 @@
           "web"
         ]
       },
-      "vndbScore": 79.1,
-      "vndbVotes": 565,
+      "vndbScore": 79.2,
+      "vndbVotes": 566,
       "bangumiScore": 82,
       "bangumiVotes": 2439,
       "egsScore": 80.32,
@@ -4126,9 +4128,9 @@
         ]
       },
       "vndbScore": 79.3,
-      "vndbVotes": 3657,
+      "vndbVotes": 3659,
       "bangumiScore": 82,
-      "bangumiVotes": 5702,
+      "bangumiVotes": 5704,
       "egsScore": 83.43,
       "egsVotes": 92,
       "egsMedian": 85
@@ -4198,7 +4200,7 @@
         ]
       },
       "vndbScore": 80.2,
-      "vndbVotes": 549,
+      "vndbVotes": 551,
       "bangumiScore": 79,
       "bangumiVotes": 2772,
       "egsScore": 83.67,
@@ -4269,7 +4271,7 @@
         ]
       },
       "vndbScore": 81.2,
-      "vndbVotes": 660,
+      "vndbVotes": 661,
       "bangumiScore": null,
       "bangumiVotes": null,
       "egsScore": 78.99,
@@ -4309,7 +4311,7 @@
         ]
       },
       "vndbScore": 80.4,
-      "vndbVotes": 4815,
+      "vndbVotes": 4816,
       "bangumiScore": 76,
       "bangumiVotes": 1048,
       "egsScore": 82.92,
@@ -4381,9 +4383,9 @@
         ]
       },
       "vndbScore": 84.4,
-      "vndbVotes": 654,
+      "vndbVotes": 655,
       "bangumiScore": 77,
-      "bangumiVotes": 1789,
+      "bangumiVotes": 1788,
       "egsScore": 83.07,
       "egsVotes": 1013,
       "egsMedian": 85
@@ -4418,7 +4420,7 @@
         ]
       },
       "vndbScore": 80.5,
-      "vndbVotes": 3895,
+      "vndbVotes": 3896,
       "bangumiScore": null,
       "bangumiVotes": null,
       "egsScore": 80.56,
@@ -4456,7 +4458,7 @@
       "vndbScore": 77.7,
       "vndbVotes": 282,
       "bangumiScore": 82,
-      "bangumiVotes": 1091,
+      "bangumiVotes": 1092,
       "egsScore": 79.78,
       "egsVotes": 785,
       "egsMedian": 80
@@ -4504,7 +4506,7 @@
       "vndbScore": 78.8,
       "vndbVotes": 229,
       "bangumiScore": 81,
-      "bangumiVotes": 1942,
+      "bangumiVotes": 1944,
       "egsScore": 76.88,
       "egsVotes": 116,
       "egsMedian": 78
@@ -4613,9 +4615,9 @@
         ]
       },
       "vndbScore": 76.2,
-      "vndbVotes": 3642,
+      "vndbVotes": 3643,
       "bangumiScore": 81,
-      "bangumiVotes": 2289,
+      "bangumiVotes": 2290,
       "egsScore": 84.43,
       "egsVotes": 2239,
       "egsMedian": 85
@@ -4693,9 +4695,9 @@
         ]
       },
       "vndbScore": 80.7,
-      "vndbVotes": 7729,
+      "vndbVotes": 7732,
       "bangumiScore": 79,
-      "bangumiVotes": 3327,
+      "bangumiVotes": 3331,
       "egsScore": 79.47,
       "egsVotes": 137,
       "egsMedian": 80
@@ -4726,7 +4728,7 @@
         ]
       },
       "vndbScore": 79.3,
-      "vndbVotes": 569,
+      "vndbVotes": 570,
       "bangumiScore": null,
       "bangumiVotes": null,
       "egsScore": 81.12,
@@ -4762,9 +4764,9 @@
         ]
       },
       "vndbScore": 79.4,
-      "vndbVotes": 427,
+      "vndbVotes": 428,
       "bangumiScore": 79,
-      "bangumiVotes": 1354,
+      "bangumiVotes": 1356,
       "egsScore": 84.16,
       "egsVotes": 317,
       "egsMedian": 85
@@ -4800,9 +4802,9 @@
         ]
       },
       "vndbScore": 80.8,
-      "vndbVotes": 790,
+      "vndbVotes": 791,
       "bangumiScore": 79,
-      "bangumiVotes": 680,
+      "bangumiVotes": 682,
       "egsScore": 80.94,
       "egsVotes": 212,
       "egsMedian": 80
@@ -4840,7 +4842,7 @@
         ]
       },
       "vndbScore": 81.2,
-      "vndbVotes": 3929,
+      "vndbVotes": 3930,
       "bangumiScore": 78,
       "bangumiVotes": 250,
       "egsScore": 70.15,
@@ -4921,6 +4923,42 @@
       "egsMedian": 80
     },
     {
+      "name": "ウウウルトラC",
+      "vndbId": "v23393",
+      "bangumiId": "277373",
+      "egsId": "30070",
+      "metadata": {
+        "titles": {
+          "en": "UuultraC",
+          "zh": "ウウウルトラC",
+          "ja": "ウウウルトラC"
+        },
+        "descriptions": {
+          "en": "A golden era of artists, actors, and heroes is shaken to its core when kaiju straight out of black & white cinema attack Japan! One couple falls victim to the attacks and must face the reality of the kaiju's infectious nature turning others into more kaiju and join the fight for acceptance. One couple must deal with the strain and stress of fighting the kaiju and defending the people as the superhero team, Icarus Rangers. And one couple must struggle with their complex relationships with both sides of the kaiju versus hero battles. With kaiju, heroes, robots, and more abound, you won't want to miss this homage to classic tokusatsu and its deep exploration of identity and one's place in the world! [From Official Website]",
+          "zh": "昭和45年3月。 東京は祖師谷に住む正太郎は恋人・狐塚君と二人暮らし。 世間では人の怪獣化が感染症として認知され、 受け入れを促す一方で不穏な空気が漂っていた。 正太郎は正義に憧れるその一人。 しかし、感染者の血を浴びたことにより日常は変容する。 怪獣、 ヒーロー、 巨大ロボット、 3人の主人公たち。 昭和の遺物を巡るアバンギャルドな特撮ドラマ。 どなたもどうかお入りください。"
+        },
+        "released": "2020-09-18",
+        "year": 2020,
+        "image": "https://t.vndb.org/cv/88/77788.jpg",
+        "lengthMinutes": 840,
+        "genres": [
+          "BL",
+          "くろさわ凛子",
+          "ADELTA"
+        ],
+        "platforms": [
+          "win"
+        ]
+      },
+      "vndbScore": 80.7,
+      "vndbVotes": 525,
+      "bangumiScore": 75,
+      "bangumiVotes": 95,
+      "egsScore": 82.36,
+      "egsVotes": 39,
+      "egsMedian": 80
+    },
+    {
       "name": "RanceVI -ゼス崩壊-",
       "vndbId": "v2047",
       "bangumiId": "11168",
@@ -4949,10 +4987,10 @@
           "web"
         ]
       },
-      "vndbScore": 79.3,
-      "vndbVotes": 2279,
+      "vndbScore": 79.2,
+      "vndbVotes": 2280,
       "bangumiScore": 74,
-      "bangumiVotes": 1876,
+      "bangumiVotes": 1877,
       "egsScore": 84.51,
       "egsVotes": 1960,
       "egsMedian": 85
@@ -4993,46 +5031,10 @@
       "vndbScore": 81.5,
       "vndbVotes": 3872,
       "bangumiScore": 76,
-      "bangumiVotes": 3362,
+      "bangumiVotes": 3364,
       "egsScore": 82.66,
       "egsVotes": 1907,
       "egsMedian": 84
-    },
-    {
-      "name": "ウウウルトラC",
-      "vndbId": "v23393",
-      "bangumiId": "277373",
-      "egsId": "30070",
-      "metadata": {
-        "titles": {
-          "en": "UuultraC",
-          "zh": "ウウウルトラC",
-          "ja": "ウウウルトラC"
-        },
-        "descriptions": {
-          "en": "A golden era of artists, actors, and heroes is shaken to its core when kaiju straight out of black & white cinema attack Japan! One couple falls victim to the attacks and must face the reality of the kaiju's infectious nature turning others into more kaiju and join the fight for acceptance. One couple must deal with the strain and stress of fighting the kaiju and defending the people as the superhero team, Icarus Rangers. And one couple must struggle with their complex relationships with both sides of the kaiju versus hero battles. With kaiju, heroes, robots, and more abound, you won't want to miss this homage to classic tokusatsu and its deep exploration of identity and one's place in the world! [From Official Website]",
-          "zh": "昭和45年3月。 東京は祖師谷に住む正太郎は恋人・狐塚君と二人暮らし。 世間では人の怪獣化が感染症として認知され、 受け入れを促す一方で不穏な空気が漂っていた。 正太郎は正義に憧れるその一人。 しかし、感染者の血を浴びたことにより日常は変容する。 怪獣、 ヒーロー、 巨大ロボット、 3人の主人公たち。 昭和の遺物を巡るアバンギャルドな特撮ドラマ。 どなたもどうかお入りください。"
-        },
-        "released": "2020-09-18",
-        "year": 2020,
-        "image": "https://t.vndb.org/cv/88/77788.jpg",
-        "lengthMinutes": 840,
-        "genres": [
-          "BL",
-          "くろさわ凛子",
-          "ADELTA"
-        ],
-        "platforms": [
-          "win"
-        ]
-      },
-      "vndbScore": 80.6,
-      "vndbVotes": 524,
-      "bangumiScore": 75,
-      "bangumiVotes": 95,
-      "egsScore": 82.36,
-      "egsVotes": 39,
-      "egsMedian": 80
     },
     {
       "name": "Dies irae ~Interview with Kaziklu Bey~",
@@ -5101,7 +5103,7 @@
         ]
       },
       "vndbScore": 80.4,
-      "vndbVotes": 2756,
+      "vndbVotes": 2758,
       "bangumiScore": 74,
       "bangumiVotes": 318,
       "egsScore": 80.21,
@@ -5136,10 +5138,10 @@
           "win"
         ]
       },
-      "vndbScore": 79.2,
-      "vndbVotes": 782,
+      "vndbScore": 79.3,
+      "vndbVotes": 783,
       "bangumiScore": 79,
-      "bangumiVotes": 2993,
+      "bangumiVotes": 2995,
       "egsScore": 81.47,
       "egsVotes": 1002,
       "egsMedian": 82
@@ -5177,45 +5179,6 @@
       "bangumiVotes": 98
     },
     {
-      "name": "VA-11 HALL-A",
-      "vndbId": "v18872",
-      "egsId": "26047",
-      "metadata": {
-        "titles": {
-          "en": "VA-11 HALL-A",
-          "zh": "VA-11 HALL-A",
-          "ja": "VA-11 HALL-A"
-        },
-        "descriptions": {
-          "en": "In this world, corporations reign supreme, all human life is infected with nanomachines designed to oppress them, and the terrifying White Knights ensure that everyone obeys the laws. But, this is not about those people. You are a bartender at VA-11 HALL-A, affectionately nicknamed \"Valhalla.\" Although it is just a small bar downtown, it attracts the most fascinating people this side of dystopia. Keep your clients lubricated and you will be made privy to the most interesting stories. [From Official website]",
-          "zh": "In this world, corporations reign supreme, all human life is infected with nanomachines designed to oppress them, and the terrifying White Knights ensure that everyone obeys the laws. But, this is not about those people. You are a bartender at VA-11 HALL-A, affectionately nicknamed \"Valhalla.\" Although it is just a small bar downtown, it attracts the most fascinating people this side of dystopia. Keep your clients lubricated and you will be made privy to the most interesting stories. [From Official website]"
-        },
-        "released": "2014-08-18",
-        "year": 2014,
-        "image": "https://t.vndb.org/cv/53/87453.jpg",
-        "lengthMinutes": 906,
-        "genres": [
-          "Visual novel"
-        ],
-        "platforms": [
-          "win",
-          "lin",
-          "mac",
-          "and",
-          "ps4",
-          "psv",
-          "swi"
-        ]
-      },
-      "vndbScore": 79.7,
-      "vndbVotes": 5120,
-      "bangumiScore": null,
-      "bangumiVotes": null,
-      "egsScore": 75.68,
-      "egsVotes": 34,
-      "egsMedian": 75
-    },
-    {
       "name": "もんむす・くえすと!中章 ～負ければ妖女に犯される～",
       "vndbId": "v7853",
       "bangumiId": "88894",
@@ -5249,52 +5212,12 @@
         ]
       },
       "vndbScore": 80,
-      "vndbVotes": 3481,
+      "vndbVotes": 3482,
       "bangumiScore": 75,
       "bangumiVotes": 388,
       "egsScore": 81.03,
       "egsVotes": 209,
       "egsMedian": 81
-    },
-    {
-      "name": "Collar x Malice",
-      "vndbId": "v18160",
-      "bangumiId": "144083",
-      "egsId": "22480",
-      "metadata": {
-        "titles": {
-          "en": "Collar x Malice",
-          "zh": "项圈×恶意",
-          "ja": "Collar x Malice"
-        },
-        "descriptions": {
-          "en": "The protagonist is a policewoman working in Shinjuku, a city that has become unsafe after a series of violent crimes known as the \"X-Day Incidents\". While responding to a call late one night, an unknown assailant attacked her, and when she regained consciousness she had a collar with a poison delivery mechanism, capable of being activated remotely, around her neck. Amidst the chaos and right before the protagonist’s eyes were men with suspicious backgrounds. They’re all part of an organisation composed of former police officers and have taken it upon themselves to investigate the brutal cases. Without knowing whether she should trust these men or not, she suddenly became the person who held the key to this massive case. In order to remove the collar that places her at the edge of death and to liberate Shinjuku from the malice that binds it, she cooperates; beginning to investigate the incidents with the men. Who holds her life in their hands? Will Shinjuku ever return to its former glory? [Translation of the official website's story summary.]",
-          "zh": "連続凶悪事件――通称【X-Day事件】が起き、 危険な街となってしまった新宿で、警察官として働く主人公。 地域の安全のために日々奔走していた彼女は、 ある夜、何者かに襲われ、 毒が内蔵された首輪をはめられてしまう。 混乱する主人公の目の前に現れたのは、素性の怪しい男性たち。 元警察組織に所属していた彼らは、独自で凶悪事件を捜査しているのだという。 彼らを信用していいのかわからないまま、 突如、大事件の鍵を握る存在となってしまった主人公。 死と隣り合わせの首輪を外すため、 悪意に包まれた新宿を解放するため、 彼らと共に捜査を開始することになるが――。 彼女の命は誰が握っているのか。 そして、新宿が再生される日は来るのか――。"
-        },
-        "released": "2016-08-18",
-        "year": 2016,
-        "image": "https://t.vndb.org/cv/00/91400.jpg",
-        "lengthMinutes": 3300,
-        "genres": [
-          "乙女向",
-          "Otomate",
-          "乙女ゲーム"
-        ],
-        "platforms": [
-          "win",
-          "ios",
-          "and",
-          "psv",
-          "swi"
-        ]
-      },
-      "vndbScore": 82,
-      "vndbVotes": 1507,
-      "bangumiScore": 72,
-      "bangumiVotes": 459,
-      "egsScore": 76.15,
-      "egsVotes": 26,
-      "egsMedian": 77
     },
     {
       "name": "narcissu -SIDE 2nd-",
@@ -5331,13 +5254,92 @@
           "web"
         ]
       },
-      "vndbScore": 75.4,
-      "vndbVotes": 2861,
+      "vndbScore": 75.5,
+      "vndbVotes": 2862,
       "bangumiScore": 82,
-      "bangumiVotes": 3628,
+      "bangumiVotes": 3629,
       "egsScore": 81.81,
       "egsVotes": 922,
       "egsMedian": 82
+    },
+    {
+      "name": "VA-11 HALL-A",
+      "vndbId": "v18872",
+      "egsId": "26047",
+      "metadata": {
+        "titles": {
+          "en": "VA-11 HALL-A",
+          "zh": "VA-11 HALL-A",
+          "ja": "VA-11 HALL-A"
+        },
+        "descriptions": {
+          "en": "In this world, corporations reign supreme, all human life is infected with nanomachines designed to oppress them, and the terrifying White Knights ensure that everyone obeys the laws. But, this is not about those people. You are a bartender at VA-11 HALL-A, affectionately nicknamed \"Valhalla.\" Although it is just a small bar downtown, it attracts the most fascinating people this side of dystopia. Keep your clients lubricated and you will be made privy to the most interesting stories. [From Official website]",
+          "zh": "In this world, corporations reign supreme, all human life is infected with nanomachines designed to oppress them, and the terrifying White Knights ensure that everyone obeys the laws. But, this is not about those people. You are a bartender at VA-11 HALL-A, affectionately nicknamed \"Valhalla.\" Although it is just a small bar downtown, it attracts the most fascinating people this side of dystopia. Keep your clients lubricated and you will be made privy to the most interesting stories. [From Official website]"
+        },
+        "released": "2014-08-18",
+        "year": 2014,
+        "image": "https://t.vndb.org/cv/53/87453.jpg",
+        "lengthMinutes": 906,
+        "genres": [
+          "Visual novel"
+        ],
+        "platforms": [
+          "win",
+          "lin",
+          "mac",
+          "and",
+          "ps4",
+          "psv",
+          "swi"
+        ]
+      },
+      "vndbScore": 79.6,
+      "vndbVotes": 5121,
+      "bangumiScore": null,
+      "bangumiVotes": null,
+      "egsScore": 75.68,
+      "egsVotes": 34,
+      "egsMedian": 75
+    },
+    {
+      "name": "Collar x Malice",
+      "vndbId": "v18160",
+      "bangumiId": "144083",
+      "egsId": "22480",
+      "metadata": {
+        "titles": {
+          "en": "Collar x Malice",
+          "zh": "项圈×恶意",
+          "ja": "Collar x Malice"
+        },
+        "descriptions": {
+          "en": "The protagonist is a policewoman working in Shinjuku, a city that has become unsafe after a series of violent crimes known as the \"X-Day Incidents\". While responding to a call late one night, an unknown assailant attacked her, and when she regained consciousness she had a collar with a poison delivery mechanism, capable of being activated remotely, around her neck. Amidst the chaos and right before the protagonist’s eyes were men with suspicious backgrounds. They’re all part of an organisation composed of former police officers and have taken it upon themselves to investigate the brutal cases. Without knowing whether she should trust these men or not, she suddenly became the person who held the key to this massive case. In order to remove the collar that places her at the edge of death and to liberate Shinjuku from the malice that binds it, she cooperates; beginning to investigate the incidents with the men. Who holds her life in their hands? Will Shinjuku ever return to its former glory? [Translation of the official website's story summary.]",
+          "zh": "連続凶悪事件――通称【X-Day事件】が起き、 危険な街となってしまった新宿で、警察官として働く主人公。 地域の安全のために日々奔走していた彼女は、 ある夜、何者かに襲われ、 毒が内蔵された首輪をはめられてしまう。 混乱する主人公の目の前に現れたのは、素性の怪しい男性たち。 元警察組織に所属していた彼らは、独自で凶悪事件を捜査しているのだという。 彼らを信用していいのかわからないまま、 突如、大事件の鍵を握る存在となってしまった主人公。 死と隣り合わせの首輪を外すため、 悪意に包まれた新宿を解放するため、 彼らと共に捜査を開始することになるが――。 彼女の命は誰が握っているのか。 そして、新宿が再生される日は来るのか――。"
+        },
+        "released": "2016-08-18",
+        "year": 2016,
+        "image": "https://t.vndb.org/cv/00/91400.jpg",
+        "lengthMinutes": 3300,
+        "genres": [
+          "乙女向",
+          "Otomate",
+          "乙女ゲーム"
+        ],
+        "platforms": [
+          "win",
+          "ios",
+          "and",
+          "psv",
+          "swi"
+        ]
+      },
+      "vndbScore": 81.9,
+      "vndbVotes": 1507,
+      "bangumiScore": 72,
+      "bangumiVotes": 459,
+      "egsScore": 76.15,
+      "egsVotes": 26,
+      "egsMedian": 77
     },
     {
       "name": "相州戦神館學園 八命陣",
@@ -5377,6 +5379,42 @@
       "egsMedian": 80
     },
     {
+      "name": "ましろ色シンフォニー SANA EDITION",
+      "vndbId": "v37651",
+      "bangumiId": "417463",
+      "egsId": "33110",
+      "metadata": {
+        "titles": {
+          "en": "Mashiroiro Symphony HD -Sana Edition-",
+          "zh": "纯白交响曲 SANA EDITION",
+          "ja": "ましろ色シンフォニー SANA EDITION"
+        },
+        "descriptions": {
+          "en": "Inui Sana is a young lady who can’t admit her feelings. Luckily, she doesn’t have to at Yuihime Girls Private Academy, the place where she spends fun-filled days with her precious friends and the senior she loves. Or at least, that’s how things have always been... Now, her comfy and prestigious school is being merged with the boys’ school from the upstart side of town! Shoved into a combined class to trial the new system, she finds her world changing faster than she can keep up—and one of her new classmates makes her heart beat faster too. Quicker and quicker, the changes pile up, altering the landscape of her life like a sudden snowfall... A new love story is about to begin. [From Steam] The standalone game of Inui Sana's route that was first included in the console edition of the Mashiro-iro Symphony. In addition, newly written scenes, new CGs, as well as H scenes are also added.",
+          "zh": "自分の気持ちに素直になれない少女「乾 紗凪」 「私立結姫女子学園」大好きな先輩や大切な友達と楽しく過ごす場所 ——— だったのだが 紗凪は学園統合のテスト生として 「私立各務台学園」の生徒たちと同じクラスになり 周りの環境が一気に変わってしまう そこで出逢った一人の生徒 彼の存在が紗凪の心を揺るがした まるで降り積もる雪が街を変えていくように これは、もう一つの恋の物語"
+        },
+        "released": "2023-06-23",
+        "year": 2023,
+        "image": "https://t.vndb.org/cv/16/90216.jpg",
+        "lengthMinutes": 864,
+        "genres": [
+          "和泉つばす",
+          "调色板",
+          "ぱれっと"
+        ],
+        "platforms": [
+          "win"
+        ]
+      },
+      "vndbScore": 82.6,
+      "vndbVotes": 799,
+      "bangumiScore": 76,
+      "bangumiVotes": 1077,
+      "egsScore": 81.77,
+      "egsVotes": 346,
+      "egsMedian": 81
+    },
+    {
       "name": "narcissu",
       "vndbId": "v10",
       "bangumiId": "1167",
@@ -5414,9 +5452,9 @@
         ]
       },
       "vndbScore": 75.1,
-      "vndbVotes": 7110,
+      "vndbVotes": 7114,
       "bangumiScore": 84,
-      "bangumiVotes": 6650,
+      "bangumiVotes": 6651,
       "egsScore": 79.74,
       "egsVotes": 1401,
       "egsMedian": 80
@@ -5461,42 +5499,6 @@
       "egsScore": 76.12,
       "egsVotes": 17,
       "egsMedian": 77
-    },
-    {
-      "name": "ましろ色シンフォニー SANA EDITION",
-      "vndbId": "v37651",
-      "bangumiId": "417463",
-      "egsId": "33110",
-      "metadata": {
-        "titles": {
-          "en": "Mashiroiro Symphony HD -Sana Edition-",
-          "zh": "纯白交响曲 SANA EDITION",
-          "ja": "ましろ色シンフォニー SANA EDITION"
-        },
-        "descriptions": {
-          "en": "Inui Sana is a young lady who can’t admit her feelings. Luckily, she doesn’t have to at Yuihime Girls Private Academy, the place where she spends fun-filled days with her precious friends and the senior she loves. Or at least, that’s how things have always been... Now, her comfy and prestigious school is being merged with the boys’ school from the upstart side of town! Shoved into a combined class to trial the new system, she finds her world changing faster than she can keep up—and one of her new classmates makes her heart beat faster too. Quicker and quicker, the changes pile up, altering the landscape of her life like a sudden snowfall... A new love story is about to begin. [From Steam] The standalone game of Inui Sana's route that was first included in the console edition of the Mashiro-iro Symphony. In addition, newly written scenes, new CGs, as well as H scenes are also added.",
-          "zh": "自分の気持ちに素直になれない少女「乾 紗凪」 「私立結姫女子学園」大好きな先輩や大切な友達と楽しく過ごす場所 ——— だったのだが 紗凪は学園統合のテスト生として 「私立各務台学園」の生徒たちと同じクラスになり 周りの環境が一気に変わってしまう そこで出逢った一人の生徒 彼の存在が紗凪の心を揺るがした まるで降り積もる雪が街を変えていくように これは、もう一つの恋の物語"
-        },
-        "released": "2023-06-23",
-        "year": 2023,
-        "image": "https://t.vndb.org/cv/16/90216.jpg",
-        "lengthMinutes": 864,
-        "genres": [
-          "和泉つばす",
-          "调色板",
-          "ぱれっと"
-        ],
-        "platforms": [
-          "win"
-        ]
-      },
-      "vndbScore": 82.5,
-      "vndbVotes": 798,
-      "bangumiScore": 76,
-      "bangumiVotes": 1076,
-      "egsScore": 81.77,
-      "egsVotes": 346,
-      "egsMedian": 81
     },
     {
       "name": "ノラと皇女と野良猫ハート2",
@@ -5571,9 +5573,9 @@
         ]
       },
       "vndbScore": 79.5,
-      "vndbVotes": 1138,
+      "vndbVotes": 1139,
       "bangumiScore": 76,
-      "bangumiVotes": 5334,
+      "bangumiVotes": 5337,
       "egsScore": 84.12,
       "egsVotes": 2527,
       "egsMedian": 85
@@ -5795,7 +5797,7 @@
         ]
       },
       "vndbScore": 81.1,
-      "vndbVotes": 1844,
+      "vndbVotes": 1846,
       "bangumiScore": 75,
       "bangumiVotes": 3229,
       "egsScore": 85.15,
@@ -5834,9 +5836,9 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 7986,
+      "vndbVotes": 7988,
       "bangumiScore": 75,
-      "bangumiVotes": 3740,
+      "bangumiVotes": 3739,
       "egsScore": 81.48,
       "egsVotes": 1320,
       "egsMedian": 83
@@ -5963,7 +5965,7 @@
       "vndbScore": 80.1,
       "vndbVotes": 1707,
       "bangumiScore": 74,
-      "bangumiVotes": 3218,
+      "bangumiVotes": 3219,
       "egsScore": 81.63,
       "egsVotes": 3116,
       "egsMedian": 83
@@ -6005,7 +6007,7 @@
       "vndbScore": 79.8,
       "vndbVotes": 473,
       "bangumiScore": 78,
-      "bangumiVotes": 810,
+      "bangumiVotes": 812,
       "egsScore": 79.44,
       "egsVotes": 64,
       "egsMedian": 80
@@ -6047,7 +6049,7 @@
         ]
       },
       "vndbScore": 78.8,
-      "vndbVotes": 18664,
+      "vndbVotes": 18671,
       "bangumiScore": 73,
       "bangumiVotes": 247,
       "egsScore": 72.32,
@@ -6122,7 +6124,7 @@
         ]
       },
       "vndbScore": 80.7,
-      "vndbVotes": 2900,
+      "vndbVotes": 2901,
       "bangumiScore": 81,
       "bangumiVotes": 502,
       "egsScore": 75.42,
@@ -6310,7 +6312,7 @@
       "vndbScore": 80.8,
       "vndbVotes": 413,
       "bangumiScore": 72,
-      "bangumiVotes": 1050,
+      "bangumiVotes": 1051,
       "egsScore": 82.26,
       "egsVotes": 986,
       "egsMedian": 83
@@ -6387,7 +6389,7 @@
         ]
       },
       "vndbScore": 79.3,
-      "vndbVotes": 1563,
+      "vndbVotes": 1564,
       "bangumiScore": 74,
       "bangumiVotes": 438,
       "egsScore": 78.95,
@@ -6499,9 +6501,9 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 2721,
+      "vndbVotes": 2723,
       "bangumiScore": 74,
-      "bangumiVotes": 3254,
+      "bangumiVotes": 3256,
       "egsScore": 83.91,
       "egsVotes": 880,
       "egsMedian": 85
@@ -6574,7 +6576,7 @@
         ]
       },
       "vndbScore": 84.2,
-      "vndbVotes": 517,
+      "vndbVotes": 518,
       "bangumiScore": 71,
       "bangumiVotes": 411,
       "egsScore": 75.86,
@@ -6610,9 +6612,9 @@
         ]
       },
       "vndbScore": 79.8,
-      "vndbVotes": 400,
+      "vndbVotes": 401,
       "bangumiScore": 73,
-      "bangumiVotes": 354,
+      "bangumiVotes": 355,
       "egsScore": 80.01,
       "egsVotes": 338,
       "egsMedian": 80
@@ -6644,7 +6646,7 @@
         ]
       },
       "vndbScore": 82.1,
-      "vndbVotes": 695,
+      "vndbVotes": 697,
       "bangumiScore": null,
       "bangumiVotes": null,
       "egsScore": 73.16,
@@ -6684,9 +6686,9 @@
         ]
       },
       "vndbScore": 80,
-      "vndbVotes": 1223,
+      "vndbVotes": 1226,
       "bangumiScore": 76,
-      "bangumiVotes": 1320,
+      "bangumiVotes": 1321,
       "egsScore": 74.7,
       "egsVotes": 20,
       "egsMedian": 75
@@ -6723,7 +6725,7 @@
         ]
       },
       "vndbScore": 79.4,
-      "vndbVotes": 8431,
+      "vndbVotes": 8434,
       "bangumiScore": 74,
       "bangumiVotes": 3867,
       "egsScore": 79.05,
@@ -6760,9 +6762,9 @@
         ]
       },
       "vndbScore": 80.8,
-      "vndbVotes": 1450,
+      "vndbVotes": 1451,
       "bangumiScore": 74,
-      "bangumiVotes": 2538,
+      "bangumiVotes": 2537,
       "egsScore": 79.52,
       "egsVotes": 1681,
       "egsMedian": 80
@@ -6797,7 +6799,7 @@
         ]
       },
       "vndbScore": 81.5,
-      "vndbVotes": 406,
+      "vndbVotes": 407,
       "bangumiScore": 75,
       "bangumiVotes": 600,
       "egsScore": 78.24,
@@ -6988,7 +6990,7 @@
       "vndbScore": 79.2,
       "vndbVotes": 2297,
       "bangumiScore": 74,
-      "bangumiVotes": 2483,
+      "bangumiVotes": 2484,
       "egsScore": 78.91,
       "egsVotes": 1740,
       "egsMedian": 80
@@ -7022,9 +7024,9 @@
         ]
       },
       "vndbScore": 79.4,
-      "vndbVotes": 616,
+      "vndbVotes": 617,
       "bangumiScore": 75,
-      "bangumiVotes": 1509,
+      "bangumiVotes": 1510,
       "egsScore": 80.44,
       "egsVotes": 395,
       "egsMedian": 80
@@ -7210,9 +7212,9 @@
         ]
       },
       "vndbScore": 79,
-      "vndbVotes": 1517,
+      "vndbVotes": 1518,
       "bangumiScore": 72,
-      "bangumiVotes": 585,
+      "bangumiVotes": 586,
       "egsScore": 74.16,
       "egsVotes": 352,
       "egsMedian": 77
@@ -7248,9 +7250,9 @@
         ]
       },
       "vndbScore": 80.1,
-      "vndbVotes": 509,
+      "vndbVotes": 510,
       "bangumiScore": 74,
-      "bangumiVotes": 1580,
+      "bangumiVotes": 1581,
       "egsScore": 78.45,
       "egsVotes": 653,
       "egsMedian": 80
@@ -7285,7 +7287,7 @@
         ]
       },
       "vndbScore": 80.1,
-      "vndbVotes": 1710,
+      "vndbVotes": 1711,
       "bangumiScore": 74,
       "bangumiVotes": 1751,
       "egsScore": 74.98,
@@ -7361,7 +7363,7 @@
       "vndbScore": 80.3,
       "vndbVotes": 507,
       "bangumiScore": 75,
-      "bangumiVotes": 3622,
+      "bangumiVotes": 3621,
       "egsScore": 82.13,
       "egsVotes": 303,
       "egsMedian": 82
@@ -7548,9 +7550,9 @@
         ]
       },
       "vndbScore": 78.8,
-      "vndbVotes": 2067,
+      "vndbVotes": 2068,
       "bangumiScore": 72,
-      "bangumiVotes": 1452,
+      "bangumiVotes": 1453,
       "egsScore": 77.25,
       "egsVotes": 36,
       "egsMedian": 78
@@ -7735,7 +7737,7 @@
       "vndbScore": 80.9,
       "vndbVotes": 714,
       "bangumiScore": 69,
-      "bangumiVotes": 1875,
+      "bangumiVotes": 1876,
       "egsScore": 83.07,
       "egsVotes": 743,
       "egsMedian": 84
@@ -7806,8 +7808,8 @@
           "win"
         ]
       },
-      "vndbScore": 78.8,
-      "vndbVotes": 895,
+      "vndbScore": 78.7,
+      "vndbVotes": 896,
       "bangumiScore": 69,
       "bangumiVotes": 535,
       "egsScore": 75.24,
@@ -7846,7 +7848,7 @@
       "vndbScore": 81.9,
       "vndbVotes": 368,
       "bangumiScore": 70,
-      "bangumiVotes": 989,
+      "bangumiVotes": 990,
       "egsScore": 82.02,
       "egsVotes": 249,
       "egsMedian": 82
@@ -7881,10 +7883,10 @@
           "swi"
         ]
       },
-      "vndbScore": 80.3,
-      "vndbVotes": 1324,
+      "vndbScore": 80.2,
+      "vndbVotes": 1325,
       "bangumiScore": 72,
-      "bangumiVotes": 4728,
+      "bangumiVotes": 4731,
       "egsScore": 83.7,
       "egsVotes": 474,
       "egsMedian": 85
@@ -7919,7 +7921,7 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 427,
+      "vndbVotes": 428,
       "bangumiScore": 71,
       "bangumiVotes": 1484,
       "egsScore": 81.79,
@@ -7956,7 +7958,7 @@
         ]
       },
       "vndbScore": 78.8,
-      "vndbVotes": 1156,
+      "vndbVotes": 1159,
       "bangumiScore": 65,
       "bangumiVotes": 619,
       "egsScore": 74.36,
@@ -7995,7 +7997,7 @@
         ]
       },
       "vndbScore": 79.9,
-      "vndbVotes": 663,
+      "vndbVotes": 665,
       "bangumiScore": 66,
       "bangumiVotes": 704,
       "egsScore": 81.23,
