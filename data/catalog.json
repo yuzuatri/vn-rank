@@ -30,9 +30,9 @@
         ]
       },
       "vndbScore": 90.7,
-      "vndbVotes": 1270,
+      "vndbVotes": 1271,
       "bangumiScore": 93,
-      "bangumiVotes": 3688,
+      "bangumiVotes": 3689,
       "egsScore": 93.48,
       "egsVotes": 1151,
       "egsMedian": 99
@@ -69,9 +69,9 @@
         ]
       },
       "vndbScore": 90.2,
-      "vndbVotes": 4662,
+      "vndbVotes": 4664,
       "bangumiScore": 91,
-      "bangumiVotes": 7227,
+      "bangumiVotes": 7229,
       "egsScore": 89.63,
       "egsVotes": 2631,
       "egsMedian": 94
@@ -117,9 +117,9 @@
         ]
       },
       "vndbScore": 90.2,
-      "vndbVotes": 17114,
+      "vndbVotes": 17123,
       "bangumiScore": 89,
-      "bangumiVotes": 8665,
+      "bangumiVotes": 8671,
       "egsScore": 90.54,
       "egsVotes": 503,
       "egsMedian": 93
@@ -159,9 +159,9 @@
         ]
       },
       "vndbScore": 90,
-      "vndbVotes": 11472,
+      "vndbVotes": 11473,
       "bangumiScore": 88,
-      "bangumiVotes": 4126,
+      "bangumiVotes": 4127,
       "egsScore": 89.42,
       "egsVotes": 3672,
       "egsMedian": 94
@@ -184,7 +184,7 @@
         "released": "2009-08-15",
         "year": 2009,
         "image": "https://t.vndb.org/cv/64/86264.jpg",
-        "lengthMinutes": 4276,
+        "lengthMinutes": 4277,
         "genres": [
           "竜騎士07",
           "悬疑",
@@ -204,7 +204,7 @@
         ]
       },
       "vndbScore": 89.9,
-      "vndbVotes": 11174,
+      "vndbVotes": 11187,
       "bangumiScore": 86,
       "bangumiVotes": 1529,
       "egsScore": 73.5,
@@ -236,13 +236,14 @@
           "神作"
         ],
         "platforms": [
-          "win"
+          "win",
+          "and"
         ]
       },
       "vndbScore": 90.2,
-      "vndbVotes": 6291,
+      "vndbVotes": 6295,
       "bangumiScore": 86,
-      "bangumiVotes": 4532,
+      "bangumiVotes": 4533,
       "egsScore": 88.85,
       "egsVotes": 3009,
       "egsMedian": 90
@@ -286,9 +287,9 @@
         ]
       },
       "vndbScore": 84.5,
-      "vndbVotes": 8817,
+      "vndbVotes": 8819,
       "bangumiScore": 91,
-      "bangumiVotes": 9984,
+      "bangumiVotes": 9989,
       "egsScore": 89.38,
       "egsVotes": 478,
       "egsMedian": 91
@@ -324,7 +325,7 @@
       "vndbScore": 86.8,
       "vndbVotes": 2749,
       "bangumiScore": 88,
-      "bangumiVotes": 3266,
+      "bangumiVotes": 3267,
       "egsScore": 88.88,
       "egsVotes": 2370,
       "egsMedian": 90
@@ -405,9 +406,9 @@
         ]
       },
       "vndbScore": 87.3,
-      "vndbVotes": 11556,
+      "vndbVotes": 11559,
       "bangumiScore": 89,
-      "bangumiVotes": 6533,
+      "bangumiVotes": 6534,
       "egsScore": 87.25,
       "egsVotes": 3294,
       "egsMedian": 90
@@ -452,7 +453,7 @@
         ]
       },
       "vndbScore": 88.4,
-      "vndbVotes": 8102,
+      "vndbVotes": 8104,
       "bangumiScore": 84,
       "bangumiVotes": 892,
       "egsScore": 83.5,
@@ -502,7 +503,7 @@
         ]
       },
       "vndbScore": 88.7,
-      "vndbVotes": 14096,
+      "vndbVotes": 14104,
       "bangumiScore": 84,
       "bangumiVotes": 2581,
       "egsScore": 76.11,
@@ -539,9 +540,9 @@
         ]
       },
       "vndbScore": 87.4,
-      "vndbVotes": 2615,
+      "vndbVotes": 2617,
       "bangumiScore": 87,
-      "bangumiVotes": 6775,
+      "bangumiVotes": 6777,
       "egsScore": 88.52,
       "egsVotes": 2670,
       "egsMedian": 90
@@ -580,9 +581,9 @@
         ]
       },
       "vndbScore": 87.3,
-      "vndbVotes": 1700,
+      "vndbVotes": 1702,
       "bangumiScore": 87,
-      "bangumiVotes": 1716,
+      "bangumiVotes": 1717,
       "egsScore": 86.92,
       "egsVotes": 38,
       "egsMedian": 88
@@ -622,9 +623,9 @@
         ]
       },
       "vndbScore": 89.1,
-      "vndbVotes": 2984,
+      "vndbVotes": 2985,
       "bangumiScore": 82,
-      "bangumiVotes": 1567,
+      "bangumiVotes": 1568,
       "egsScore": 89.41,
       "egsVotes": 327,
       "egsMedian": 90
@@ -647,7 +648,7 @@
         "released": "2010-03-26",
         "year": 2010,
         "image": "https://t.vndb.org/cv/17/90017.jpg",
-        "lengthMinutes": 3100,
+        "lengthMinutes": 3102,
         "genres": [
           "电波",
           "哲学",
@@ -663,7 +664,7 @@
         ]
       },
       "vndbScore": 86.8,
-      "vndbVotes": 12290,
+      "vndbVotes": 12295,
       "bangumiScore": 87,
       "bangumiVotes": 8629,
       "egsScore": 86.59,
@@ -688,7 +689,7 @@
         "released": "2012-12-31",
         "year": 2012,
         "image": "https://t.vndb.org/cv/31/77731.jpg",
-        "lengthMinutes": 2114,
+        "lengthMinutes": 2115,
         "genres": [
           "同人",
           "推理悬疑",
@@ -705,9 +706,9 @@
         ]
       },
       "vndbScore": 87.9,
-      "vndbVotes": 7772,
+      "vndbVotes": 7778,
       "bangumiScore": 84,
-      "bangumiVotes": 3132,
+      "bangumiVotes": 3136,
       "egsScore": 86.61,
       "egsVotes": 467,
       "egsMedian": 89
@@ -742,7 +743,7 @@
         ]
       },
       "vndbScore": 86.8,
-      "vndbVotes": 1993,
+      "vndbVotes": 1994,
       "bangumiScore": 86,
       "bangumiVotes": 3926,
       "egsScore": 88.6,
@@ -788,9 +789,9 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 6623,
+      "vndbVotes": 6625,
       "bangumiScore": 88,
-      "bangumiVotes": 4366,
+      "bangumiVotes": 4368,
       "egsScore": 84.44,
       "egsVotes": 62,
       "egsMedian": 85
@@ -828,9 +829,9 @@
         ]
       },
       "vndbScore": 82.5,
-      "vndbVotes": 3289,
+      "vndbVotes": 3291,
       "bangumiScore": 89,
-      "bangumiVotes": 4725,
+      "bangumiVotes": 4728,
       "egsScore": 79.98,
       "egsVotes": 255,
       "egsMedian": 80
@@ -867,7 +868,7 @@
         ]
       },
       "vndbScore": 83.9,
-      "vndbVotes": 1120,
+      "vndbVotes": 1121,
       "bangumiScore": 84,
       "bangumiVotes": 489,
       "egsScore": 87.28,
@@ -914,9 +915,9 @@
         ]
       },
       "vndbScore": 86.3,
-      "vndbVotes": 19437,
+      "vndbVotes": 19438,
       "bangumiScore": 83,
-      "bangumiVotes": 5598,
+      "bangumiVotes": 5600,
       "egsScore": 86.86,
       "egsVotes": 4860,
       "egsMedian": 90
@@ -951,9 +952,9 @@
         ]
       },
       "vndbScore": 88.2,
-      "vndbVotes": 3057,
+      "vndbVotes": 3059,
       "bangumiScore": 82,
-      "bangumiVotes": 2003,
+      "bangumiVotes": 2006,
       "egsScore": 86.74,
       "egsVotes": 317,
       "egsMedian": 87
@@ -976,7 +977,7 @@
         "released": "2012-04-12",
         "year": 2012,
         "image": "https://t.vndb.org/cv/24/85324.jpg",
-        "lengthMinutes": 1820,
+        "lengthMinutes": 1822,
         "genres": [
           "TypeMoon",
           "奈須きのこ",
@@ -989,9 +990,9 @@
         ]
       },
       "vndbScore": 86.2,
-      "vndbVotes": 5685,
+      "vndbVotes": 5690,
       "bangumiScore": 86,
-      "bangumiVotes": 7242,
+      "bangumiVotes": 7246,
       "egsScore": 82.05,
       "egsVotes": 1076,
       "egsMedian": 85
@@ -1038,9 +1039,9 @@
         ]
       },
       "vndbScore": 86.1,
-      "vndbVotes": 11453,
+      "vndbVotes": 11458,
       "bangumiScore": 83,
-      "bangumiVotes": 1289,
+      "bangumiVotes": 1291,
       "egsScore": 83.99,
       "egsVotes": 1151,
       "egsMedian": 85
@@ -1080,7 +1081,7 @@
         ]
       },
       "vndbScore": 86.4,
-      "vndbVotes": 9356,
+      "vndbVotes": 9358,
       "bangumiScore": 85,
       "bangumiVotes": 2874,
       "egsScore": 82.97,
@@ -1163,6 +1164,43 @@
       "bangumiVotes": 532
     },
     {
+      "name": "神学校-Noli me tangere-",
+      "vndbId": "v3660",
+      "bangumiId": "38363",
+      "egsId": "10679",
+      "metadata": {
+        "titles": {
+          "en": "Shingakkou -Noli me tangere-",
+          "zh": "神学校",
+          "ja": "神学校-Noli me tangere-"
+        },
+        "descriptions": {
+          "en": "Michael and Gabriel Levi are twins who are enrolled in a seminary. On the eve of their Christmas holidays, the twins return home eager to see their family after the absence, only to find them dead and their home in flames. As if things couldn't get any more strange, there's a bizarre mark on the wall painted in their father's blood, of an inverted cross with a snake wrapped around it. It's the mark of a secret society in their very own school - a secret society which worships the devil. Furious that God could let something so callous occur on a holy day, Michael turns his back on the figure he so dearly worshiped beforehand and vows to get his revenge while investigating the cult that had something to do with the destruction of his family.",
+          "zh": "時は何度目かの世界大戦後。戦争による傷跡が、漸う癒えはじめたころのイギリス。とある地方の郊外に、古めかしい神学校が存在していた。 学生達は時代を帯びた修道院を学舎に、祈りと学びの日々を送っている。その中でもひときわ優秀で敬虔な学生、マイケル・レヴィ。 牧師の家庭に生まれ、教会を遊び場として育ち、自らも父と同じく神の僕として生きることを何ら疑わなかった少年。 しかし、生誕祭の夜、悲劇が彼を襲う。息せき切って帰郷した彼の眼前で、黒焦げの骸と化していた、父と母と妹。 そして、家族の焼死という残酷な事実は、これまで呼吸するよりも自然だった神への賛美を呪詛に変え、彼を復讐に燃える怒りの塊へと変貌させてゆく。 聖夜、家族を奪い去ったのは何者なのか。そして、焼け落ちる寸前の壁にマイケルが視た、あの忌まわしい刻印は……。 やがて見え隠れする、悪魔崇拝の秘密結社。天使の名を持つ少年は、真実という禁忌に足を踏み入れてゆく――。"
+        },
+        "released": "2011-03-30",
+        "year": 2011,
+        "image": "https://t.vndb.org/cv/73/129173.jpg",
+        "lengthMinutes": 3600,
+        "genres": [
+          "BL",
+          "PILSLASH",
+          "草香祭"
+        ],
+        "platforms": [
+          "win",
+          "web"
+        ]
+      },
+      "vndbScore": 87.9,
+      "vndbVotes": 362,
+      "bangumiScore": 83,
+      "bangumiVotes": 333,
+      "egsScore": 83.99,
+      "egsVotes": 67,
+      "egsMedian": 85
+    },
+    {
       "name": "もんむす・くえすと！　ぱらどっくすRPG中章",
       "vndbId": "v21267",
       "bangumiId": "222896",
@@ -1193,7 +1231,7 @@
       "vndbScore": 86,
       "vndbVotes": 426,
       "bangumiScore": 80,
-      "bangumiVotes": 97,
+      "bangumiVotes": 98,
       "egsScore": 86.6,
       "egsVotes": 95,
       "egsMedian": 88
@@ -1231,9 +1269,9 @@
         ]
       },
       "vndbScore": 85.5,
-      "vndbVotes": 2730,
+      "vndbVotes": 2732,
       "bangumiScore": 85,
-      "bangumiVotes": 1454,
+      "bangumiVotes": 1457,
       "egsScore": 82.94,
       "egsVotes": 143,
       "egsMedian": 85
@@ -1266,8 +1304,8 @@
           "win"
         ]
       },
-      "vndbScore": 86.3,
-      "vndbVotes": 228,
+      "vndbScore": 86.4,
+      "vndbVotes": 229,
       "bangumiScore": 83,
       "bangumiVotes": 485,
       "egsScore": 87.28,
@@ -1312,43 +1350,6 @@
       "egsMedian": 90
     },
     {
-      "name": "神学校-Noli me tangere-",
-      "vndbId": "v3660",
-      "bangumiId": "38363",
-      "egsId": "10679",
-      "metadata": {
-        "titles": {
-          "en": "Shingakkou -Noli me tangere-",
-          "zh": "神学校",
-          "ja": "神学校-Noli me tangere-"
-        },
-        "descriptions": {
-          "en": "Michael and Gabriel Levi are twins who are enrolled in a seminary. On the eve of their Christmas holidays, the twins return home eager to see their family after the absence, only to find them dead and their home in flames. As if things couldn't get any more strange, there's a bizarre mark on the wall painted in their father's blood, of an inverted cross with a snake wrapped around it. It's the mark of a secret society in their very own school - a secret society which worships the devil. Furious that God could let something so callous occur on a holy day, Michael turns his back on the figure he so dearly worshiped beforehand and vows to get his revenge while investigating the cult that had something to do with the destruction of his family.",
-          "zh": "時は何度目かの世界大戦後。戦争による傷跡が、漸う癒えはじめたころのイギリス。とある地方の郊外に、古めかしい神学校が存在していた。 学生達は時代を帯びた修道院を学舎に、祈りと学びの日々を送っている。その中でもひときわ優秀で敬虔な学生、マイケル・レヴィ。 牧師の家庭に生まれ、教会を遊び場として育ち、自らも父と同じく神の僕として生きることを何ら疑わなかった少年。 しかし、生誕祭の夜、悲劇が彼を襲う。息せき切って帰郷した彼の眼前で、黒焦げの骸と化していた、父と母と妹。 そして、家族の焼死という残酷な事実は、これまで呼吸するよりも自然だった神への賛美を呪詛に変え、彼を復讐に燃える怒りの塊へと変貌させてゆく。 聖夜、家族を奪い去ったのは何者なのか。そして、焼け落ちる寸前の壁にマイケルが視た、あの忌まわしい刻印は……。 やがて見え隠れする、悪魔崇拝の秘密結社。天使の名を持つ少年は、真実という禁忌に足を踏み入れてゆく――。"
-        },
-        "released": "2011-03-30",
-        "year": 2011,
-        "image": "https://t.vndb.org/cv/73/129173.jpg",
-        "lengthMinutes": 3600,
-        "genres": [
-          "BL",
-          "PILSLASH",
-          "草香祭"
-        ],
-        "platforms": [
-          "win",
-          "web"
-        ]
-      },
-      "vndbScore": 87.9,
-      "vndbVotes": 362,
-      "bangumiScore": 82,
-      "bangumiVotes": 334,
-      "egsScore": 83.99,
-      "egsVotes": 67,
-      "egsMedian": 85
-    },
-    {
       "name": "ChuSinGura 46+1",
       "vndbId": "v12260",
       "bangumiId": "64718",
@@ -1378,8 +1379,8 @@
           "psv"
         ]
       },
-      "vndbScore": 82.3,
-      "vndbVotes": 692,
+      "vndbScore": 82.4,
+      "vndbVotes": 693,
       "bangumiScore": 81,
       "bangumiVotes": 507,
       "egsScore": 86.22,
@@ -1498,9 +1499,9 @@
         ]
       },
       "vndbScore": 85.3,
-      "vndbVotes": 8494,
+      "vndbVotes": 8496,
       "bangumiScore": 86,
-      "bangumiVotes": 5370,
+      "bangumiVotes": 5375,
       "egsScore": 80.21,
       "egsVotes": 1859,
       "egsMedian": 82
@@ -1536,7 +1537,7 @@
       "vndbScore": 81.5,
       "vndbVotes": 3206,
       "bangumiScore": 84,
-      "bangumiVotes": 3192,
+      "bangumiVotes": 3194,
       "egsScore": 87.5,
       "egsVotes": 2692,
       "egsMedian": 90
@@ -1578,7 +1579,7 @@
       "vndbScore": 83.7,
       "vndbVotes": 1731,
       "bangumiScore": 85,
-      "bangumiVotes": 3213,
+      "bangumiVotes": 3216,
       "egsScore": 83.91,
       "egsVotes": 23,
       "egsMedian": 85
@@ -1614,9 +1615,9 @@
         ]
       },
       "vndbScore": 87.1,
-      "vndbVotes": 1118,
+      "vndbVotes": 1119,
       "bangumiScore": 81,
-      "bangumiVotes": 3567,
+      "bangumiVotes": 3569,
       "egsScore": 89.25,
       "egsVotes": 1364,
       "egsMedian": 92
@@ -1650,7 +1651,7 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 1521,
+      "vndbVotes": 1522,
       "bangumiScore": 65,
       "bangumiVotes": 86,
       "egsScore": 82.58,
@@ -1690,9 +1691,9 @@
         ]
       },
       "vndbScore": 84.6,
-      "vndbVotes": 3157,
+      "vndbVotes": 3159,
       "bangumiScore": 83,
-      "bangumiVotes": 8201,
+      "bangumiVotes": 8204,
       "egsScore": 86.36,
       "egsVotes": 3637,
       "egsMedian": 88
@@ -1729,9 +1730,9 @@
         ]
       },
       "vndbScore": 86.5,
-      "vndbVotes": 672,
+      "vndbVotes": 673,
       "bangumiScore": 83,
-      "bangumiVotes": 1121,
+      "bangumiVotes": 1123,
       "egsScore": 84.22,
       "egsVotes": 2893,
       "egsMedian": 86
@@ -1765,9 +1766,9 @@
         ]
       },
       "vndbScore": 84.4,
-      "vndbVotes": 1671,
+      "vndbVotes": 1673,
       "bangumiScore": 81,
-      "bangumiVotes": 1897,
+      "bangumiVotes": 1898,
       "egsScore": 89,
       "egsVotes": 685,
       "egsMedian": 90
@@ -1807,9 +1808,9 @@
         ]
       },
       "vndbScore": 85,
-      "vndbVotes": 1959,
+      "vndbVotes": 1960,
       "bangumiScore": 82,
-      "bangumiVotes": 1030,
+      "bangumiVotes": 1031,
       "egsScore": 85.11,
       "egsVotes": 28,
       "egsMedian": 85
@@ -1883,9 +1884,9 @@
         ]
       },
       "vndbScore": 81.4,
-      "vndbVotes": 2440,
+      "vndbVotes": 2442,
       "bangumiScore": 85,
-      "bangumiVotes": 3047,
+      "bangumiVotes": 3051,
       "egsScore": 86.72,
       "egsVotes": 666,
       "egsMedian": 89
@@ -1920,9 +1921,9 @@
         ]
       },
       "vndbScore": 83.8,
-      "vndbVotes": 1674,
+      "vndbVotes": 1675,
       "bangumiScore": 81,
-      "bangumiVotes": 2806,
+      "bangumiVotes": 2807,
       "egsScore": 87.65,
       "egsVotes": 1418,
       "egsMedian": 89
@@ -1963,8 +1964,8 @@
           "xbo"
         ]
       },
-      "vndbScore": 83.6,
-      "vndbVotes": 5224,
+      "vndbScore": 83.7,
+      "vndbVotes": 5227,
       "bangumiScore": 84,
       "bangumiVotes": 4725,
       "egsScore": 84.77,
@@ -2026,7 +2027,7 @@
         },
         "released": "2018-06-29",
         "year": 2018,
-        "image": "https://t.vndb.org/cv/30/85430.jpg",
+        "image": "https://t.vndb.org/cv/08/75908.jpg",
         "lengthMinutes": 3242,
         "genres": [
           "key",
@@ -2042,7 +2043,7 @@
         ]
       },
       "vndbScore": 84.6,
-      "vndbVotes": 4824,
+      "vndbVotes": 4827,
       "bangumiScore": 82,
       "bangumiVotes": 5914,
       "egsScore": 85.86,
@@ -2070,8 +2071,8 @@
         "lengthMinutes": 3570,
         "genres": [
           "Eushully",
-          "RPG",
-          "戦女神ZERO"
+          "戦女神ZERO",
+          "RPG"
         ],
         "platforms": [
           "win"
@@ -2118,9 +2119,9 @@
         ]
       },
       "vndbScore": 81.4,
-      "vndbVotes": 6906,
+      "vndbVotes": 6907,
       "bangumiScore": 81,
-      "bangumiVotes": 3380,
+      "bangumiVotes": 3381,
       "egsScore": 85.93,
       "egsVotes": 5760,
       "egsMedian": 88
@@ -2167,9 +2168,9 @@
         ]
       },
       "vndbScore": 78.9,
-      "vndbVotes": 4902,
+      "vndbVotes": 4903,
       "bangumiScore": 85,
-      "bangumiVotes": 4327,
+      "bangumiVotes": 4329,
       "egsScore": 85.51,
       "egsVotes": 4596,
       "egsMedian": 90
@@ -2204,7 +2205,7 @@
         ]
       },
       "vndbScore": 85.3,
-      "vndbVotes": 1964,
+      "vndbVotes": 1965,
       "bangumiScore": 82,
       "bangumiVotes": 3145,
       "egsScore": 83.59,
@@ -2283,7 +2284,7 @@
       "vndbScore": 80.5,
       "vndbVotes": 935,
       "bangumiScore": 84,
-      "bangumiVotes": 922,
+      "bangumiVotes": 925,
       "egsScore": 84.84,
       "egsVotes": 612,
       "egsMedian": 85
@@ -2353,7 +2354,7 @@
         ]
       },
       "vndbScore": 83.4,
-      "vndbVotes": 1520,
+      "vndbVotes": 1522,
       "bangumiScore": 82,
       "bangumiVotes": 2283,
       "egsScore": 83.82,
@@ -2401,6 +2402,43 @@
       "egsMedian": 85
     },
     {
+      "name": "白昼夢の青写真",
+      "vndbId": "v26987",
+      "bangumiId": "295075",
+      "egsId": "28941",
+      "metadata": {
+        "titles": {
+          "en": "Cyanotype Daydream -The Girl Who Dreamed the World-",
+          "zh": "白日梦的构想图",
+          "ja": "白昼夢の青写真"
+        },
+        "descriptions": {
+          "en": "Kaito wakes to find himself in a strange room with no memories of who he is or how he got there. The only other people around are a quiet white-haired girl and their overseer, Izumo. As three separate stories unfold around him, Kaito begins to wake up to the truth of this world, and his own role in it. And it's all connected to the strange, silent girl named Yonagi... CASE-1 Hatano Rin Arishima Kaoru is a 45-year old part-time teacher, stuck in an unhappy marriage and living a life of tedium after having long given up on his dreams of becoming a novelist. One day, he finds out that a student of his, Hatano Rin, is none other than the daughter of the writer he once admired above all others. As the relationship between the two deepens, Arishima grapples with immoral impulses toward this younger girl. But even as his life spirals and his marriage crumbles further, he picks up his pen and starts to write again. CASE-2 Olivia Berry Our stage is set in the heyday of Elizabethan theater, a time where women were prohibited from acting on stage. A young William Shakespeare runs a failing pub together with his blind father. Blessed with a perfect memory, he uses the tales his patrons tell as inspiration for the plays he writes to earn extra income. When his fate ends up in the hands of one Olivia Berry, a woman with a fiery personality and a fierce sense of purpose, Will finds himself in the midst of a real-life drama of his own. CASE-3 Momonouchi Sumomo Amei Kanna is a college dropout who spends his time holed up in his dad's garage trying to fix his late mother's old, beat up campe",
+          "zh": "海斗醒来时，发现自己失去了记忆。 他不知道自己身处于何处，甚至连自己是谁都想不起来。 白色的房间里，唯一的家具就是两张床。 除了海斗之外，房间里还有一位机器般毫无感情的少女——世凪。 海斗被告知，自己的梦正被记录下来，这份纪录能拯救世凪。 而这一切，都是失去记忆前的自己安排好的。 他决定与世凪一同潜入梦的世界。 当三个梦皆迎来悲伤的结局之际，海斗也将重拾过去的记忆。 一位被称为“世界”的少女—— 这是一个将视觉小说的系统和故事构造巧妙结合的纯爱故事。 故事的主角是一位青年与一位少女。 游戏的最初，玩家将以随机顺序体验三个故事。 迎来和三位少女的“离别”后，故事线将收束，并最终揭开那一位少女的真相。 诚邀您体验这款牵动了无数日本玩家心灵的纯爱故事。 人類は同じ夢を見るようになった。 ある晩は、女生徒と教師の不倫の物語であり―― ある晩は、劇作家と女優の身分を超えた恋物語―― またある晩は、不登校の少年と教育実習生の淡い初恋―― 三種類の夢を、人類は繰り返し見るようになった。 何故、全人類が同じ夢を見つづけるのか。 これは、世界と呼ばれた一人の少女の物語。 case-1: 有島芳は４５才の非常勤講師。 かつては小説家を目指していた有島だったが、 大学時代に出会った波多野秋房という先輩との筆力・人間力の差を まざまざと見せつけられ、その夢を捨てた。 今は編集者である妻の侮蔑の眼差しをうけながら、 代わり映えのない毎日を送っている。 ある日、有島の大学時代のゼミの教授が他界。 有島は告別式で、自分の勤め先の学園の生徒の姿を見つける。 その女学生・波多野凛は、大学時代の有島から筆を奪った波多野秋房の娘だった。 告別式で会ったことを機に、有島と凛は図書館で言葉を交わすようになる。 「あなたの書く文章を、私は読みたい」 凛が有島に投げかけた言葉は、かつては妻が言っていた言葉だった。 生徒への背徳的な恋心と、冷め切った夫婦関係への諦め。 その狭間で有島はもう一度筆をとり、書き始める。 case-2： ウィリアム・シェイクスピアは、盲目の父と二人で酒場を営んでいる。 ウィルには“完全記憶”という特技があった。 店に立ち、各地から集る客の話を全て覚え、 それを題材に作話し、ロンドンの劇団に密かに販売していた。 その売上げを足しにしてもなお、父を介抱をしながらの生活はギリギリ。 大した食事もさせられず、日に日に父が弱っていく中、 父は久し振りにある食べ物を口にした。 それは当時のイギリスでは最高級食材の鹿肉だった。 ウィルは父に食事をさせるため、ある貴族の庭に忍び込むが、 呆気なく捕まる。 とらわれたウィルの前に現れたのは二人の貴族、 オリヴィア・ベリーとハロルド・スペンサーだった。 家主であるスペンサーは即座にウィルを処刑しようとするが、 オリヴィアはウィルを奴隷として身請けすることを申し出る。 オリヴィアは座長を務めている自分の一座でウィルの脚本を買ったことがあり、 その才能に気付いている舞台役者だった。 時はエリザベス朝演劇全盛期。 女性が舞台に立つことは硬く禁じられていた。 だがオリヴィアは男装して密かに舞台に立っていた。 女性が座長の一座。 そんな一座に優秀な役者が居着くはずもなく、 オリヴィアの一座にははみ出し物の役者ばかりが揃っていた。 オリヴィアはウィルに、自分の一座に脚本を書き、 劇団を存続させれば命は助けると提案。 ウィルは酒場の切り盛りをしながらオリヴィア一座の 座付き作家を始める。 case-3： 飴井カンナはガレージにひきこもっている不登校児。 動かなくなったキャンピングカーを自分の部屋にしている。 その車には、亡き母との思い出が詰まっていた。 母を亡くし、カンナは学校に行く意味を見いだせなくなった。 母がいた頃、父が変わってしまう前、三"
+        },
+        "released": "2020-09-25",
+        "year": 2020,
+        "image": "https://t.vndb.org/cv/17/85317.jpg",
+        "lengthMinutes": 1925,
+        "genres": [
+          "Laplacian",
+          "白毛",
+          "緒乃ワサビ"
+        ],
+        "platforms": [
+          "win",
+          "swi"
+        ]
+      },
+      "vndbScore": 84.9,
+      "vndbVotes": 2289,
+      "bangumiScore": 74,
+      "bangumiVotes": 1887,
+      "egsScore": 87.93,
+      "egsVotes": 1456,
+      "egsMedian": 90
+    },
+    {
       "name": "真剣で私に恋しなさい！",
       "vndbId": "v1143",
       "bangumiId": "11298",
@@ -2430,49 +2468,12 @@
         ]
       },
       "vndbScore": 83.4,
-      "vndbVotes": 9491,
+      "vndbVotes": 9494,
       "bangumiScore": 79,
-      "bangumiVotes": 662,
+      "bangumiVotes": 663,
       "egsScore": 81.72,
       "egsVotes": 2865,
       "egsMedian": 85
-    },
-    {
-      "name": "白昼夢の青写真",
-      "vndbId": "v26987",
-      "bangumiId": "295075",
-      "egsId": "28941",
-      "metadata": {
-        "titles": {
-          "en": "Cyanotype Daydream -The Girl Who Dreamed the World-",
-          "zh": "白日梦的构想图",
-          "ja": "白昼夢の青写真"
-        },
-        "descriptions": {
-          "en": "Kaito wakes to find himself in a strange room with no memories of who he is or how he got there. The only other people around are a quiet white-haired girl and their overseer, Izumo. As three separate stories unfold around him, Kaito begins to wake up to the truth of this world, and his own role in it. And it's all connected to the strange, silent girl named Yonagi... CASE-1 Hatano Rin Arishima Kaoru is a 45-year old part-time teacher, stuck in an unhappy marriage and living a life of tedium after having long given up on his dreams of becoming a novelist. One day, he finds out that a student of his, Hatano Rin, is none other than the daughter of the writer he once admired above all others. As the relationship between the two deepens, Arishima grapples with immoral impulses toward this younger girl. But even as his life spirals and his marriage crumbles further, he picks up his pen and starts to write again. CASE-2 Olivia Berry Our stage is set in the heyday of Elizabethan theater, a time where women were prohibited from acting on stage. A young William Shakespeare runs a failing pub together with his blind father. Blessed with a perfect memory, he uses the tales his patrons tell as inspiration for the plays he writes to earn extra income. When his fate ends up in the hands of one Olivia Berry, a woman with a fiery personality and a fierce sense of purpose, Will finds himself in the midst of a real-life drama of his own. CASE-3 Momonouchi Sumomo Amei Kanna is a college dropout who spends his time holed up in his dad's garage trying to fix his late mother's old, beat up campe",
-          "zh": "海斗醒来时，发现自己失去了记忆。 他不知道自己身处于何处，甚至连自己是谁都想不起来。 白色的房间里，唯一的家具就是两张床。 除了海斗之外，房间里还有一位机器般毫无感情的少女——世凪。 海斗被告知，自己的梦正被记录下来，这份纪录能拯救世凪。 而这一切，都是失去记忆前的自己安排好的。 他决定与世凪一同潜入梦的世界。 当三个梦皆迎来悲伤的结局之际，海斗也将重拾过去的记忆。 一位被称为“世界”的少女—— 这是一个将视觉小说的系统和故事构造巧妙结合的纯爱故事。 故事的主角是一位青年与一位少女。 游戏的最初，玩家将以随机顺序体验三个故事。 迎来和三位少女的“离别”后，故事线将收束，并最终揭开那一位少女的真相。 诚邀您体验这款牵动了无数日本玩家心灵的纯爱故事。 人類は同じ夢を見るようになった。 ある晩は、女生徒と教師の不倫の物語であり―― ある晩は、劇作家と女優の身分を超えた恋物語―― またある晩は、不登校の少年と教育実習生の淡い初恋―― 三種類の夢を、人類は繰り返し見るようになった。 何故、全人類が同じ夢を見つづけるのか。 これは、世界と呼ばれた一人の少女の物語。 case-1: 有島芳は４５才の非常勤講師。 かつては小説家を目指していた有島だったが、 大学時代に出会った波多野秋房という先輩との筆力・人間力の差を まざまざと見せつけられ、その夢を捨てた。 今は編集者である妻の侮蔑の眼差しをうけながら、 代わり映えのない毎日を送っている。 ある日、有島の大学時代のゼミの教授が他界。 有島は告別式で、自分の勤め先の学園の生徒の姿を見つける。 その女学生・波多野凛は、大学時代の有島から筆を奪った波多野秋房の娘だった。 告別式で会ったことを機に、有島と凛は図書館で言葉を交わすようになる。 「あなたの書く文章を、私は読みたい」 凛が有島に投げかけた言葉は、かつては妻が言っていた言葉だった。 生徒への背徳的な恋心と、冷め切った夫婦関係への諦め。 その狭間で有島はもう一度筆をとり、書き始める。 case-2： ウィリアム・シェイクスピアは、盲目の父と二人で酒場を営んでいる。 ウィルには“完全記憶”という特技があった。 店に立ち、各地から集る客の話を全て覚え、 それを題材に作話し、ロンドンの劇団に密かに販売していた。 その売上げを足しにしてもなお、父を介抱をしながらの生活はギリギリ。 大した食事もさせられず、日に日に父が弱っていく中、 父は久し振りにある食べ物を口にした。 それは当時のイギリスでは最高級食材の鹿肉だった。 ウィルは父に食事をさせるため、ある貴族の庭に忍び込むが、 呆気なく捕まる。 とらわれたウィルの前に現れたのは二人の貴族、 オリヴィア・ベリーとハロルド・スペンサーだった。 家主であるスペンサーは即座にウィルを処刑しようとするが、 オリヴィアはウィルを奴隷として身請けすることを申し出る。 オリヴィアは座長を務めている自分の一座でウィルの脚本を買ったことがあり、 その才能に気付いている舞台役者だった。 時はエリザベス朝演劇全盛期。 女性が舞台に立つことは硬く禁じられていた。 だがオリヴィアは男装して密かに舞台に立っていた。 女性が座長の一座。 そんな一座に優秀な役者が居着くはずもなく、 オリヴィアの一座にははみ出し物の役者ばかりが揃っていた。 オリヴィアはウィルに、自分の一座に脚本を書き、 劇団を存続させれば命は助けると提案。 ウィルは酒場の切り盛りをしながらオリヴィア一座の 座付き作家を始める。 case-3： 飴井カンナはガレージにひきこもっている不登校児。 動かなくなったキャンピングカーを自分の部屋にしている。 その車には、亡き母との思い出が詰まっていた。 母を亡くし、カンナは学校に行く意味を見いだせなくなった。 母がいた頃、父が変わってしまう前、三"
-        },
-        "released": "2020-09-25",
-        "year": 2020,
-        "image": "https://t.vndb.org/cv/17/85317.jpg",
-        "lengthMinutes": 1925,
-        "genres": [
-          "Laplacian",
-          "白毛",
-          "緒乃ワサビ"
-        ],
-        "platforms": [
-          "win",
-          "swi"
-        ]
-      },
-      "vndbScore": 84.8,
-      "vndbVotes": 2287,
-      "bangumiScore": 74,
-      "bangumiVotes": 1886,
-      "egsScore": 87.93,
-      "egsVotes": 1456,
-      "egsMedian": 90
     },
     {
       "name": "SeaBed",
@@ -2506,7 +2507,7 @@
       "vndbScore": 81.1,
       "vndbVotes": 1005,
       "bangumiScore": 84,
-      "bangumiVotes": 1396,
+      "bangumiVotes": 1399,
       "egsScore": 79.83,
       "egsVotes": 92,
       "egsMedian": 81
@@ -2548,7 +2549,7 @@
       "vndbScore": 79.2,
       "vndbVotes": 926,
       "bangumiScore": 81,
-      "bangumiVotes": 1212,
+      "bangumiVotes": 1213,
       "egsScore": 85.19,
       "egsVotes": 1245,
       "egsMedian": 87
@@ -2631,7 +2632,7 @@
         ]
       },
       "vndbScore": 81.8,
-      "vndbVotes": 11683,
+      "vndbVotes": 11684,
       "bangumiScore": 82,
       "bangumiVotes": 2607,
       "egsScore": 83.7,
@@ -2673,7 +2674,7 @@
         ]
       },
       "vndbScore": 83.2,
-      "vndbVotes": 3172,
+      "vndbVotes": 3173,
       "bangumiScore": 80,
       "bangumiVotes": 1606,
       "egsScore": 82.84,
@@ -2716,7 +2717,7 @@
         ]
       },
       "vndbScore": 82.8,
-      "vndbVotes": 9138,
+      "vndbVotes": 9140,
       "bangumiScore": 80,
       "bangumiVotes": 2468,
       "egsScore": 80.41,
@@ -2753,10 +2754,10 @@
           "vnd"
         ]
       },
-      "vndbScore": 82,
-      "vndbVotes": 12179,
+      "vndbScore": 82.1,
+      "vndbVotes": 12180,
       "bangumiScore": 78,
-      "bangumiVotes": 4623,
+      "bangumiVotes": 4624,
       "egsScore": 84.66,
       "egsVotes": 5285,
       "egsMedian": 86
@@ -2790,7 +2791,7 @@
         ]
       },
       "vndbScore": 83,
-      "vndbVotes": 885,
+      "vndbVotes": 887,
       "bangumiScore": 82,
       "bangumiVotes": 517,
       "egsScore": 71.77,
@@ -2826,7 +2827,7 @@
         ]
       },
       "vndbScore": 79.2,
-      "vndbVotes": 184,
+      "vndbVotes": 185,
       "bangumiScore": 87,
       "bangumiVotes": 1787,
       "egsScore": 76.6,
@@ -2866,7 +2867,7 @@
         ]
       },
       "vndbScore": 83.2,
-      "vndbVotes": 1159,
+      "vndbVotes": 1160,
       "bangumiScore": 81,
       "bangumiVotes": 1317,
       "egsScore": 81.78,
@@ -2904,7 +2905,7 @@
         ]
       },
       "vndbScore": 81.9,
-      "vndbVotes": 396,
+      "vndbVotes": 397,
       "bangumiScore": 84,
       "bangumiVotes": 106,
       "egsScore": 65.43,
@@ -2989,9 +2990,9 @@
         ]
       },
       "vndbScore": 80.8,
-      "vndbVotes": 13380,
+      "vndbVotes": 13390,
       "bangumiScore": 85,
-      "bangumiVotes": 5120,
+      "bangumiVotes": 5124,
       "egsScore": 83.14,
       "egsVotes": 279,
       "egsMedian": 85
@@ -3014,7 +3015,7 @@
         "released": "2020-04-24",
         "year": 2020,
         "image": "https://t.vndb.org/cv/30/95130.jpg",
-        "lengthMinutes": 735,
+        "lengthMinutes": 736,
         "genres": [
           "调色板",
           "和泉つばす",
@@ -3028,7 +3029,7 @@
         ]
       },
       "vndbScore": 85.3,
-      "vndbVotes": 3692,
+      "vndbVotes": 3696,
       "bangumiScore": 77,
       "bangumiVotes": 4356,
       "egsScore": 85.71,
@@ -3103,9 +3104,9 @@
         ]
       },
       "vndbScore": 85.6,
-      "vndbVotes": 319,
+      "vndbVotes": 322,
       "bangumiScore": 83,
-      "bangumiVotes": 591,
+      "bangumiVotes": 593,
       "egsScore": 80.36,
       "egsVotes": 754,
       "egsMedian": 82
@@ -3145,7 +3146,7 @@
         ]
       },
       "vndbScore": 74.4,
-      "vndbVotes": 1728,
+      "vndbVotes": 1729,
       "bangumiScore": 83,
       "bangumiVotes": 2334,
       "egsScore": 85.7,
@@ -3183,9 +3184,9 @@
         ]
       },
       "vndbScore": 82.6,
-      "vndbVotes": 539,
+      "vndbVotes": 540,
       "bangumiScore": 79,
-      "bangumiVotes": 2025,
+      "bangumiVotes": 2027,
       "egsScore": 87.14,
       "egsVotes": 688,
       "egsMedian": 88
@@ -3221,9 +3222,9 @@
         ]
       },
       "vndbScore": 86.7,
-      "vndbVotes": 412,
+      "vndbVotes": 411,
       "bangumiScore": 79,
-      "bangumiVotes": 1330,
+      "bangumiVotes": 1331,
       "egsScore": 85.68,
       "egsVotes": 312,
       "egsMedian": 87
@@ -3260,12 +3261,47 @@
         ]
       },
       "vndbScore": 82.7,
-      "vndbVotes": 849,
+      "vndbVotes": 850,
       "bangumiScore": 81,
       "bangumiVotes": 1043,
       "egsScore": 82.3,
       "egsVotes": 168,
       "egsMedian": 82
+    },
+    {
+      "name": "ものべの -happy end-",
+      "vndbId": "v12392",
+      "egsId": "18799",
+      "metadata": {
+        "titles": {
+          "en": "Monobeno -Happy End-",
+          "zh": "茂伸奇谈-Happy End-",
+          "ja": "ものべの -happy end-"
+        },
+        "descriptions": {
+          "en": "After six years, Tooru returned with his younger sister Natsuha to the remote village of Monobeno deep in the mountains of Kochi prefecture. They reunited with the Akashaguma (child-like Yamori Youkai) Sumi, the Kasayou Hishakaku, and his childhood friend and self-proclaimed fiancée Alice. They played in the mountains, visited the shrine, and were visited by the Ushi Oni Tooko just like in the past. Just as they were getting used to living in Monobeno, it was time for the Shichi Seisai summer festival dedicated to the local deity Himemiya-sama. The festival was lively, concluding with the masked dance. While watching the dancing, Natsuha suddenly started shaking, complaining that her body felt cold. Tooru quickly took her to Naotake — the doctor and Alice's father, but nothing seemed wrong with her. They went to play in the nearby stream the next day. Hearing the waterfall caused Natsuha to panic and run in fear, but they couldn't find a reason for her peculiar actions. That night, she appeared in front of them very much an adult, and she bled in her nether regions for the first time. Unable to figure out what caused these inexplicable changes, they could only calm her down and watch over her. Another shock awaited them in the morning when they found Natsuha had returned to her normal size but without any memories of the day before. They decided to head back to the city for a proper examination. Unfortunately, a major landslide blocked off the only entrance to the village. Natsuha wished to leave badly, saying something scary was approaching her. What was causing Natsuha's",
+          "zh": "After six years, Tooru returned with his younger sister Natsuha to the remote village of Monobeno deep in the mountains of Kochi prefecture. They reunited with the Akashaguma (child-like Yamori Youkai) Sumi, the Kasayou Hishakaku, and his childhood friend and self-proclaimed fiancée Alice. They played in the mountains, visited the shrine, and were visited by the Ushi Oni Tooko just like in the past. Just as they were getting used to living in Monobeno, it was time for the Shichi Seisai summer festival dedicated to the local deity Himemiya-sama. The festival was lively, concluding with the masked dance. While watching the dancing, Natsuha suddenly started shaking, complaining that her body felt cold. Tooru quickly took her to Naotake — the doctor and Alice's father, but nothing seemed wrong with her. They went to play in the nearby stream the next day. Hearing the waterfall caused Natsuha to panic and run in fear, but they couldn't find a reason for her peculiar actions. That night, she appeared in front of them very much an adult, and she bled in her nether regions for the first time. Unable to figure out what caused these inexplicable changes, they could only calm her down and watch over her. Another shock awaited them in the morning when they found Natsuha had returned to her normal size but without any memories of the day before. They decided to head back to the city for a proper examination. Unfortunately, a major landslide blocked off the only entrance to the village. Natsuha wished to leave badly, saying something scary was approaching her. What was causing Natsuha's"
+        },
+        "released": "2013-10-25",
+        "year": 2013,
+        "image": "https://t.vndb.org/cv/19/111619.jpg",
+        "lengthMinutes": 4303,
+        "genres": [
+          "Visual novel"
+        ],
+        "platforms": [
+          "win",
+          "psv",
+          "web"
+        ]
+      },
+      "vndbScore": 84.2,
+      "vndbVotes": 430,
+      "bangumiScore": null,
+      "bangumiVotes": null,
+      "egsScore": 79.75,
+      "egsVotes": 353,
+      "egsMedian": 80
     },
     {
       "name": "極限脱出ADV 善人シボウデス",
@@ -3300,48 +3336,13 @@
           "xxs"
         ]
       },
-      "vndbScore": 82.1,
-      "vndbVotes": 6033,
+      "vndbScore": 82,
+      "vndbVotes": 6035,
       "bangumiScore": 80,
       "bangumiVotes": 1240,
       "egsScore": 82.45,
       "egsVotes": 55,
       "egsMedian": 83
-    },
-    {
-      "name": "ものべの -happy end-",
-      "vndbId": "v12392",
-      "egsId": "18799",
-      "metadata": {
-        "titles": {
-          "en": "Monobeno -Happy End-",
-          "zh": "茂伸奇谈-Happy End-",
-          "ja": "ものべの -happy end-"
-        },
-        "descriptions": {
-          "en": "After six years, Tooru returned with his younger sister Natsuha to the remote village of Monobeno deep in the mountains of Kochi prefecture. They reunited with the Akashaguma (child-like Yamori Youkai) Sumi, the Kasayou Hishakaku, and his childhood friend and self-proclaimed fiancée Alice. They played in the mountains, visited the shrine, and were visited by the Ushi Oni Tooko just like in the past. Just as they were getting used to living in Monobeno, it was time for the Shichi Seisai summer festival dedicated to the local deity Himemiya-sama. The festival was lively, concluding with the masked dance. While watching the dancing, Natsuha suddenly started shaking, complaining that her body felt cold. Tooru quickly took her to Naotake — the doctor and Alice's father, but nothing seemed wrong with her. They went to play in the nearby stream the next day. Hearing the waterfall caused Natsuha to panic and run in fear, but they couldn't find a reason for her peculiar actions. That night, she appeared in front of them very much an adult, and she bled in her nether regions for the first time. Unable to figure out what caused these inexplicable changes, they could only calm her down and watch over her. Another shock awaited them in the morning when they found Natsuha had returned to her normal size but without any memories of the day before. They decided to head back to the city for a proper examination. Unfortunately, a major landslide blocked off the only entrance to the village. Natsuha wished to leave badly, saying something scary was approaching her. What was causing Natsuha's",
-          "zh": "After six years, Tooru returned with his younger sister Natsuha to the remote village of Monobeno deep in the mountains of Kochi prefecture. They reunited with the Akashaguma (child-like Yamori Youkai) Sumi, the Kasayou Hishakaku, and his childhood friend and self-proclaimed fiancée Alice. They played in the mountains, visited the shrine, and were visited by the Ushi Oni Tooko just like in the past. Just as they were getting used to living in Monobeno, it was time for the Shichi Seisai summer festival dedicated to the local deity Himemiya-sama. The festival was lively, concluding with the masked dance. While watching the dancing, Natsuha suddenly started shaking, complaining that her body felt cold. Tooru quickly took her to Naotake — the doctor and Alice's father, but nothing seemed wrong with her. They went to play in the nearby stream the next day. Hearing the waterfall caused Natsuha to panic and run in fear, but they couldn't find a reason for her peculiar actions. That night, she appeared in front of them very much an adult, and she bled in her nether regions for the first time. Unable to figure out what caused these inexplicable changes, they could only calm her down and watch over her. Another shock awaited them in the morning when they found Natsuha had returned to her normal size but without any memories of the day before. They decided to head back to the city for a proper examination. Unfortunately, a major landslide blocked off the only entrance to the village. Natsuha wished to leave badly, saying something scary was approaching her. What was causing Natsuha's"
-        },
-        "released": "2013-10-25",
-        "year": 2013,
-        "image": "https://t.vndb.org/cv/19/111619.jpg",
-        "lengthMinutes": 4303,
-        "genres": [
-          "Visual novel"
-        ],
-        "platforms": [
-          "win",
-          "psv",
-          "web"
-        ]
-      },
-      "vndbScore": 84.1,
-      "vndbVotes": 428,
-      "bangumiScore": null,
-      "bangumiVotes": null,
-      "egsScore": 79.75,
-      "egsVotes": 353,
-      "egsMedian": 80
     },
     {
       "name": "虚ノ少女",
@@ -3375,9 +3376,9 @@
         ]
       },
       "vndbScore": 85,
-      "vndbVotes": 3852,
+      "vndbVotes": 3856,
       "bangumiScore": 74,
-      "bangumiVotes": 2245,
+      "bangumiVotes": 2247,
       "egsScore": 85.35,
       "egsVotes": 790,
       "egsMedian": 86
@@ -3453,7 +3454,7 @@
         ]
       },
       "vndbScore": 81.5,
-      "vndbVotes": 641,
+      "vndbVotes": 642,
       "bangumiScore": 79,
       "bangumiVotes": 3163,
       "egsScore": 84.85,
@@ -3543,7 +3544,7 @@
         ]
       },
       "vndbScore": 81.8,
-      "vndbVotes": 350,
+      "vndbVotes": 351,
       "bangumiScore": 81,
       "bangumiVotes": 371,
       "egsScore": 82.31,
@@ -3590,9 +3591,9 @@
         ]
       },
       "vndbScore": 80.7,
-      "vndbVotes": 9540,
+      "vndbVotes": 9543,
       "bangumiScore": 83,
-      "bangumiVotes": 4583,
+      "bangumiVotes": 4585,
       "egsScore": 80.9,
       "egsVotes": 83,
       "egsMedian": 81
@@ -3628,7 +3629,7 @@
         ]
       },
       "vndbScore": 81.5,
-      "vndbVotes": 842,
+      "vndbVotes": 843,
       "bangumiScore": 70,
       "bangumiVotes": 41,
       "egsScore": 81.65,
@@ -3817,7 +3818,7 @@
         ]
       },
       "vndbScore": 82.6,
-      "vndbVotes": 6688,
+      "vndbVotes": 6689,
       "bangumiScore": 78,
       "bangumiVotes": 4496,
       "egsScore": 83.25,
@@ -3895,9 +3896,9 @@
         ]
       },
       "vndbScore": 81.4,
-      "vndbVotes": 5904,
+      "vndbVotes": 5906,
       "bangumiScore": 78,
-      "bangumiVotes": 1757,
+      "bangumiVotes": 1758,
       "egsScore": 82.36,
       "egsVotes": 2634,
       "egsMedian": 85
@@ -3938,9 +3939,9 @@
         ]
       },
       "vndbScore": 75.8,
-      "vndbVotes": 3148,
+      "vndbVotes": 3149,
       "bangumiScore": 84,
-      "bangumiVotes": 2585,
+      "bangumiVotes": 2586,
       "egsScore": 84.01,
       "egsVotes": 2274,
       "egsMedian": 85
@@ -3978,9 +3979,9 @@
         ]
       },
       "vndbScore": 81.3,
-      "vndbVotes": 1012,
+      "vndbVotes": 1013,
       "bangumiScore": 79,
-      "bangumiVotes": 94
+      "bangumiVotes": 95
     },
     {
       "name": "ローズガンズデイズ",
@@ -4037,7 +4038,7 @@
         "released": "2015-12-03",
         "year": 2015,
         "image": "https://t.vndb.org/cv/28/80128.jpg",
-        "lengthMinutes": 2186,
+        "lengthMinutes": 2190,
         "genres": [
           "悬疑",
           "狼人杀",
@@ -4056,12 +4057,49 @@
         ]
       },
       "vndbScore": 79.4,
-      "vndbVotes": 3669,
+      "vndbVotes": 3673,
       "bangumiScore": 82,
-      "bangumiVotes": 5717,
+      "bangumiVotes": 5722,
       "egsScore": 83.43,
       "egsVotes": 92,
       "egsMedian": 85
+    },
+    {
+      "name": "キミガシネ　―多数決デスゲーム―",
+      "vndbId": "v25931",
+      "bangumiId": "224621",
+      "egsId": "38809",
+      "metadata": {
+        "titles": {
+          "en": "Your Turn To Die -Death Game By Majority-",
+          "zh": "你去死吧 －多数决死亡游戏－",
+          "ja": "キミガシネ　―多数決デスゲーム―"
+        },
+        "descriptions": {
+          "en": "Sara Chidouin returns home from school late one night to discover that something's gone terribly wrong. When she comes to, she finds herself, her friend Joe, and 9 other people trapped in a mysterious place. Placed in life-and-death situations, they must come to an agreement about what they should do - and who should die. [From vgperson]",
+          "zh": "多数決で選ばれた者が死ぬ。 集められた11人の人間が自分の生存をかけて舌戦を繰り広げるトークアクション・レトロホラー。 謎のストーカーに悩まされていた千堂院沙良（サラ）。 そんなサラを心配した親友の田綱丈（ジョー）は、彼女に付き合って帰宅することに。 家に着いたサラとジョーは何者かに襲われてしまい意識を失ってしまう。 目が覚めた二人は、謎の部屋で拘束されている事に気づき・・・？ ★最終章前編Bパートまでの更新となっております。 多数決で選ばれた者が死ぬ。 集められた１１人の人間が自分の生存をかけて舌戦を繰り広げる トークアクション・レトロホラー。 ■操作方法 PC:左クリック＝決定 右クリック＝キャンセル Ctrl＝文章早送り スマホ：タップ＝決定 二本指タップ＝キャンセル ■想定プレイ時間：10時間（くらい！） ■3章前編イベント組み込み協力：あるふぁ様 HIJIKI様 ■2章前編ミニゲーム制作協力：mt.saji様 ■最終章前編の制作協力：HIJIKI 様 あるふぁ 様 ■使用素材 【プラグイン】 木星ペンギン 様 トリアコンタン 様 蔦森くいな 様 Galv 様 mankind 様 まっつUP 様 神無月サスケ 様 Yoji Ojima 様 ponidog 様 プラグインコマンド集 Yanfly Engine Plugins Dwango co 【効果音】 魔王魂 http://maoudamashii.jokersounds.com/ 小森平 様 http://taira-komori.jpn.org/game01.html 効果音ラボ https://soundeffect-lab.info/ Music is VFR http://musicisvfr.com/ 効果音辞典 https://sounddictionary.info/ On-Jin ～音人～ https://on-jin.com/ Wingless Seraph http://wingless-seraph.net/ ポケットサウンド http://pocket-se.info/ 効果音工房 https://umipla.com/ ■実況やSNSでのゲーム内の画像公開などについて （SNS内のマナーを守って）ご自由にどうぞ！ むしろ宣伝になるのでとても感謝しています！ 是非とも楽しんで下さい！ 更新情報 2021/5/30 ■最終章前編Bパート 公開 2020/2/25 ■最終章前編Aパート 公開 2019/5/21 ■第二章後編 公開 2018/8/7 ■第二章前編 公開 2018/1/31 ■第一章後編 公開 2017/8/28 ■第一章前編 公開"
+        },
+        "released": "2021-05-30",
+        "year": 2021,
+        "image": "https://t.vndb.org/cv/16/58816.jpg",
+        "lengthMinutes": null,
+        "genres": [
+          "悬疑",
+          "推理",
+          "AVG"
+        ],
+        "platforms": [
+          "win",
+          "web"
+        ]
+      },
+      "vndbScore": 82,
+      "vndbVotes": 1517,
+      "bangumiScore": 77,
+      "bangumiVotes": 329,
+      "egsScore": 47.5,
+      "egsVotes": 4,
+      "egsMedian": 45
     },
     {
       "name": "腐り姫 ～euthanasia～",
@@ -4092,10 +4130,10 @@
           "web"
         ]
       },
-      "vndbScore": 79.1,
+      "vndbScore": 79.2,
       "vndbVotes": 567,
       "bangumiScore": 82,
-      "bangumiVotes": 2445,
+      "bangumiVotes": 2446,
       "egsScore": 80.32,
       "egsVotes": 1404,
       "egsMedian": 81
@@ -4167,7 +4205,7 @@
       "vndbScore": 80.2,
       "vndbVotes": 552,
       "bangumiScore": 79,
-      "bangumiVotes": 2779,
+      "bangumiVotes": 2781,
       "egsScore": 83.67,
       "egsVotes": 1401,
       "egsMedian": 85
@@ -4205,47 +4243,10 @@
       "vndbScore": 80.8,
       "vndbVotes": 572,
       "bangumiScore": 76,
-      "bangumiVotes": 2365,
+      "bangumiVotes": 2366,
       "egsScore": 85.92,
       "egsVotes": 1564,
       "egsMedian": 87
-    },
-    {
-      "name": "キミガシネ　―多数決デスゲーム―",
-      "vndbId": "v25931",
-      "bangumiId": "224621",
-      "egsId": "38809",
-      "metadata": {
-        "titles": {
-          "en": "Your Turn To Die -Death Game By Majority-",
-          "zh": "你去死吧 －多数决死亡游戏－",
-          "ja": "キミガシネ　―多数決デスゲーム―"
-        },
-        "descriptions": {
-          "en": "Sara Chidouin returns home from school late one night to discover that something's gone terribly wrong. When she comes to, she finds herself, her friend Joe, and 9 other people trapped in a mysterious place. Placed in life-and-death situations, they must come to an agreement about what they should do - and who should die. [From vgperson]",
-          "zh": "多数決で選ばれた者が死ぬ。 集められた11人の人間が自分の生存をかけて舌戦を繰り広げるトークアクション・レトロホラー。 謎のストーカーに悩まされていた千堂院沙良（サラ）。 そんなサラを心配した親友の田綱丈（ジョー）は、彼女に付き合って帰宅することに。 家に着いたサラとジョーは何者かに襲われてしまい意識を失ってしまう。 目が覚めた二人は、謎の部屋で拘束されている事に気づき・・・？ ★最終章前編Bパートまでの更新となっております。 多数決で選ばれた者が死ぬ。 集められた１１人の人間が自分の生存をかけて舌戦を繰り広げる トークアクション・レトロホラー。 ■操作方法 PC:左クリック＝決定 右クリック＝キャンセル Ctrl＝文章早送り スマホ：タップ＝決定 二本指タップ＝キャンセル ■想定プレイ時間：10時間（くらい！） ■3章前編イベント組み込み協力：あるふぁ様 HIJIKI様 ■2章前編ミニゲーム制作協力：mt.saji様 ■最終章前編の制作協力：HIJIKI 様 あるふぁ 様 ■使用素材 【プラグイン】 木星ペンギン 様 トリアコンタン 様 蔦森くいな 様 Galv 様 mankind 様 まっつUP 様 神無月サスケ 様 Yoji Ojima 様 ponidog 様 プラグインコマンド集 Yanfly Engine Plugins Dwango co 【効果音】 魔王魂 http://maoudamashii.jokersounds.com/ 小森平 様 http://taira-komori.jpn.org/game01.html 効果音ラボ https://soundeffect-lab.info/ Music is VFR http://musicisvfr.com/ 効果音辞典 https://sounddictionary.info/ On-Jin ～音人～ https://on-jin.com/ Wingless Seraph http://wingless-seraph.net/ ポケットサウンド http://pocket-se.info/ 効果音工房 https://umipla.com/ ■実況やSNSでのゲーム内の画像公開などについて （SNS内のマナーを守って）ご自由にどうぞ！ むしろ宣伝になるのでとても感謝しています！ 是非とも楽しんで下さい！ 更新情報 2021/5/30 ■最終章前編Bパート 公開 2020/2/25 ■最終章前編Aパート 公開 2019/5/21 ■第二章後編 公開 2018/8/7 ■第二章前編 公開 2018/1/31 ■第一章後編 公開 2017/8/28 ■第一章前編 公開"
-        },
-        "released": "2021-05-30",
-        "year": 2021,
-        "image": "https://t.vndb.org/cv/16/58816.jpg",
-        "lengthMinutes": null,
-        "genres": [
-          "悬疑",
-          "推理",
-          "AVG"
-        ],
-        "platforms": [
-          "win",
-          "web"
-        ]
-      },
-      "vndbScore": 81.9,
-      "vndbVotes": 1515,
-      "bangumiScore": 77,
-      "bangumiVotes": 328,
-      "egsScore": 47.5,
-      "egsVotes": 4,
-      "egsMedian": 45
     },
     {
       "name": "アルトネリコ２　世界に響く少女たちの創造詩（メタファリカ）",
@@ -4313,7 +4314,7 @@
         ]
       },
       "vndbScore": 80.4,
-      "vndbVotes": 4822,
+      "vndbVotes": 4821,
       "bangumiScore": 76,
       "bangumiVotes": 1050,
       "egsScore": 82.92,
@@ -4385,7 +4386,7 @@
         ]
       },
       "vndbScore": 84.3,
-      "vndbVotes": 656,
+      "vndbVotes": 657,
       "bangumiScore": 77,
       "bangumiVotes": 1791,
       "egsScore": 83.07,
@@ -4506,9 +4507,9 @@
         ]
       },
       "vndbScore": 78.8,
-      "vndbVotes": 229,
+      "vndbVotes": 230,
       "bangumiScore": 81,
-      "bangumiVotes": 1950,
+      "bangumiVotes": 1952,
       "egsScore": 76.88,
       "egsVotes": 116,
       "egsMedian": 78
@@ -4542,7 +4543,7 @@
         ]
       },
       "vndbScore": 81.8,
-      "vndbVotes": 807,
+      "vndbVotes": 808,
       "bangumiScore": 74,
       "bangumiVotes": 64,
       "egsScore": 78.48,
@@ -4618,9 +4619,9 @@
         ]
       },
       "vndbScore": 76.2,
-      "vndbVotes": 3644,
+      "vndbVotes": 3646,
       "bangumiScore": 81,
-      "bangumiVotes": 2298,
+      "bangumiVotes": 2299,
       "egsScore": 84.43,
       "egsVotes": 2239,
       "egsMedian": 85
@@ -4665,6 +4666,46 @@
       "egsMedian": 75
     },
     {
+      "name": "Dies irae ~Acta est Fabula~",
+      "vndbId": "v548",
+      "bangumiId": "16849",
+      "egsId": "10494",
+      "metadata": {
+        "titles": {
+          "en": "Dies irae ~Acta est Fabula~",
+          "zh": "神怒之日 ～剧终～",
+          "ja": "Dies irae ~Acta est Fabula~"
+        },
+        "descriptions": {
+          "en": "May 1, 1945 ― Germany. On the eve of Berlin's collapse, a group of men and women carried out a certain ritual. To them, suffering defeat in the war meant nothing. If anything, the countless lives lost in the battle served as a catalyst to their sacrificial ceremony. Whether or not their attempt bore fruit ― not a soul knows. Following the war, they faded from sight, mind, and eventually into the realm of myth. 61 years later ― Japan, 2006. Ren Fujii, a young man attending high school in Suwahara City, finds his friendship with his old buddy Shirou Yusa shatter to pieces following a certain incident, ending in a vicious fight that sees Ren hospitalized for two months. The season shifts from autumn to winter ― to the dawning weeks of December, with Christmas on the horizon. Having lost his best friend, Ren leaves the hospital with the intention to rebuild his new life without Shirou. But even that plan soon falls apart. Irrationality that defies the realm of common sense begins to assault and devour the city. Abnormalities soon seek to destroy everything Ren holds dear before his eyes with overwhelming violence. He must change, even if it means crossing the boundary between the ordinary and the extraordinary. His desires are hardly anything grand. All he wants is to return to those days of old. Back to those days filled with simple, everyday joy. The battle with the Longinus Dreizehn Orden. A continuation of that war full of madness, carnage, and maledictions. What future awaits Ren at the end of his road...? [From Steam] A thoroughly rewritten and expanded remake of Dies ira",
+          "zh": "怒火之日迎来了其未知的结局… 2007年12月发售的传奇战斗ADV『Dies irae Also sprach Zarathstra』，以现代日本为舞台，描绘主人公・蓮与圣枪十三骑士团之间的战斗的本作终于以完全新作的姿态登场！ 作为完全新制剧本收录了主脚本写手・正田崇写作的「螢」「玲愛」路线。与此相应追加新制语音、原画家・Gユウスケ的完全新制CG！此外、在DRAMA CD『Die Morgendammerung』中登场的“かわしまりの”饰演的新角色「ベアトリス・ヴァルトルート・フォン・キルヒアイゼン」等，至今为止没有登场的角色们也会于故事中登场，『Dies irae』的世界将会更加激烈！ 此外本作还预定使用因演唱前作主题歌而为玩家熟识的榊原ゆい演唱的新制主题歌！作词由榊原ゆい本人、作曲由与猶啓至负责！另外配合新制剧情也预定追加新制BGM！ 敬请期待light「Dies」团队奉上的「学园传奇战斗歌剧」！ 故事情节 1945年、5月1日……德国。在陷落的柏林，一些人正在进行某个仪式。 对他们来说在战争中败北不过是鸡毛蒜皮的小事，甚至还将在战争中产生的大量牺牲者作为仪式的触媒献为祭品。 他们的尝试成功了还是失败了，没有人知道。 他们在战后隐藏了行踪，不知是生是死，甚至让人无法确定他们是否真实存在过，无人知道真相，只有传言传播。 圣枪十三骑士团——纳粹德国的黑暗中诞生的超人们。 他们终将回归。其时世界将破灭。故，决不可允许他们的再来——这样一个传言。 然后61年的时光流逝。知道他们的存在的人，大部分已经死亡，众人忘记了他们。 然而—— 2006年……日本。就读諏訪原市的学园的藤井蓮，在某事件之后与好友・遊佐司狼决裂，仿佛厮杀般干架的结果是两个月的被迫入院生活。 季节由秋转冬——圣诞临近的12月。 怀着仿佛半身被夺的丧失感，退院的蓮想着要重新构筑没有司狼的崭新日常生活。 往者不可追。那么，至少要珍惜如今手中之物…… 但是，连这个愿望也分崩离析。 每晚梦见的断头台的噩梦。狩猎人头的杀人犯。追杀他的黑衣“骑士”们。超越常识的不条理覆盖城市，逐渐侵蚀。 这份异常完全不是两个月前能相比的，暴力到粉碎至今为止积累而成的全部事物的非日常。 不改变的话，没法活下去。不活下去的话，没法回去。 在以加速度疯狂下去的世界中心，蓮独自跨过日常与非日常的界线。 并没有期望什么了不得的事。也不是想高举正义与大义的旗帜。 只是，想回去而已。回到没趣、无聊然而平凡、温暖的那段时光。 胸怀悲壮的决意，司狼的声音回响。 只要还在这个城市，无论是谁迟早都要疯掉——他如是说。 与圣枪十三骑士团的战斗。充满狂气与杀戮与诅咒的战争的连续。 在那尽头，蓮究竟将会看到什么呢。"
+        },
+        "released": "2009-07-24",
+        "year": 2009,
+        "image": "https://t.vndb.org/cv/16/79716.jpg",
+        "lengthMinutes": 4950,
+        "genres": [
+          "正田崇",
+          "LIGHT",
+          "中二"
+        ],
+        "platforms": [
+          "win",
+          "ios",
+          "and",
+          "psp",
+          "swi"
+        ]
+      },
+      "vndbScore": 81.3,
+      "vndbVotes": 3950,
+      "bangumiScore": 78,
+      "bangumiVotes": 252,
+      "egsScore": 70.15,
+      "egsVotes": 244,
+      "egsMedian": 80
+    },
+    {
       "name": "神咒神威神楽",
       "vndbId": "v5844",
       "bangumiId": "14895",
@@ -4694,7 +4735,7 @@
         ]
       },
       "vndbScore": 83.9,
-      "vndbVotes": 415,
+      "vndbVotes": 416,
       "bangumiScore": 76,
       "bangumiVotes": 123,
       "egsScore": 78.9,
@@ -4735,9 +4776,9 @@
         ]
       },
       "vndbScore": 80.7,
-      "vndbVotes": 7748,
+      "vndbVotes": 7751,
       "bangumiScore": 79,
-      "bangumiVotes": 3337,
+      "bangumiVotes": 3338,
       "egsScore": 79.47,
       "egsVotes": 137,
       "egsMedian": 80
@@ -4806,7 +4847,7 @@
       "vndbScore": 79.4,
       "vndbVotes": 430,
       "bangumiScore": 79,
-      "bangumiVotes": 1360,
+      "bangumiVotes": 1361,
       "egsScore": 84.16,
       "egsVotes": 317,
       "egsMedian": 85
@@ -4842,51 +4883,11 @@
         ]
       },
       "vndbScore": 80.8,
-      "vndbVotes": 795,
+      "vndbVotes": 796,
       "bangumiScore": 79,
-      "bangumiVotes": 684,
+      "bangumiVotes": 685,
       "egsScore": 80.94,
       "egsVotes": 212,
-      "egsMedian": 80
-    },
-    {
-      "name": "Dies irae ~Acta est Fabula~",
-      "vndbId": "v548",
-      "bangumiId": "16849",
-      "egsId": "10494",
-      "metadata": {
-        "titles": {
-          "en": "Dies irae ~Acta est Fabula~",
-          "zh": "神怒之日 ～剧终～",
-          "ja": "Dies irae ~Acta est Fabula~"
-        },
-        "descriptions": {
-          "en": "May 1, 1945 ― Germany. On the eve of Berlin's collapse, a group of men and women carried out a certain ritual. To them, suffering defeat in the war meant nothing. If anything, the countless lives lost in the battle served as a catalyst to their sacrificial ceremony. Whether or not their attempt bore fruit ― not a soul knows. Following the war, they faded from sight, mind, and eventually into the realm of myth. 61 years later ― Japan, 2006. Ren Fujii, a young man attending high school in Suwahara City, finds his friendship with his old buddy Shirou Yusa shatter to pieces following a certain incident, ending in a vicious fight that sees Ren hospitalized for two months. The season shifts from autumn to winter ― to the dawning weeks of December, with Christmas on the horizon. Having lost his best friend, Ren leaves the hospital with the intention to rebuild his new life without Shirou. But even that plan soon falls apart. Irrationality that defies the realm of common sense begins to assault and devour the city. Abnormalities soon seek to destroy everything Ren holds dear before his eyes with overwhelming violence. He must change, even if it means crossing the boundary between the ordinary and the extraordinary. His desires are hardly anything grand. All he wants is to return to those days of old. Back to those days filled with simple, everyday joy. The battle with the Longinus Dreizehn Orden. A continuation of that war full of madness, carnage, and maledictions. What future awaits Ren at the end of his road...? [From Steam] A thoroughly rewritten and expanded remake of Dies ira",
-          "zh": "怒火之日迎来了其未知的结局… 2007年12月发售的传奇战斗ADV『Dies irae Also sprach Zarathstra』，以现代日本为舞台，描绘主人公・蓮与圣枪十三骑士团之间的战斗的本作终于以完全新作的姿态登场！ 作为完全新制剧本收录了主脚本写手・正田崇写作的「螢」「玲愛」路线。与此相应追加新制语音、原画家・Gユウスケ的完全新制CG！此外、在DRAMA CD『Die Morgendammerung』中登场的“かわしまりの”饰演的新角色「ベアトリス・ヴァルトルート・フォン・キルヒアイゼン」等，至今为止没有登场的角色们也会于故事中登场，『Dies irae』的世界将会更加激烈！ 此外本作还预定使用因演唱前作主题歌而为玩家熟识的榊原ゆい演唱的新制主题歌！作词由榊原ゆい本人、作曲由与猶啓至负责！另外配合新制剧情也预定追加新制BGM！ 敬请期待light「Dies」团队奉上的「学园传奇战斗歌剧」！ 故事情节 1945年、5月1日……德国。在陷落的柏林，一些人正在进行某个仪式。 对他们来说在战争中败北不过是鸡毛蒜皮的小事，甚至还将在战争中产生的大量牺牲者作为仪式的触媒献为祭品。 他们的尝试成功了还是失败了，没有人知道。 他们在战后隐藏了行踪，不知是生是死，甚至让人无法确定他们是否真实存在过，无人知道真相，只有传言传播。 圣枪十三骑士团——纳粹德国的黑暗中诞生的超人们。 他们终将回归。其时世界将破灭。故，决不可允许他们的再来——这样一个传言。 然后61年的时光流逝。知道他们的存在的人，大部分已经死亡，众人忘记了他们。 然而—— 2006年……日本。就读諏訪原市的学园的藤井蓮，在某事件之后与好友・遊佐司狼决裂，仿佛厮杀般干架的结果是两个月的被迫入院生活。 季节由秋转冬——圣诞临近的12月。 怀着仿佛半身被夺的丧失感，退院的蓮想着要重新构筑没有司狼的崭新日常生活。 往者不可追。那么，至少要珍惜如今手中之物…… 但是，连这个愿望也分崩离析。 每晚梦见的断头台的噩梦。狩猎人头的杀人犯。追杀他的黑衣“骑士”们。超越常识的不条理覆盖城市，逐渐侵蚀。 这份异常完全不是两个月前能相比的，暴力到粉碎至今为止积累而成的全部事物的非日常。 不改变的话，没法活下去。不活下去的话，没法回去。 在以加速度疯狂下去的世界中心，蓮独自跨过日常与非日常的界线。 并没有期望什么了不得的事。也不是想高举正义与大义的旗帜。 只是，想回去而已。回到没趣、无聊然而平凡、温暖的那段时光。 胸怀悲壮的决意，司狼的声音回响。 只要还在这个城市，无论是谁迟早都要疯掉——他如是说。 与圣枪十三骑士团的战斗。充满狂气与杀戮与诅咒的战争的连续。 在那尽头，蓮究竟将会看到什么呢。"
-        },
-        "released": "2009-07-24",
-        "year": 2009,
-        "image": "https://t.vndb.org/cv/16/79716.jpg",
-        "lengthMinutes": 4894,
-        "genres": [
-          "正田崇",
-          "LIGHT",
-          "中二"
-        ],
-        "platforms": [
-          "win",
-          "ios",
-          "and",
-          "psp",
-          "swi"
-        ]
-      },
-      "vndbScore": 81.2,
-      "vndbVotes": 3946,
-      "bangumiScore": 78,
-      "bangumiVotes": 252,
-      "egsScore": 70.15,
-      "egsVotes": 244,
       "egsMedian": 80
     },
     {
@@ -4918,7 +4919,7 @@
         ]
       },
       "vndbScore": 80.4,
-      "vndbVotes": 2492,
+      "vndbVotes": 2493,
       "bangumiScore": 76,
       "bangumiVotes": 74,
       "egsScore": 79.36,
@@ -4955,7 +4956,7 @@
         ]
       },
       "vndbScore": 79.3,
-      "vndbVotes": 2289,
+      "vndbVotes": 2290,
       "bangumiScore": 74,
       "bangumiVotes": 1883,
       "egsScore": 84.51,
@@ -4996,7 +4997,7 @@
         ]
       },
       "vndbScore": 81.5,
-      "vndbVotes": 3880,
+      "vndbVotes": 3882,
       "bangumiScore": 76,
       "bangumiVotes": 3370,
       "egsScore": 82.66,
@@ -5068,9 +5069,9 @@
         ]
       },
       "vndbScore": 80.2,
-      "vndbVotes": 907,
+      "vndbVotes": 908,
       "bangumiScore": 77,
-      "bangumiVotes": 271,
+      "bangumiVotes": 272,
       "egsScore": 81.86,
       "egsVotes": 206,
       "egsMedian": 81
@@ -5106,7 +5107,7 @@
         ]
       },
       "vndbScore": 80.4,
-      "vndbVotes": 2762,
+      "vndbVotes": 2765,
       "bangumiScore": 74,
       "bangumiVotes": 319,
       "egsScore": 80.21,
@@ -5144,7 +5145,7 @@
       "vndbScore": 79.3,
       "vndbVotes": 783,
       "bangumiScore": 79,
-      "bangumiVotes": 3001,
+      "bangumiVotes": 3002,
       "egsScore": 81.47,
       "egsVotes": 1002,
       "egsMedian": 82
@@ -5197,7 +5198,7 @@
         },
         "released": "2014-08-18",
         "year": 2014,
-        "image": "https://t.vndb.org/cv/65/79365.jpg",
+        "image": "https://t.vndb.org/cv/53/87453.jpg",
         "lengthMinutes": 906,
         "genres": [
           "Visual novel"
@@ -5213,7 +5214,7 @@
         ]
       },
       "vndbScore": 79.7,
-      "vndbVotes": 5130,
+      "vndbVotes": 5134,
       "bangumiScore": null,
       "bangumiVotes": null,
       "egsScore": 75.68,
@@ -5256,7 +5257,7 @@
       "vndbScore": 80,
       "vndbVotes": 3484,
       "bangumiScore": 75,
-      "bangumiVotes": 389,
+      "bangumiVotes": 390,
       "egsScore": 81.03,
       "egsVotes": 209,
       "egsMedian": 81
@@ -5279,7 +5280,7 @@
         "released": "2007-05-15",
         "year": 2007,
         "image": "https://t.vndb.org/cv/94/76394.jpg",
-        "lengthMinutes": 280,
+        "lengthMinutes": 279,
         "genres": [
           "片岡とも",
           "水仙",
@@ -5296,10 +5297,10 @@
           "web"
         ]
       },
-      "vndbScore": 75.4,
-      "vndbVotes": 2863,
+      "vndbScore": 75.5,
+      "vndbVotes": 2866,
       "bangumiScore": 82,
-      "bangumiVotes": 3642,
+      "bangumiVotes": 3644,
       "egsScore": 81.81,
       "egsVotes": 922,
       "egsMedian": 82
@@ -5339,7 +5340,7 @@
       "vndbScore": 81.9,
       "vndbVotes": 1512,
       "bangumiScore": 72,
-      "bangumiVotes": 460,
+      "bangumiVotes": 461,
       "egsScore": 76.15,
       "egsVotes": 26,
       "egsMedian": 77
@@ -5419,9 +5420,9 @@
         ]
       },
       "vndbScore": 75.1,
-      "vndbVotes": 7124,
+      "vndbVotes": 7127,
       "bangumiScore": 84,
-      "bangumiVotes": 6662,
+      "bangumiVotes": 6664,
       "egsScore": 79.74,
       "egsVotes": 1401,
       "egsMedian": 80
@@ -5498,7 +5499,7 @@
       "vndbScore": 82.5,
       "vndbVotes": 805,
       "bangumiScore": 76,
-      "bangumiVotes": 1081,
+      "bangumiVotes": 1082,
       "egsScore": 81.77,
       "egsVotes": 346,
       "egsMedian": 81
@@ -5536,7 +5537,7 @@
         ]
       },
       "vndbScore": 79.7,
-      "vndbVotes": 659,
+      "vndbVotes": 660,
       "bangumiScore": 75,
       "bangumiVotes": 1000,
       "egsScore": 81.9,
@@ -5576,9 +5577,9 @@
         ]
       },
       "vndbScore": 79.5,
-      "vndbVotes": 1146,
+      "vndbVotes": 1147,
       "bangumiScore": 76,
-      "bangumiVotes": 5343,
+      "bangumiVotes": 5346,
       "egsScore": 84.12,
       "egsVotes": 2527,
       "egsMedian": 85
@@ -5724,9 +5725,9 @@
         ]
       },
       "vndbScore": 81.9,
-      "vndbVotes": 722,
+      "vndbVotes": 723,
       "bangumiScore": 78,
-      "bangumiVotes": 4541,
+      "bangumiVotes": 4544,
       "egsScore": 81.14,
       "egsVotes": 1164,
       "egsMedian": 83
@@ -5760,7 +5761,7 @@
         ]
       },
       "vndbScore": 79.5,
-      "vndbVotes": 2206,
+      "vndbVotes": 2207,
       "bangumiScore": 74,
       "bangumiVotes": 73,
       "egsScore": 78.02,
@@ -5800,7 +5801,7 @@
         ]
       },
       "vndbScore": 81.1,
-      "vndbVotes": 1852,
+      "vndbVotes": 1853,
       "bangumiScore": 75,
       "bangumiVotes": 3238,
       "egsScore": 85.15,
@@ -5839,9 +5840,9 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 8012,
+      "vndbVotes": 8018,
       "bangumiScore": 75,
-      "bangumiVotes": 3744,
+      "bangumiVotes": 3745,
       "egsScore": 81.48,
       "egsVotes": 1320,
       "egsMedian": 83
@@ -5879,7 +5880,7 @@
         ]
       },
       "vndbScore": 78.7,
-      "vndbVotes": 686,
+      "vndbVotes": 689,
       "bangumiScore": 77,
       "bangumiVotes": 1982,
       "egsScore": 81.26,
@@ -5965,8 +5966,8 @@
           "swi"
         ]
       },
-      "vndbScore": 80.2,
-      "vndbVotes": 1711,
+      "vndbScore": 80.1,
+      "vndbVotes": 1712,
       "bangumiScore": 74,
       "bangumiVotes": 3224,
       "egsScore": 81.63,
@@ -5995,7 +5996,7 @@
         "genres": [
           "乙女向",
           "R18",
-          "乙女"
+          "aromarie"
         ],
         "platforms": [
           "win",
@@ -6010,7 +6011,7 @@
       "vndbScore": 79.8,
       "vndbVotes": 474,
       "bangumiScore": 78,
-      "bangumiVotes": 812,
+      "bangumiVotes": 813,
       "egsScore": 79.44,
       "egsVotes": 64,
       "egsMedian": 80
@@ -6052,7 +6053,7 @@
         ]
       },
       "vndbScore": 78.8,
-      "vndbVotes": 18702,
+      "vndbVotes": 18705,
       "bangumiScore": 73,
       "bangumiVotes": 247,
       "egsScore": 72.32,
@@ -6091,7 +6092,7 @@
       "vndbScore": 76.1,
       "vndbVotes": 950,
       "bangumiScore": 81,
-      "bangumiVotes": 1050,
+      "bangumiVotes": 1051,
       "egsScore": 77.78,
       "egsVotes": 92,
       "egsMedian": 79
@@ -6165,9 +6166,9 @@
         ]
       },
       "vndbScore": 79.7,
-      "vndbVotes": 476,
+      "vndbVotes": 477,
       "bangumiScore": 75,
-      "bangumiVotes": 2159,
+      "bangumiVotes": 2160,
       "egsScore": 81.14,
       "egsVotes": 1814,
       "egsMedian": 81
@@ -6203,7 +6204,7 @@
       "vndbScore": 79.3,
       "vndbVotes": 425,
       "bangumiScore": 75,
-      "bangumiVotes": 1042,
+      "bangumiVotes": 1043,
       "egsScore": 80.87,
       "egsVotes": 932,
       "egsMedian": 80
@@ -6300,7 +6301,7 @@
         "released": "2022-07-29",
         "year": 2022,
         "image": "https://t.vndb.org/cv/41/76841.jpg",
-        "lengthMinutes": 2392,
+        "lengthMinutes": 2400,
         "genres": [
           "冬茜トム",
           "しらたま",
@@ -6504,9 +6505,9 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 2736,
+      "vndbVotes": 2737,
       "bangumiScore": 74,
-      "bangumiVotes": 3262,
+      "bangumiVotes": 3263,
       "egsScore": 83.91,
       "egsVotes": 880,
       "egsMedian": 85
@@ -6542,7 +6543,7 @@
         ]
       },
       "vndbScore": 80.6,
-      "vndbVotes": 1965,
+      "vndbVotes": 1966,
       "bangumiScore": 74,
       "bangumiVotes": 2096,
       "egsScore": 80.69,
@@ -6579,7 +6580,7 @@
         ]
       },
       "vndbScore": 84.2,
-      "vndbVotes": 519,
+      "vndbVotes": 520,
       "bangumiScore": 71,
       "bangumiVotes": 412,
       "egsScore": 75.86,
@@ -6689,9 +6690,9 @@
         ]
       },
       "vndbScore": 80,
-      "vndbVotes": 1249,
+      "vndbVotes": 1252,
       "bangumiScore": 76,
-      "bangumiVotes": 1331,
+      "bangumiVotes": 1334,
       "egsScore": 74.7,
       "egsVotes": 20,
       "egsMedian": 75
@@ -6728,9 +6729,9 @@
         ]
       },
       "vndbScore": 79.4,
-      "vndbVotes": 8469,
+      "vndbVotes": 8472,
       "bangumiScore": 74,
-      "bangumiVotes": 3871,
+      "bangumiVotes": 3870,
       "egsScore": 79.05,
       "egsVotes": 1116,
       "egsMedian": 80
@@ -6802,7 +6803,7 @@
         ]
       },
       "vndbScore": 81.5,
-      "vndbVotes": 407,
+      "vndbVotes": 409,
       "bangumiScore": 75,
       "bangumiVotes": 605,
       "egsScore": 78.24,
@@ -6877,7 +6878,7 @@
         ]
       },
       "vndbScore": 80.9,
-      "vndbVotes": 495,
+      "vndbVotes": 496,
       "bangumiScore": 73,
       "bangumiVotes": 965,
       "egsScore": 80.82,
@@ -6993,7 +6994,7 @@
       "vndbScore": 79.2,
       "vndbVotes": 2299,
       "bangumiScore": 74,
-      "bangumiVotes": 2491,
+      "bangumiVotes": 2492,
       "egsScore": 78.91,
       "egsVotes": 1740,
       "egsMedian": 80
@@ -7139,9 +7140,9 @@
         ]
       },
       "vndbScore": 81.9,
-      "vndbVotes": 716,
+      "vndbVotes": 715,
       "bangumiScore": 73,
-      "bangumiVotes": 1874,
+      "bangumiVotes": 1875,
       "egsScore": 81.82,
       "egsVotes": 420,
       "egsMedian": 82
@@ -7277,7 +7278,7 @@
         },
         "released": "2011-08-26",
         "year": 2011,
-        "image": "https://t.vndb.org/cv/90/88390.jpg",
+        "image": "https://t.vndb.org/cv/89/88389.jpg",
         "lengthMinutes": 4500,
         "genres": [
           "alicesoft",
@@ -7364,9 +7365,9 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 511,
+      "vndbVotes": 512,
       "bangumiScore": 75,
-      "bangumiVotes": 3629,
+      "bangumiVotes": 3630,
       "egsScore": 82.13,
       "egsVotes": 303,
       "egsMedian": 82
@@ -7481,45 +7482,6 @@
       "egsMedian": 79
     },
     {
-      "name": "終遠のヴィルシュ -ErroR:salvation-",
-      "vndbId": "v29661",
-      "bangumiId": "320129",
-      "egsId": "30590",
-      "metadata": {
-        "titles": {
-          "en": "Virche Evermore: -ErroR:salvation-",
-          "zh": "终远的威尔修 -ErroR:salvation-",
-          "ja": "終遠のヴィルシュ -ErroR:salvation-"
-        },
-        "descriptions": {
-          "en": "Arpéchéle is a small island country surrounded by the sea and black flowers of misfortune called Lycoris Noirges. The people of this country are born with a curse that leads to death at the age of 23. The people of the country lament and oppose their short-lived fates. After many years of research, a system was created—a “memory download” system. Once the body dies, the memories may live on in a clone known as a “Reliver”. These Relivers continue to resist their fate for another 23 years. The story follows a girl known as “Death,” as everyone she is involved with dies before the curse can consume them. Just as she is about to end her own life in regret, a mysterious man who calls himself the “Watchman of Death” appears before her. Under the watchman’s guidance, the girl will approach the truth of the various mysteries of death that haunts this country, whether she likes it or not… Without knowing that despair is the fate that awaits those who are loved by Death. [From Aksys Games]",
-          "zh": "西ヨーロッパの小国・アルペシェール。 四方を海と黒き災いの花――リコリス・ノワージュに囲まれたこの国の人間は 23歳までに死に至る《死の呪い》を抱いて生まれてくる。 万人に等しく死が降り注ぐアルペシェールは、いつしかこう呼ばれるようになった。 ――死神に魅入られた国、と。 国民は短命である自分たちの運命を嘆き、抗う。 そして長年にわたる研究の末、あるシステムを創り出した。 23歳までに死を迎える肉体を捨て、記憶だけを生き永らえさせる――“記憶のダウンロード”。 “記憶のダウンロード”によって永続的に生き続ける人々は“リライバー”と呼ばれ、 短命に抗い続けている。 時を同じくして、関わる者全てが不幸になることから《死神》と呼ばれる少女がいた。 人生を嘆いた少女が自ら生を終わらせようとした瞬間、 目の前に《死の番人》だと名乗る謎の男が現れる。 番人の導きにより、少女は否応なしにこの国に巣食う《様々な死の謎》に近づくこととなる。 死神に魅入られた者の運命が行きつく先は――絶望だと知らずに。"
-        },
-        "released": "2021-10-07",
-        "year": 2021,
-        "image": "https://t.vndb.org/cv/55/88055.jpg",
-        "lengthMinutes": 3338,
-        "genres": [
-          "乙女向",
-          "乙女ゲーム",
-          "中山智美"
-        ],
-        "platforms": [
-          "win",
-          "ios",
-          "and",
-          "swi"
-        ]
-      },
-      "vndbScore": 82.1,
-      "vndbVotes": 687,
-      "bangumiScore": 53,
-      "bangumiVotes": 199,
-      "egsScore": 84.73,
-      "egsVotes": 37,
-      "egsMedian": 82
-    },
-    {
       "name": "大逆転裁判 ‐成歩堂龍ノ介の冒険‐",
       "vndbId": "v15125",
       "bangumiId": "102690",
@@ -7553,12 +7515,51 @@
         ]
       },
       "vndbScore": 78.9,
-      "vndbVotes": 2075,
+      "vndbVotes": 2077,
       "bangumiScore": 72,
       "bangumiVotes": 1454,
       "egsScore": 77.25,
       "egsVotes": 36,
       "egsMedian": 78
+    },
+    {
+      "name": "終遠のヴィルシュ -ErroR:salvation-",
+      "vndbId": "v29661",
+      "bangumiId": "320129",
+      "egsId": "30590",
+      "metadata": {
+        "titles": {
+          "en": "Virche Evermore: -ErroR:salvation-",
+          "zh": "终远的威尔修 -ErroR:salvation-",
+          "ja": "終遠のヴィルシュ -ErroR:salvation-"
+        },
+        "descriptions": {
+          "en": "Arpéchéle is a small island country surrounded by the sea and black flowers of misfortune called Lycoris Noirges. The people of this country are born with a curse that leads to death at the age of 23. The people of the country lament and oppose their short-lived fates. After many years of research, a system was created—a “memory download” system. Once the body dies, the memories may live on in a clone known as a “Reliver”. These Relivers continue to resist their fate for another 23 years. The story follows a girl known as “Death,” as everyone she is involved with dies before the curse can consume them. Just as she is about to end her own life in regret, a mysterious man who calls himself the “Watchman of Death” appears before her. Under the watchman’s guidance, the girl will approach the truth of the various mysteries of death that haunts this country, whether she likes it or not… Without knowing that despair is the fate that awaits those who are loved by Death. [From Aksys Games]",
+          "zh": "西ヨーロッパの小国・アルペシェール。 四方を海と黒き災いの花――リコリス・ノワージュに囲まれたこの国の人間は 23歳までに死に至る《死の呪い》を抱いて生まれてくる。 万人に等しく死が降り注ぐアルペシェールは、いつしかこう呼ばれるようになった。 ――死神に魅入られた国、と。 国民は短命である自分たちの運命を嘆き、抗う。 そして長年にわたる研究の末、あるシステムを創り出した。 23歳までに死を迎える肉体を捨て、記憶だけを生き永らえさせる――“記憶のダウンロード”。 “記憶のダウンロード”によって永続的に生き続ける人々は“リライバー”と呼ばれ、 短命に抗い続けている。 時を同じくして、関わる者全てが不幸になることから《死神》と呼ばれる少女がいた。 人生を嘆いた少女が自ら生を終わらせようとした瞬間、 目の前に《死の番人》だと名乗る謎の男が現れる。 番人の導きにより、少女は否応なしにこの国に巣食う《様々な死の謎》に近づくこととなる。 死神に魅入られた者の運命が行きつく先は――絶望だと知らずに。"
+        },
+        "released": "2021-10-07",
+        "year": 2021,
+        "image": "https://t.vndb.org/cv/55/88055.jpg",
+        "lengthMinutes": 3300,
+        "genres": [
+          "乙女向",
+          "乙女ゲーム",
+          "中山智美"
+        ],
+        "platforms": [
+          "win",
+          "ios",
+          "and",
+          "swi"
+        ]
+      },
+      "vndbScore": 82,
+      "vndbVotes": 688,
+      "bangumiScore": 53,
+      "bangumiVotes": 199,
+      "egsScore": 84.73,
+      "egsVotes": 37,
+      "egsMedian": 82
     },
     {
       "name": "ままごと ～ママとないしょのエッチしましょ～",
@@ -7590,7 +7591,7 @@
         ]
       },
       "vndbScore": 81.1,
-      "vndbVotes": 638,
+      "vndbVotes": 639,
       "bangumiScore": 69,
       "bangumiVotes": 462,
       "egsScore": 75.21,
@@ -7703,7 +7704,7 @@
       "vndbScore": 81,
       "vndbVotes": 519,
       "bangumiScore": 71,
-      "bangumiVotes": 1163,
+      "bangumiVotes": 1164,
       "egsScore": 77.8,
       "egsVotes": 729,
       "egsMedian": 80
@@ -7738,9 +7739,9 @@
         ]
       },
       "vndbScore": 80.9,
-      "vndbVotes": 719,
+      "vndbVotes": 721,
       "bangumiScore": 69,
-      "bangumiVotes": 1885,
+      "bangumiVotes": 1887,
       "egsScore": 83.07,
       "egsVotes": 743,
       "egsMedian": 84
@@ -7776,7 +7777,7 @@
         ]
       },
       "vndbScore": 84.5,
-      "vndbVotes": 412,
+      "vndbVotes": 413,
       "bangumiScore": 72,
       "bangumiVotes": 1143,
       "egsScore": 76,
@@ -7812,7 +7813,7 @@
         ]
       },
       "vndbScore": 78.7,
-      "vndbVotes": 896,
+      "vndbVotes": 897,
       "bangumiScore": 69,
       "bangumiVotes": 535,
       "egsScore": 75.24,
@@ -7837,7 +7838,7 @@
         "released": "2025-09-26",
         "year": 2025,
         "image": "https://t.vndb.org/cv/22/109522.jpg",
-        "lengthMinutes": 1950,
+        "lengthMinutes": 2048,
         "genres": [
           "海豹社",
           "ピロ水",
@@ -7851,7 +7852,7 @@
       "vndbScore": 81.9,
       "vndbVotes": 372,
       "bangumiScore": 70,
-      "bangumiVotes": 1001,
+      "bangumiVotes": 1002,
       "egsScore": 82.02,
       "egsVotes": 249,
       "egsMedian": 82
@@ -7887,9 +7888,9 @@
         ]
       },
       "vndbScore": 80.2,
-      "vndbVotes": 1352,
+      "vndbVotes": 1355,
       "bangumiScore": 72,
-      "bangumiVotes": 4753,
+      "bangumiVotes": 4758,
       "egsScore": 83.7,
       "egsVotes": 474,
       "egsMedian": 85
@@ -7924,7 +7925,7 @@
         ]
       },
       "vndbScore": 80.3,
-      "vndbVotes": 428,
+      "vndbVotes": 429,
       "bangumiScore": 71,
       "bangumiVotes": 1491,
       "egsScore": 81.79,
@@ -7949,7 +7950,7 @@
         "released": "2025-04-24",
         "year": 2025,
         "image": "https://t.vndb.org/cv/44/104144.jpg",
-        "lengthMinutes": 9450,
+        "lengthMinutes": 9452,
         "genres": [
           "小高和刚",
           "打越钢太郎",
@@ -7961,7 +7962,7 @@
         ]
       },
       "vndbScore": 78.9,
-      "vndbVotes": 1165,
+      "vndbVotes": 1167,
       "bangumiScore": 65,
       "bangumiVotes": 619,
       "egsScore": 74.36,
@@ -8000,7 +8001,7 @@
         ]
       },
       "vndbScore": 80,
-      "vndbVotes": 669,
+      "vndbVotes": 670,
       "bangumiScore": 66,
       "bangumiVotes": 707,
       "egsScore": 81.23,
@@ -8038,7 +8039,7 @@
       "vndbScore": 78.8,
       "vndbVotes": 404,
       "bangumiScore": 69,
-      "bangumiVotes": 1105,
+      "bangumiVotes": 1106,
       "egsScore": 77.74,
       "egsVotes": 451,
       "egsMedian": 78
