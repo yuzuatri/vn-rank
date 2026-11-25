@@ -24,16 +24,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 92.69470317942637,
+      "overallScore": 92.69445284137215,
       "sources": {
         "vndb": {
           "score": 90.7,
-          "votes": 1285,
+          "votes": 1286,
           "href": "https://vndb.org/v20802"
         },
         "bangumi": {
           "score": 93,
-          "votes": 3705,
+          "votes": 3706,
           "href": "https://bgm.tv/subject/226254"
         },
         "egs": {
@@ -70,11 +70,11 @@
         "ps3",
         "psv"
       ],
-      "overallScore": 90.40952026286966,
+      "overallScore": 90.40950715023313,
       "sources": {
         "vndb": {
           "score": 90.2,
-          "votes": 4756,
+          "votes": 4757,
           "href": "https://vndb.org/v7771"
         },
         "bangumi": {
@@ -125,16 +125,16 @@
         "xb3",
         "xxs"
       ],
-      "overallScore": 89.81929103221219,
+      "overallScore": 89.81925605924597,
       "sources": {
         "vndb": {
           "score": 90.2,
-          "votes": 17256,
+          "votes": 17260,
           "href": "https://vndb.org/v2002"
         },
         "bangumi": {
           "score": 89,
-          "votes": 8714,
+          "votes": 8717,
           "href": "https://bgm.tv/subject/3154"
         },
         "egs": {
@@ -174,16 +174,16 @@
         "swi",
         "xb3"
       ],
-      "overallScore": 89.41121076760317,
+      "overallScore": 89.41103471781493,
       "sources": {
         "vndb": {
           "score": 89.9,
-          "votes": 11539,
+          "votes": 11540,
           "href": "https://vndb.org/v92"
         },
         "bangumi": {
           "score": 88,
-          "votes": 4150,
+          "votes": 4153,
           "href": "https://bgm.tv/subject/4828"
         },
         "egs": {
@@ -226,16 +226,16 @@
         "swi",
         "vnd"
       ],
-      "overallScore": 88.9705467170272,
+      "overallScore": 88.97057320468326,
       "sources": {
         "vndb": {
           "score": 89.8,
-          "votes": 11258,
+          "votes": 11262,
           "href": "https://vndb.org/v2153"
         },
         "bangumi": {
           "score": 86,
-          "votes": 1540,
+          "votes": 1541,
           "href": "https://bgm.tv/subject/109118"
         },
         "egs": {
@@ -271,16 +271,16 @@
         "and",
         "swi"
       ],
-      "overallScore": 88.57330678826023,
+      "overallScore": 88.573350455888,
       "sources": {
         "vndb": {
           "score": 90.2,
-          "votes": 6431,
+          "votes": 6433,
           "href": "https://vndb.org/v2016"
         },
         "bangumi": {
           "score": 86,
-          "votes": 4574,
+          "votes": 4575,
           "href": "https://bgm.tv/subject/3243"
         },
         "egs": {
@@ -314,7 +314,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 88.00441016051114,
+      "overallScore": 88.00440924435212,
       "sources": {
         "vndb": {
           "score": 86.8,
@@ -323,7 +323,7 @@
         },
         "bangumi": {
           "score": 88,
-          "votes": 3281,
+          "votes": 3283,
           "href": "https://bgm.tv/subject/12098"
         },
         "egs": {
@@ -357,16 +357,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 87.87106936416185,
+      "overallScore": 87.90018718502519,
       "sources": {
         "vndb": {
-          "score": 88.6,
-          "votes": 187,
+          "score": 88.8,
+          "votes": 190,
           "href": "https://vndb.org/v27916"
         },
         "bangumi": {
           "score": 88,
-          "votes": 1113,
+          "votes": 1115,
           "href": "https://bgm.tv/subject/280440"
         },
         "egs": {
@@ -411,11 +411,11 @@
         "xb3",
         "mob"
       ],
-      "overallScore": 87.77096868313558,
+      "overallScore": 87.77086691587976,
       "sources": {
         "vndb": {
           "score": 87.3,
-          "votes": 11622,
+          "votes": 11627,
           "href": "https://vndb.org/v4"
         },
         "bangumi": {
@@ -465,11 +465,11 @@
         "swi",
         "vnd"
       ],
-      "overallScore": 87.6898549373122,
+      "overallScore": 87.69014914552045,
       "sources": {
         "vndb": {
           "score": 88.4,
-          "votes": 8171,
+          "votes": 8175,
           "href": "https://vndb.org/v68"
         },
         "bangumi": {
@@ -522,11 +522,11 @@
         "xxs",
         "web"
       ],
-      "overallScore": 87.60145739651794,
+      "overallScore": 87.60177396115499,
       "sources": {
         "vndb": {
           "score": 88.7,
-          "votes": 14209,
+          "votes": 14214,
           "href": "https://vndb.org/v24"
         },
         "bangumi": {
@@ -566,16 +566,16 @@
         "win",
         "and"
       ],
-      "overallScore": 87.55143694906502,
+      "overallScore": 87.5513404608295,
       "sources": {
         "vndb": {
           "score": 87.4,
-          "votes": 2669,
+          "votes": 2674,
           "href": "https://vndb.org/v562"
         },
         "bangumi": {
           "score": 87,
-          "votes": 6806,
+          "votes": 6807,
           "href": "https://bgm.tv/subject/22423"
         },
         "egs": {
@@ -619,16 +619,16 @@
         "web",
         "mob"
       ],
-      "overallScore": 87.49763274448914,
+      "overallScore": 87.49768447837151,
       "sources": {
         "vndb": {
           "score": 84.5,
-          "votes": 8852,
+          "votes": 8855,
           "href": "https://vndb.org/v17"
         },
         "bangumi": {
           "score": 90,
-          "votes": 10071,
+          "votes": 10075,
           "href": "https://bgm.tv/subject/1126"
         },
         "egs": {
@@ -667,11 +667,11 @@
         "swi",
         "n3d"
       ],
-      "overallScore": 87.14398280802293,
+      "overallScore": 87.14407216494844,
       "sources": {
         "vndb": {
           "score": 87.3,
-          "votes": 1715,
+          "votes": 1717,
           "href": "https://vndb.org/v19987"
         },
         "bangumi": {
@@ -701,7 +701,7 @@
       "year": 2016,
       "released": "2016-09-21",
       "image": "https://t.vndb.org/cv/64/85164.jpg",
-      "lengthMinutes": 3240,
+      "lengthMinutes": 3248,
       "genres": [
         "传颂之物",
         "leaf",
@@ -716,7 +716,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 86.9432088151003,
+      "overallScore": 86.9422319928861,
       "sources": {
         "vndb": {
           "score": 89.1,
@@ -725,7 +725,7 @@
         },
         "bangumi": {
           "score": 82,
-          "votes": 1571,
+          "votes": 1572,
           "href": "https://bgm.tv/subject/157916"
         },
         "egs": {
@@ -764,11 +764,11 @@
         "web",
         "oth"
       ],
-      "overallScore": 86.82453214805733,
+      "overallScore": 86.87230014938523,
       "sources": {
         "vndb": {
-          "score": 86.8,
-          "votes": 12464,
+          "score": 86.9,
+          "votes": 12473,
           "href": "https://vndb.org/v3144"
         },
         "bangumi": {
@@ -798,7 +798,7 @@
       "year": 2012,
       "released": "2012-12-31",
       "image": "https://t.vndb.org/cv/31/77731.jpg",
-      "lengthMinutes": 2117,
+      "lengthMinutes": 2116,
       "genres": [
         "同人",
         "推理悬疑",
@@ -813,11 +813,11 @@
         "swi",
         "n3d"
       ],
-      "overallScore": 86.76563138189245,
+      "overallScore": 86.76621023983671,
       "sources": {
         "vndb": {
           "score": 87.9,
-          "votes": 7878,
+          "votes": 7884,
           "href": "https://vndb.org/v12402"
         },
         "bangumi": {
@@ -857,16 +857,16 @@
         "win",
         "and"
       ],
-      "overallScore": 86.73699788583508,
+      "overallScore": 86.73670100369783,
       "sources": {
         "vndb": {
           "score": 86.7,
-          "votes": 2028,
+          "votes": 2029,
           "href": "https://vndb.org/v31055"
         },
         "bangumi": {
           "score": 86,
-          "votes": 3965,
+          "votes": 3968,
           "href": "https://bgm.tv/subject/347780"
         },
         "egs": {
@@ -910,11 +910,11 @@
         "n3d",
         "xbo"
       ],
-      "overallScore": 86.53422413793102,
+      "overallScore": 86.5340563835518,
       "sources": {
         "vndb": {
           "score": 85.6,
-          "votes": 6660,
+          "votes": 6662,
           "href": "https://vndb.org/v716"
         },
         "bangumi": {
@@ -957,16 +957,16 @@
         "psp",
         "ps2"
       ],
-      "overallScore": 86.09142739225283,
+      "overallScore": 86.09087855753933,
       "sources": {
         "vndb": {
           "score": 82.6,
-          "votes": 3315,
+          "votes": 3318,
           "href": "https://vndb.org/v13"
         },
         "bangumi": {
           "score": 89,
-          "votes": 4783,
+          "votes": 4785,
           "href": "https://bgm.tv/subject/1127"
         },
         "egs": {
@@ -1004,11 +1004,11 @@
         "drc",
         "web"
       ],
-      "overallScore": 85.94719467804694,
+      "overallScore": 85.94768361581922,
       "sources": {
         "vndb": {
           "score": 84,
-          "votes": 1138,
+          "votes": 1137,
           "href": "https://vndb.org/v2045"
         },
         "bangumi": {
@@ -1058,16 +1058,16 @@
         "vnd",
         "web"
       ],
-      "overallScore": 85.8581108033241,
+      "overallScore": 85.8582259702687,
       "sources": {
         "vndb": {
           "score": 86.3,
-          "votes": 19548,
+          "votes": 19550,
           "href": "https://vndb.org/v11"
         },
         "bangumi": {
           "score": 83,
-          "votes": 5616,
+          "votes": 5615,
           "href": "https://bgm.tv/subject/935"
         },
         "egs": {
@@ -1107,7 +1107,7 @@
         "swi",
         "web"
       ],
-      "overallScore": 85.81875166002655,
+      "overallScore": 85.81672418370056,
       "sources": {
         "vndb": {
           "score": 88.1,
@@ -1116,7 +1116,7 @@
         },
         "bangumi": {
           "score": 82,
-          "votes": 2028,
+          "votes": 2031,
           "href": "https://bgm.tv/subject/46874"
         },
         "egs": {
@@ -1154,16 +1154,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 85.64665479461348,
+      "overallScore": 85.64674025841897,
       "sources": {
         "vndb": {
           "score": 86.2,
-          "votes": 5798,
+          "votes": 5799,
           "href": "https://vndb.org/v777"
         },
         "bangumi": {
           "score": 86,
-          "votes": 7297,
+          "votes": 7299,
           "href": "https://bgm.tv/subject/5418"
         },
         "egs": {
@@ -1210,16 +1210,16 @@
         "vnd",
         "mob"
       ],
-      "overallScore": 85.5672365532382,
+      "overallScore": 85.567316236972,
       "sources": {
         "vndb": {
           "score": 86.1,
-          "votes": 11534,
+          "votes": 11541,
           "href": "https://vndb.org/v67"
         },
         "bangumi": {
           "score": 83,
-          "votes": 1308,
+          "votes": 1309,
           "href": "https://bgm.tv/subject/17035"
         },
         "egs": {
@@ -1244,7 +1244,7 @@
       "year": 2007,
       "released": "2007-07-27",
       "image": "https://t.vndb.org/cv/12/75612.jpg",
-      "lengthMinutes": 4970,
+      "lengthMinutes": 4968,
       "genres": [
         "key",
         "麻枝准",
@@ -1259,7 +1259,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 85.52722129338595,
+      "overallScore": 85.5271860371807,
       "sources": {
         "vndb": {
           "score": 86.4,
@@ -1268,7 +1268,7 @@
         },
         "bangumi": {
           "score": 85,
-          "votes": 2883,
+          "votes": 2884,
           "href": "https://bgm.tv/subject/845"
         },
         "egs": {
@@ -1303,11 +1303,11 @@
         "win",
         "web"
       ],
-      "overallScore": 85.4158286429018,
+      "overallScore": 85.41905683947533,
       "sources": {
         "vndb": {
           "score": 88,
-          "votes": 368,
+          "votes": 369,
           "href": "https://vndb.org/v3660"
         },
         "bangumi": {
@@ -1349,11 +1349,11 @@
         "mac",
         "and"
       ],
-      "overallScore": 85.38208722741433,
+      "overallScore": 85.38342412451362,
       "sources": {
         "vndb": {
           "score": 87.1,
-          "votes": 746,
+          "votes": 747,
           "href": "https://vndb.org/v31929"
         },
         "bangumi": {
@@ -1392,7 +1392,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 85.26853747714809,
+      "overallScore": 85.26646575342465,
       "sources": {
         "vndb": {
           "score": 86.6,
@@ -1401,7 +1401,7 @@
         },
         "bangumi": {
           "score": 83,
-          "votes": 489,
+          "votes": 490,
           "href": "https://bgm.tv/subject/212376"
         },
         "egs": {
@@ -1484,16 +1484,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 85.20406253502185,
+      "overallScore": 85.20421565334229,
       "sources": {
         "vndb": {
           "score": 85.5,
-          "votes": 2769,
+          "votes": 2772,
           "href": "https://vndb.org/v18397"
         },
         "bangumi": {
           "score": 85,
-          "votes": 1472,
+          "votes": 1473,
           "href": "https://bgm.tv/subject/144881"
         },
         "egs": {
@@ -1526,6 +1526,7 @@
       ],
       "platforms": [
         "win",
+        "lin",
         "web"
       ],
       "overallScore": 85.0578289473684,
@@ -1619,16 +1620,16 @@
         "win",
         "web"
       ],
-      "overallScore": 84.90517992116017,
+      "overallScore": 84.90467259644936,
       "sources": {
         "vndb": {
           "score": 83.7,
-          "votes": 6142,
+          "votes": 6143,
           "href": "https://vndb.org/v487"
         },
         "bangumi": {
           "score": 82,
-          "votes": 2897,
+          "votes": 2899,
           "href": "https://bgm.tv/subject/1795"
         },
         "egs": {
@@ -1712,7 +1713,7 @@
         "ps4",
         "psv"
       ],
-      "overallScore": 84.67845157439189,
+      "overallScore": 84.67853045632253,
       "sources": {
         "vndb": {
           "score": 85.3,
@@ -1721,7 +1722,7 @@
         },
         "bangumi": {
           "score": 86,
-          "votes": 5412,
+          "votes": 5413,
           "href": "https://bgm.tv/subject/4022"
         },
         "egs": {
@@ -1755,7 +1756,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 84.60448574556185,
+      "overallScore": 84.60431317504877,
       "sources": {
         "vndb": {
           "score": 81.5,
@@ -1764,7 +1765,7 @@
         },
         "bangumi": {
           "score": 84,
-          "votes": 3212,
+          "votes": 3215,
           "href": "https://bgm.tv/subject/1457"
         },
         "egs": {
@@ -1800,16 +1801,16 @@
         "and",
         "psv"
       ],
-      "overallScore": 84.56729338090732,
+      "overallScore": 84.58516490717146,
       "sources": {
         "vndb": {
-          "score": 87,
-          "votes": 1141,
+          "score": 87.1,
+          "votes": 1143,
           "href": "https://vndb.org/v20431"
         },
         "bangumi": {
           "score": 81,
-          "votes": 3594,
+          "votes": 3593,
           "href": "https://bgm.tv/subject/220921"
         },
         "egs": {
@@ -1870,6 +1871,49 @@
     },
     {
       "rank": 40,
+      "id": "v19035",
+      "titles": {
+        "en": "Slow Damage",
+        "zh": "Slow Damage 慢性伤害",
+        "ja": "スロウ・ダメージ"
+      },
+      "descriptions": {
+        "en": "The year is 20XX, and the declining nation of Japan has built the ultimate casino resort: Shinkoumi. This \"special administrative region,\" once known as Tokyo Waterfront City, is functionally its own separate country under the complete control of a private managing organization known as the Takasatogumi. With the economy in turmoil, the masses flock to Shinkoumi with the hope of getting rich quick, or at the very least, venting the stress of their overworked, underpaid lives. With no restriction on who can enter, crime has flourished, and entire districts have decayed. Our protagonist, Towa, lives a life of indolence on the third floor of a small neighborhood clinic. For you see, he has a hobby: painting human desire. Specifically, the moment before those suppressed urges break free from their constraints. And to do so, naturally, he must experience it himself firsthand. In the art world, he is known as \"euphoria\". It can be dangerous to grant people's darkest desires – sometimes, even deadly. But in the spirit of avant-garde, Towa is willing to die for his art... [From the digital manual included with r59230]",
+        "zh": "20XX年。日本。 深刻な不況を打破するために、日本の一大カジノ・リゾートとして開発された特別行政区「新神海しんこうみ」。 かつて東京臨海副都心13号地に属していたその地は事実上、カジノの民間運営業者である「鷹郷組たかさとぐみ」が統治する国のような存在となっており、不況の中においても一定の繁栄を保っていた。 明日のこともわからぬ不安定な状況が続く中、人々は一攫千金を夢見て、あるいは鬱屈した気持ちを晴らしに新神海へ集まった。 有象無象をも受け入れる街の治安は乱れ、そこかしこに退廃の影が漂い、犯罪が多発していた。 そんな街に住む主人公トワは、知り合いの医師タクの病院に居候しつつ、明日のことなど考えない、自堕落で刹那的な日々を送っていた。 トワにはある趣味があった。 それは「人の欲望を描くこと」。 人の心の奥底に押し込められた爆発寸前の欲望をモチーフにして油彩画を制作する。 欲望を自分にぶつけさせて、その体験を筆に乗せるのだ。 作家としての名は「euphoria」。 欲望を叶えた結果、自分と相手がたとえ瀕死の重傷を負ったとしても構わない。 それが、相手にとっての「幸せ」なのだから……。"
+      },
+      "year": 2021,
+      "released": "2021-02-25",
+      "image": "https://t.vndb.org/cv/61/75661.jpg",
+      "lengthMinutes": 3150,
+      "genres": [
+        "BL",
+        "Nitro+CHiRAL",
+        "淵井鏑"
+      ],
+      "platforms": [
+        "win"
+      ],
+      "overallScore": 84.53221441124782,
+      "sources": {
+        "vndb": {
+          "score": 85.7,
+          "votes": 1552,
+          "href": "https://vndb.org/v19035"
+        },
+        "bangumi": {
+          "score": 65,
+          "votes": 86,
+          "href": "https://bgm.tv/subject/170222"
+        },
+        "egs": {
+          "score": 82.61,
+          "votes": 46,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=23389"
+        }
+      }
+    },
+    {
+      "rank": 41,
       "id": "v1377",
       "titles": {
         "en": "YU-NO - The Girl that Chants Love at the Edge of the World",
@@ -1898,7 +1942,7 @@
         "swi",
         "web"
       ],
-      "overallScore": 84.51247952139899,
+      "overallScore": 84.51238520290788,
       "sources": {
         "vndb": {
           "score": 80.7,
@@ -1907,56 +1951,13 @@
         },
         "bangumi": {
           "score": 84,
-          "votes": 1323,
+          "votes": 1324,
           "href": "https://bgm.tv/subject/1075"
         },
         "egs": {
           "score": 89.61,
           "votes": 1223,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=2093"
-        }
-      }
-    },
-    {
-      "rank": 41,
-      "id": "v19035",
-      "titles": {
-        "en": "Slow Damage",
-        "zh": "Slow Damage 慢性伤害",
-        "ja": "スロウ・ダメージ"
-      },
-      "descriptions": {
-        "en": "The year is 20XX, and the declining nation of Japan has built the ultimate casino resort: Shinkoumi. This \"special administrative region,\" once known as Tokyo Waterfront City, is functionally its own separate country under the complete control of a private managing organization known as the Takasatogumi. With the economy in turmoil, the masses flock to Shinkoumi with the hope of getting rich quick, or at the very least, venting the stress of their overworked, underpaid lives. With no restriction on who can enter, crime has flourished, and entire districts have decayed. Our protagonist, Towa, lives a life of indolence on the third floor of a small neighborhood clinic. For you see, he has a hobby: painting human desire. Specifically, the moment before those suppressed urges break free from their constraints. And to do so, naturally, he must experience it himself firsthand. In the art world, he is known as \"euphoria\". It can be dangerous to grant people's darkest desires – sometimes, even deadly. But in the spirit of avant-garde, Towa is willing to die for his art... [From the digital manual included with r59230]",
-        "zh": "20XX年。日本。 深刻な不況を打破するために、日本の一大カジノ・リゾートとして開発された特別行政区「新神海しんこうみ」。 かつて東京臨海副都心13号地に属していたその地は事実上、カジノの民間運営業者である「鷹郷組たかさとぐみ」が統治する国のような存在となっており、不況の中においても一定の繁栄を保っていた。 明日のこともわからぬ不安定な状況が続く中、人々は一攫千金を夢見て、あるいは鬱屈した気持ちを晴らしに新神海へ集まった。 有象無象をも受け入れる街の治安は乱れ、そこかしこに退廃の影が漂い、犯罪が多発していた。 そんな街に住む主人公トワは、知り合いの医師タクの病院に居候しつつ、明日のことなど考えない、自堕落で刹那的な日々を送っていた。 トワにはある趣味があった。 それは「人の欲望を描くこと」。 人の心の奥底に押し込められた爆発寸前の欲望をモチーフにして油彩画を制作する。 欲望を自分にぶつけさせて、その体験を筆に乗せるのだ。 作家としての名は「euphoria」。 欲望を叶えた結果、自分と相手がたとえ瀕死の重傷を負ったとしても構わない。 それが、相手にとっての「幸せ」なのだから……。"
-      },
-      "year": 2021,
-      "released": "2021-02-25",
-      "image": "https://t.vndb.org/cv/61/75661.jpg",
-      "lengthMinutes": 3150,
-      "genres": [
-        "BL",
-        "Nitro+CHiRAL",
-        "淵井鏑"
-      ],
-      "platforms": [
-        "win"
-      ],
-      "overallScore": 84.43789071680375,
-      "sources": {
-        "vndb": {
-          "score": 85.6,
-          "votes": 1547,
-          "href": "https://vndb.org/v19035"
-        },
-        "bangumi": {
-          "score": 65,
-          "votes": 86,
-          "href": "https://bgm.tv/subject/170222"
-        },
-        "egs": {
-          "score": 82.61,
-          "votes": 46,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=23389"
         }
       }
     },
@@ -1988,16 +1989,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 84.41493602971524,
+      "overallScore": 84.41470765059532,
       "sources": {
         "vndb": {
           "score": 84.6,
-          "votes": 3185,
+          "votes": 3187,
           "href": "https://vndb.org/v3770"
         },
         "bangumi": {
           "score": 83,
-          "votes": 8265,
+          "votes": 8268,
           "href": "https://bgm.tv/subject/12280"
         },
         "egs": {
@@ -2034,16 +2035,16 @@
         "ps3",
         "psv"
       ],
-      "overallScore": 84.2727814997175,
+      "overallScore": 84.2729193899782,
       "sources": {
         "vndb": {
           "score": 86.4,
-          "votes": 689,
+          "votes": 690,
           "href": "https://vndb.org/v1141"
         },
         "bangumi": {
           "score": 83,
-          "votes": 1142,
+          "votes": 1143,
           "href": "https://bgm.tv/subject/7868"
         },
         "egs": {
@@ -2080,7 +2081,7 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 84.00389824304538,
+      "overallScore": 84.00279860984087,
       "sources": {
         "vndb": {
           "score": 85.5,
@@ -2089,7 +2090,7 @@
         },
         "bangumi": {
           "score": 82,
-          "votes": 2790,
+          "votes": 2793,
           "href": "https://bgm.tv/subject/233030"
         },
         "egs": {
@@ -2123,16 +2124,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 83.99174453493356,
+      "overallScore": 83.9912358106661,
       "sources": {
         "vndb": {
           "score": 84.3,
-          "votes": 1711,
+          "votes": 1713,
           "href": "https://vndb.org/v17012"
         },
         "bangumi": {
           "score": 81,
-          "votes": 1908,
+          "votes": 1909,
           "href": "https://bgm.tv/subject/163041"
         },
         "egs": {
@@ -2172,11 +2173,11 @@
         "swi",
         "xbo"
       ],
-      "overallScore": 83.98476635514018,
+      "overallScore": 83.98509916407146,
       "sources": {
         "vndb": {
           "score": 85,
-          "votes": 1973,
+          "votes": 1974,
           "href": "https://vndb.org/v6639"
         },
         "bangumi": {
@@ -2206,7 +2207,7 @@
       "year": 2004,
       "released": "2004-03-26",
       "image": "https://t.vndb.org/cv/73/89273.jpg",
-      "lengthMinutes": 1944,
+      "lengthMinutes": 1950,
       "genres": [
         "冈崎律子",
         "工画堂",
@@ -2217,16 +2218,16 @@
         "swi",
         "web"
       ],
-      "overallScore": 83.89806959847036,
+      "overallScore": 83.89802461585506,
       "sources": {
         "vndb": {
           "score": 81.4,
-          "votes": 2454,
+          "votes": 2455,
           "href": "https://vndb.org/v38"
         },
         "bangumi": {
           "score": 85,
-          "votes": 3077,
+          "votes": 3079,
           "href": "https://bgm.tv/subject/1143"
         },
         "egs": {
@@ -2261,16 +2262,16 @@
         "win",
         "and"
       ],
-      "overallScore": 83.87016697726426,
+      "overallScore": 83.8705844204249,
       "sources": {
         "vndb": {
           "score": 83.8,
-          "votes": 1698,
+          "votes": 1699,
           "href": "https://vndb.org/v23741"
         },
         "bangumi": {
           "score": 81,
-          "votes": 2836,
+          "votes": 2835,
           "href": "https://bgm.tv/subject/273493"
         },
         "egs": {
@@ -2312,16 +2313,16 @@
         "swi",
         "xbo"
       ],
-      "overallScore": 83.84783714001986,
+      "overallScore": 83.84785267546908,
       "sources": {
         "vndb": {
           "score": 83.7,
-          "votes": 5277,
+          "votes": 5278,
           "href": "https://vndb.org/v14018"
         },
         "bangumi": {
           "score": 84,
-          "votes": 4751,
+          "votes": 4753,
           "href": "https://bgm.tv/subject/88765"
         },
         "egs": {
@@ -2357,7 +2358,7 @@
         "and",
         "swi"
       ],
-      "overallScore": 83.6710461192351,
+      "overallScore": 83.665797752809,
       "sources": {
         "vndb": {
           "score": 86.9,
@@ -2366,7 +2367,7 @@
         },
         "bangumi": {
           "score": 79,
-          "votes": 338,
+          "votes": 339,
           "href": "https://bgm.tv/subject/281992"
         },
         "egs": {
@@ -2404,16 +2405,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 83.57316401949991,
+      "overallScore": 83.57312106918239,
       "sources": {
         "vndb": {
           "score": 84.6,
-          "votes": 4861,
+          "votes": 4862,
           "href": "https://vndb.org/v20424"
         },
         "bangumi": {
           "score": 82,
-          "votes": 5943,
+          "votes": 5944,
           "href": "https://bgm.tv/subject/200763"
         },
         "egs": {
@@ -2447,11 +2448,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 83.51005655708731,
+      "overallScore": 83.51001766784452,
       "sources": {
         "vndb": {
           "score": 83.4,
-          "votes": 578,
+          "votes": 579,
           "href": "https://vndb.org/v768"
         },
         "bangumi": {
@@ -2494,16 +2495,16 @@
         "ps3",
         "xb3"
       ],
-      "overallScore": 83.39969518604163,
+      "overallScore": 83.39971620769393,
       "sources": {
         "vndb": {
           "score": 81.4,
-          "votes": 6926,
+          "votes": 6927,
           "href": "https://vndb.org/v57"
         },
         "bangumi": {
           "score": 81,
-          "votes": 3402,
+          "votes": 3401,
           "href": "https://bgm.tv/subject/1124"
         },
         "egs": {
@@ -2594,16 +2595,16 @@
         "xb3",
         "web"
       ],
-      "overallScore": 83.33467455986187,
+      "overallScore": 83.36473507382179,
       "sources": {
         "vndb": {
-          "score": 78.8,
-          "votes": 4915,
+          "score": 78.9,
+          "votes": 4917,
           "href": "https://vndb.org/v66"
         },
         "bangumi": {
           "score": 85,
-          "votes": 4367,
+          "votes": 4370,
           "href": "https://bgm.tv/subject/2720"
         },
         "egs": {
@@ -2685,7 +2686,7 @@
         "swi",
         "web"
       ],
-      "overallScore": 83.17544317180617,
+      "overallScore": 83.17573366214549,
       "sources": {
         "vndb": {
           "score": 80.6,
@@ -2694,7 +2695,7 @@
         },
         "bangumi": {
           "score": 84,
-          "votes": 951,
+          "votes": 952,
           "href": "https://bgm.tv/subject/241897"
         },
         "egs": {
@@ -2818,16 +2819,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 82.91488148015273,
+      "overallScore": 82.91521461702072,
       "sources": {
         "vndb": {
           "score": 83.5,
-          "votes": 13037,
+          "votes": 13038,
           "href": "https://vndb.org/v5154"
         },
         "bangumi": {
           "score": 77,
-          "votes": 1544,
+          "votes": 1543,
           "href": "https://bgm.tv/subject/10869"
         },
         "egs": {
@@ -2851,7 +2852,7 @@
       },
       "year": 2020,
       "released": "2020-09-25",
-      "image": "https://t.vndb.org/cv/17/85317.jpg",
+      "image": "https://t.vndb.org/cv/19/85319.jpg",
       "lengthMinutes": 1926,
       "genres": [
         "Laplacian",
@@ -2895,7 +2896,7 @@
       },
       "year": 2009,
       "released": "2009-08-28",
-      "image": "https://t.vndb.org/cv/75/77875.jpg",
+      "image": "https://t.vndb.org/cv/40/79440.jpg",
       "lengthMinutes": 3900,
       "genres": [
         "神CV阵",
@@ -2950,7 +2951,7 @@
         "win",
         "swi"
       ],
-      "overallScore": 82.62031164783794,
+      "overallScore": 82.61977396726421,
       "sources": {
         "vndb": {
           "score": 81.1,
@@ -2959,7 +2960,7 @@
         },
         "bangumi": {
           "score": 84,
-          "votes": 1407,
+          "votes": 1406,
           "href": "https://bgm.tv/subject/226956"
         },
         "egs": {
@@ -2999,11 +3000,11 @@
         "xb3",
         "web"
       ],
-      "overallScore": 82.51816817561702,
+      "overallScore": 82.51734531928085,
       "sources": {
         "vndb": {
           "score": 79.2,
-          "votes": 940,
+          "votes": 941,
           "href": "https://vndb.org/v45"
         },
         "bangumi": {
@@ -3098,11 +3099,11 @@
         "vnd",
         "web"
       ],
-      "overallScore": 82.21540256774445,
+      "overallScore": 82.2153562975133,
       "sources": {
         "vndb": {
           "score": 81.8,
-          "votes": 11762,
+          "votes": 11764,
           "href": "https://vndb.org/v7"
         },
         "bangumi": {
@@ -3147,11 +3148,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 82.20425202937766,
+      "overallScore": 82.20444444444445,
       "sources": {
         "vndb": {
           "score": 83.2,
-          "votes": 3186,
+          "votes": 3187,
           "href": "https://vndb.org/v7721"
         },
         "bangumi": {
@@ -3197,11 +3198,11 @@
         "xxs",
         "web"
       ],
-      "overallScore": 82.1781224145209,
+      "overallScore": 82.17817491136248,
       "sources": {
         "vndb": {
           "score": 82.8,
-          "votes": 9187,
+          "votes": 9188,
           "href": "https://vndb.org/v3112"
         },
         "bangumi": {
@@ -3242,16 +3243,16 @@
         "lin",
         "mac"
       ],
-      "overallScore": 82.16568487018802,
+      "overallScore": 82.13516805111821,
       "sources": {
         "vndb": {
-          "score": 82.7,
-          "votes": 567,
+          "score": 82.5,
+          "votes": 568,
           "href": "https://vndb.org/v60663"
         },
         "bangumi": {
           "score": 79,
-          "votes": 2072,
+          "votes": 2074,
           "href": "https://bgm.tv/subject/611546"
         },
         "egs": {
@@ -3288,11 +3289,11 @@
         "n3d",
         "vnd"
       ],
-      "overallScore": 82.11701654789225,
+      "overallScore": 82.11700241545894,
       "sources": {
         "vndb": {
           "score": 82,
-          "votes": 12207,
+          "votes": 12210,
           "href": "https://vndb.org/v211"
         },
         "bangumi": {
@@ -3332,7 +3333,7 @@
         "win",
         "psp"
       ],
-      "overallScore": 82.08851957295374,
+      "overallScore": 82.08895186151292,
       "sources": {
         "vndb": {
           "score": 86,
@@ -3341,7 +3342,7 @@
         },
         "bangumi": {
           "score": 83,
-          "votes": 632,
+          "votes": 633,
           "href": "https://bgm.tv/subject/7978"
         },
         "egs": {
@@ -3463,11 +3464,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 82.02868686868688,
+      "overallScore": 82.02927321668912,
       "sources": {
         "vndb": {
           "score": 82.9,
-          "votes": 894,
+          "votes": 895,
           "href": "https://vndb.org/v432"
         },
         "bangumi": {
@@ -3509,16 +3510,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 82.02413594040968,
+      "overallScore": 82.0238104988831,
       "sources": {
         "vndb": {
           "score": 85.3,
-          "votes": 3718,
+          "votes": 3720,
           "href": "https://vndb.org/v26523"
         },
         "bangumi": {
           "score": 77,
-          "votes": 4379,
+          "votes": 4381,
           "href": "https://bgm.tv/subject/290856"
         },
         "egs": {
@@ -3556,11 +3557,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 82.00106033559445,
+      "overallScore": 82.00191580449518,
       "sources": {
         "vndb": {
           "score": 83.2,
-          "votes": 1172,
+          "votes": 1174,
           "href": "https://vndb.org/v15395"
         },
         "bangumi": {
@@ -3655,11 +3656,11 @@
         "xxs",
         "web"
       ],
-      "overallScore": 81.99741634322878,
+      "overallScore": 81.99703963926174,
       "sources": {
         "vndb": {
           "score": 80.8,
-          "votes": 13477,
+          "votes": 13483,
           "href": "https://vndb.org/v7679"
         },
         "bangumi": {
@@ -3795,11 +3796,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 81.86150196713723,
+      "overallScore": 81.86236994219652,
       "sources": {
         "vndb": {
           "score": 82.8,
-          "votes": 858,
+          "votes": 860,
           "href": "https://vndb.org/v18152"
         },
         "bangumi": {
@@ -3840,7 +3841,7 @@
         "and",
         "dvd"
       ],
-      "overallScore": 81.84568064588473,
+      "overallScore": 81.84440484196368,
       "sources": {
         "vndb": {
           "score": 86.5,
@@ -3849,7 +3850,7 @@
         },
         "bangumi": {
           "score": 79,
-          "votes": 1337,
+          "votes": 1338,
           "href": "https://bgm.tv/subject/345691"
         },
         "egs": {
@@ -3883,11 +3884,11 @@
         "psv",
         "web"
       ],
-      "overallScore": 81.83026652998463,
+      "overallScore": 81.83279569892473,
       "sources": {
         "vndb": {
           "score": 84.3,
-          "votes": 446,
+          "votes": 447,
           "href": "https://vndb.org/v12392"
         },
         "bangumi": {
@@ -3917,7 +3918,7 @@
       "year": 2012,
       "released": "2012-02-16",
       "image": "https://t.vndb.org/cv/84/88384.jpg",
-      "lengthMinutes": 2037,
+      "lengthMinutes": 2038,
       "genres": [
         "打越钢太郎",
         "极限脱出",
@@ -3931,11 +3932,11 @@
         "xbo",
         "xxs"
       ],
-      "overallScore": 81.75177179209528,
+      "overallScore": 81.75186603518269,
       "sources": {
         "vndb": {
           "score": 82.1,
-          "votes": 6063,
+          "votes": 6065,
           "href": "https://vndb.org/v7809"
         },
         "bangumi": {
@@ -3965,7 +3966,7 @@
       "year": 2013,
       "released": "2013-02-08",
       "image": "https://t.vndb.org/cv/62/88062.jpg",
-      "lengthMinutes": 2487,
+      "lengthMinutes": 2494,
       "genres": [
         "InnocentGrey",
         "杉菜水姫",
@@ -4069,7 +4070,7 @@
         "win",
         "psv"
       ],
-      "overallScore": 81.5998717849695,
+      "overallScore": 81.59947022936134,
       "sources": {
         "vndb": {
           "score": 81.4,
@@ -4078,7 +4079,7 @@
         },
         "bangumi": {
           "score": 79,
-          "votes": 3181,
+          "votes": 3182,
           "href": "https://bgm.tv/subject/66760"
         },
         "egs": {
@@ -4103,7 +4104,7 @@
       "year": 2000,
       "released": "2000-09-08",
       "image": "https://t.vndb.org/cv/04/103904.jpg",
-      "lengthMinutes": 1868,
+      "lengthMinutes": 1872,
       "genres": [
         "key",
         "麻枝准",
@@ -4227,11 +4228,11 @@
         "n3d",
         "xbo"
       ],
-      "overallScore": 81.50392638036809,
+      "overallScore": 81.50387730916697,
       "sources": {
         "vndb": {
           "score": 80.8,
-          "votes": 9611,
+          "votes": 9612,
           "href": "https://vndb.org/v711"
         },
         "bangumi": {
@@ -4361,16 +4362,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 81.33689685314684,
+      "overallScore": 81.35812540965699,
       "sources": {
         "vndb": {
-          "score": 81.6,
+          "score": 81.7,
           "votes": 1005,
           "href": "https://vndb.org/v16212"
         },
         "bangumi": {
           "score": 78,
-          "votes": 1534,
+          "votes": 1535,
           "href": "https://bgm.tv/subject/106118"
         },
         "egs": {
@@ -4397,14 +4398,14 @@
       "image": "https://t.vndb.org/cv/77/87877.jpg",
       "lengthMinutes": 2451,
       "genres": [
-        "神CV阵",
         "真剑",
+        "神CV阵",
         "タカヒロ"
       ],
       "platforms": [
         "win"
       ],
-      "overallScore": 81.30294251604444,
+      "overallScore": 81.3024867177258,
       "sources": {
         "vndb": {
           "score": 82,
@@ -4413,7 +4414,7 @@
         },
         "bangumi": {
           "score": 78,
-          "votes": 225,
+          "votes": 226,
           "href": "https://bgm.tv/subject/22963"
         },
         "egs": {
@@ -4448,7 +4449,7 @@
         "win",
         "web"
       ],
-      "overallScore": 81.24836676217765,
+      "overallScore": 81.24949796472184,
       "sources": {
         "vndb": {
           "score": 75.1,
@@ -4457,7 +4458,7 @@
         },
         "bangumi": {
           "score": 85,
-          "votes": 1140,
+          "votes": 1141,
           "href": "https://bgm.tv/subject/5395"
         },
         "egs": {
@@ -4497,11 +4498,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 81.2386491913795,
+      "overallScore": 81.23874681774176,
       "sources": {
         "vndb": {
           "score": 82.6,
-          "votes": 6722,
+          "votes": 6723,
           "href": "https://vndb.org/v12849"
         },
         "bangumi": {
@@ -4561,54 +4562,6 @@
     },
     {
       "rank": 98,
-      "id": "v50",
-      "titles": {
-        "en": "Fate/hollow ataraxia",
-        "zh": "Fate/hollow ataraxia",
-        "ja": "Fate/hollow ataraxia"
-      },
-      "descriptions": {
-        "en": "Bazett Fraga McRemitz, a member of the Mages' Association and a master in the 5th Holy Grail War, wakes on the fourth day of the 5th Holy Grail war with a new servant, Avenger, and no memory of what happened to her beforehand. She and Avenger set off to fight and win the Holy Grail War. Meanwhile, Shirou Emiya lives peacefully with all his friends from the 5th Holy Grail War. After her experiment alters the event horizon and changes time and space, Rin Tohsaka leaves for the Mages' Association in England to fix things. The Servants sense a new danger, and dark creatures appear soon afterward. Shirou, as a precaution, sets off to ensure nobody is in danger and instead finds himself frequently meeting a mysterious girl, Caren Hortensia. [Edited from Wikipedia]",
-        "zh": "《Fate/hollow ataraxia》（日语：フェイト/ホロウアタラクシア）是TYPE-MOON于2005年10月28日发售的PC平台的十八禁文字冒险游戏，是前作《Fate/stay night》的Fan Disc。 故事讲述了第五次圣杯战争的半年后，Servant们再次出现在了冬木市，原本圣杯已经消失，不用再战斗的他们突然又感受到了圣杯的召唤而产生了敌意，主角卫宫士郎在第四天中一定会死去，为了找寻真相，卫宫士郎再次行动了起来。"
-      },
-      "year": 2005,
-      "released": "2005-10-28",
-      "image": "https://t.vndb.org/cv/13/89213.jpg",
-      "lengthMinutes": 3060,
-      "genres": [
-        "Type-Moon",
-        "Fate",
-        "奈須きのこ"
-      ],
-      "platforms": [
-        "win",
-        "and",
-        "psp",
-        "psv",
-        "swi",
-        "oth"
-      ],
-      "overallScore": 81.20880715876007,
-      "sources": {
-        "vndb": {
-          "score": 81.4,
-          "votes": 5951,
-          "href": "https://vndb.org/v50"
-        },
-        "bangumi": {
-          "score": 78,
-          "votes": 1764,
-          "href": "https://bgm.tv/subject/911"
-        },
-        "egs": {
-          "score": 82.35,
-          "votes": 2642,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=4628"
-        }
-      }
-    },
-    {
-      "rank": 99,
       "id": "v414",
       "titles": {
         "en": "Kira Kira",
@@ -4638,7 +4591,7 @@
         "vnd",
         "web"
       ],
-      "overallScore": 81.20767077876204,
+      "overallScore": 81.20858097462921,
       "sources": {
         "vndb": {
           "score": 75.8,
@@ -4647,13 +4600,61 @@
         },
         "bangumi": {
           "score": 84,
-          "votes": 2607,
+          "votes": 2610,
           "href": "https://bgm.tv/subject/2723"
         },
         "egs": {
           "score": 84.05,
           "votes": 2293,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=9716"
+        }
+      }
+    },
+    {
+      "rank": 99,
+      "id": "v50",
+      "titles": {
+        "en": "Fate/hollow ataraxia",
+        "zh": "Fate/hollow ataraxia",
+        "ja": "Fate/hollow ataraxia"
+      },
+      "descriptions": {
+        "en": "Bazett Fraga McRemitz, a member of the Mages' Association and a master in the 5th Holy Grail War, wakes on the fourth day of the 5th Holy Grail war with a new servant, Avenger, and no memory of what happened to her beforehand. She and Avenger set off to fight and win the Holy Grail War. Meanwhile, Shirou Emiya lives peacefully with all his friends from the 5th Holy Grail War. After her experiment alters the event horizon and changes time and space, Rin Tohsaka leaves for the Mages' Association in England to fix things. The Servants sense a new danger, and dark creatures appear soon afterward. Shirou, as a precaution, sets off to ensure nobody is in danger and instead finds himself frequently meeting a mysterious girl, Caren Hortensia. [Edited from Wikipedia]",
+        "zh": "《Fate/hollow ataraxia》（日语：フェイト/ホロウアタラクシア）是TYPE-MOON于2005年10月28日发售的PC平台的十八禁文字冒险游戏，是前作《Fate/stay night》的Fan Disc。 故事讲述了第五次圣杯战争的半年后，Servant们再次出现在了冬木市，原本圣杯已经消失，不用再战斗的他们突然又感受到了圣杯的召唤而产生了敌意，主角卫宫士郎在第四天中一定会死去，为了找寻真相，卫宫士郎再次行动了起来。"
+      },
+      "year": 2005,
+      "released": "2005-10-28",
+      "image": "https://t.vndb.org/cv/13/89213.jpg",
+      "lengthMinutes": 3060,
+      "genres": [
+        "Type-Moon",
+        "Fate",
+        "奈須きのこ"
+      ],
+      "platforms": [
+        "win",
+        "and",
+        "psp",
+        "psv",
+        "swi",
+        "oth"
+      ],
+      "overallScore": 81.20854880136987,
+      "sources": {
+        "vndb": {
+          "score": 81.4,
+          "votes": 5952,
+          "href": "https://vndb.org/v50"
+        },
+        "bangumi": {
+          "score": 78,
+          "votes": 1765,
+          "href": "https://bgm.tv/subject/911"
+        },
+        "egs": {
+          "score": 82.35,
+          "votes": 2642,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=4628"
         }
       }
     },
@@ -4776,11 +4777,11 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 81.00958406997302,
+      "overallScore": 81.00954507396037,
       "sources": {
         "vndb": {
           "score": 80.8,
-          "votes": 580,
+          "votes": 581,
           "href": "https://vndb.org/v26664"
         },
         "bangumi": {
@@ -4863,7 +4864,7 @@
         "win",
         "web"
       ],
-      "overallScore": 80.95968734875618,
+      "overallScore": 80.9598887060873,
       "sources": {
         "vndb": {
           "score": 79,
@@ -4872,7 +4873,7 @@
         },
         "bangumi": {
           "score": 82,
-          "votes": 2459,
+          "votes": 2460,
           "href": "https://bgm.tv/subject/1012"
         },
         "egs": {
@@ -4950,11 +4951,11 @@
         "win",
         "web"
       ],
-      "overallScore": 80.91650279032686,
+      "overallScore": 80.91702523240373,
       "sources": {
         "vndb": {
           "score": 81.9,
-          "votes": 1536,
+          "votes": 1537,
           "href": "https://vndb.org/v25931"
         },
         "bangumi": {
@@ -5038,7 +5039,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 80.85193768672642,
+      "overallScore": 80.85245544765768,
       "sources": {
         "vndb": {
           "score": 80.4,
@@ -5047,7 +5048,7 @@
         },
         "bangumi": {
           "score": 76,
-          "votes": 1063,
+          "votes": 1062,
           "href": "https://bgm.tv/subject/24275"
         },
         "egs": {
@@ -5170,16 +5171,16 @@
         "win",
         "psv"
       ],
-      "overallScore": 80.54514886164624,
+      "overallScore": 80.54520130032509,
       "sources": {
         "vndb": {
           "score": 84.3,
-          "votes": 666,
+          "votes": 667,
           "href": "https://vndb.org/v10028"
         },
         "bangumi": {
           "score": 77,
-          "votes": 1795,
+          "votes": 1796,
           "href": "https://bgm.tv/subject/37755"
         },
         "egs": {
@@ -5213,11 +5214,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 80.51875875486381,
+      "overallScore": 80.50653831194089,
       "sources": {
         "vndb": {
-          "score": 77.8,
-          "votes": 286,
+          "score": 77.7,
+          "votes": 287,
           "href": "https://vndb.org/v428"
         },
         "bangumi": {
@@ -5353,11 +5354,11 @@
         "xbo",
         "xxs"
       ],
-      "overallScore": 80.37987733250169,
+      "overallScore": 80.37965286078054,
       "sources": {
         "vndb": {
           "score": 79.3,
-          "votes": 3701,
+          "votes": 3703,
           "href": "https://vndb.org/v21289"
         },
         "bangumi": {
@@ -5397,11 +5398,11 @@
         "win",
         "and"
       ],
-      "overallScore": 80.35510254219184,
+      "overallScore": 80.35465876321692,
       "sources": {
         "vndb": {
           "score": 76.2,
-          "votes": 3664,
+          "votes": 3665,
           "href": "https://vndb.org/v914"
         },
         "bangumi": {
@@ -5464,6 +5465,54 @@
     },
     {
       "rank": 118,
+      "id": "v17102",
+      "titles": {
+        "en": "STEINS;GATE 0",
+        "zh": "命运石之门 0",
+        "ja": "STEINS;GATE 0"
+      },
+      "descriptions": {
+        "en": "\"This is the story of the 'future' that could not be saved.\" December, 2010 - Beta Worldline: At the end of his journey through countless worldlines filled with untold sorrows and hardship, the protagonist, Okabe Rintarou, sinks into despair and abandons all efforts of saving \"her\". As his friends grow concerned for his well-being, Okabe immerses himself in the lifestyle of a serious student in a desperate attempt to push past his guilt and grief. He attends a college seminar for extra credit while still struggling with trauma, where he comes across two scientists who belonged to the same school and research team as \"her\". After he publicly defends their work against skepticism during a presentation, Okabe is invited to be a test subject for a research project titled \"Amadeus\"— an experimental AI which uses digitized memories as artificial intelligence avatars, one containing none other than \"her\" memories. But little did he know that the project would soon draw him back into that very world of dark conspiracies he had strived to avoid. The story is inspired by the \"Epigraph Trilogy\" light novels and other various drama CDs.",
+        "zh": "―これは、救えなかった「未来」の物語。 ２０１０年１１月 β世界線― 主人公・岡部倫太郎が数々の苦難、悲哀を乗り越えた果てに 「彼女」を救うことをあきらめてしまった世界線。 失意の底にある岡部倫太郎。 彼を心配する仲間たち。 救われなかった「彼女」はどうなったのか？ 新たなキャラクターを迎えて描かれる「ゼロ」の物語。 そう、そこに『彼女』は今もいるー"
+      },
+      "year": 2015,
+      "released": "2015-12-10",
+      "image": "https://t.vndb.org/cv/34/75834.jpg",
+      "lengthMinutes": 2100,
+      "genres": [
+        "命运石之门",
+        "5pb",
+        "假想科学ADV"
+      ],
+      "platforms": [
+        "win",
+        "ps3",
+        "ps4",
+        "psv",
+        "swi",
+        "xbo"
+      ],
+      "overallScore": 80.24830490592579,
+      "sources": {
+        "vndb": {
+          "score": 80.8,
+          "votes": 7812,
+          "href": "https://vndb.org/v17102"
+        },
+        "bangumi": {
+          "score": 79,
+          "votes": 3355,
+          "href": "https://bgm.tv/subject/129820"
+        },
+        "egs": {
+          "score": 79.66,
+          "votes": 138,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=22161"
+        }
+      }
+    },
+    {
+      "rank": 119,
       "id": "v548",
       "titles": {
         "en": "Dies irae ~Acta est Fabula~",
@@ -5510,7 +5559,7 @@
       }
     },
     {
-      "rank": 119,
+      "rank": 120,
       "id": "v1281",
       "titles": {
         "en": "Amagami",
@@ -5555,7 +5604,7 @@
       }
     },
     {
-      "rank": 120,
+      "rank": 121,
       "id": "v5844",
       "titles": {
         "en": "Kajiri Kamui Kagura",
@@ -5595,54 +5644,6 @@
           "score": 79.1,
           "votes": 543,
           "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=14822"
-        }
-      }
-    },
-    {
-      "rank": 121,
-      "id": "v17102",
-      "titles": {
-        "en": "STEINS;GATE 0",
-        "zh": "命运石之门 0",
-        "ja": "STEINS;GATE 0"
-      },
-      "descriptions": {
-        "en": "\"This is the story of the 'future' that could not be saved.\" December, 2010 - Beta Worldline: At the end of his journey through countless worldlines filled with untold sorrows and hardship, the protagonist, Okabe Rintarou, sinks into despair and abandons all efforts of saving \"her\". As his friends grow concerned for his well-being, Okabe immerses himself in the lifestyle of a serious student in a desperate attempt to push past his guilt and grief. He attends a college seminar for extra credit while still struggling with trauma, where he comes across two scientists who belonged to the same school and research team as \"her\". After he publicly defends their work against skepticism during a presentation, Okabe is invited to be a test subject for a research project titled \"Amadeus\"— an experimental AI which uses digitized memories as artificial intelligence avatars, one containing none other than \"her\" memories. But little did he know that the project would soon draw him back into that very world of dark conspiracies he had strived to avoid. The story is inspired by the \"Epigraph Trilogy\" light novels and other various drama CDs.",
-        "zh": "―これは、救えなかった「未来」の物語。 ２０１０年１１月 β世界線― 主人公・岡部倫太郎が数々の苦難、悲哀を乗り越えた果てに 「彼女」を救うことをあきらめてしまった世界線。 失意の底にある岡部倫太郎。 彼を心配する仲間たち。 救われなかった「彼女」はどうなったのか？ 新たなキャラクターを迎えて描かれる「ゼロ」の物語。 そう、そこに『彼女』は今もいるー"
-      },
-      "year": 2015,
-      "released": "2015-12-10",
-      "image": "https://t.vndb.org/cv/34/75834.jpg",
-      "lengthMinutes": 2100,
-      "genres": [
-        "命运石之门",
-        "5pb",
-        "假想科学ADV"
-      ],
-      "platforms": [
-        "win",
-        "ps3",
-        "ps4",
-        "psv",
-        "swi",
-        "xbo"
-      ],
-      "overallScore": 80.17953042560674,
-      "sources": {
-        "vndb": {
-          "score": 80.7,
-          "votes": 7810,
-          "href": "https://vndb.org/v17102"
-        },
-        "bangumi": {
-          "score": 79,
-          "votes": 3355,
-          "href": "https://bgm.tv/subject/129820"
-        },
-        "egs": {
-          "score": 79.66,
-          "votes": 138,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=22161"
         }
       }
     },
@@ -5691,47 +5692,6 @@
     },
     {
       "rank": 123,
-      "id": "v27057",
-      "titles": {
-        "en": "Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo-",
-        "zh": "美少女万华镜 -理与迷宫的少女-",
-        "ja": "美少女万華鏡 -理と迷宮の少女-"
-      },
-      "descriptions": {
-        "en": "At the awards ceremony for renowned author Kimiaki Sumeragi, Fukami Natsuhiko and his companions convened at the illustrious hot spring inn. As they enjoyed themselves in the celebration, editor Tsukioka Karen regaled them with tales of a peculiar incident at a particular all-girls academy. Captivated by the mystery, Sumeragi, the best-selling author and renowned detective, pulled Fukami into the intrigue, announcing their plan to delve into the investigation at the core of the enigma – the private Samsara Academy. In this fifth installment of the Bishoujo Mangekyou series, Fukami Natsuhiko and Renge take the center role, bringing their saga to a close.",
-        "zh": "At the awards ceremony for renowned author Kimiaki Sumeragi, Fukami Natsuhiko and his companions convened at the illustrious hot spring inn. As they enjoyed themselves in the celebration, editor Tsukioka Karen regaled them with tales of a peculiar incident at a particular all-girls academy. Captivated by the mystery, Sumeragi, the best-selling author and renowned detective, pulled Fukami into the intrigue, announcing their plan to delve into the investigation at the core of the enigma – the private Samsara Academy. In this fifth installment of the Bishoujo Mangekyou series, Fukami Natsuhiko and Renge take the center role, bringing their saga to a close."
-      },
-      "year": 2020,
-      "released": "2020-05-29",
-      "image": "https://t.vndb.org/cv/93/81093.jpg",
-      "lengthMinutes": 882,
-      "genres": [
-        "Visual novel"
-      ],
-      "platforms": [
-        "win"
-      ],
-      "overallScore": 80.13311240483654,
-      "sources": {
-        "vndb": {
-          "score": 79.4,
-          "votes": 578,
-          "href": "https://vndb.org/v27057"
-        },
-        "bangumi": {
-          "score": null,
-          "votes": null,
-          "href": null
-        },
-        "egs": {
-          "score": 80.92,
-          "votes": 359,
-          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=28992"
-        }
-      }
-    },
-    {
-      "rank": 124,
       "id": "v38429",
       "titles": {
         "en": "Hira Hira Hihiru",
@@ -5774,6 +5734,47 @@
       }
     },
     {
+      "rank": 124,
+      "id": "v27057",
+      "titles": {
+        "en": "Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo-",
+        "zh": "美少女万华镜 -理与迷宫的少女-",
+        "ja": "美少女万華鏡 -理と迷宮の少女-"
+      },
+      "descriptions": {
+        "en": "At the awards ceremony for renowned author Kimiaki Sumeragi, Fukami Natsuhiko and his companions convened at the illustrious hot spring inn. As they enjoyed themselves in the celebration, editor Tsukioka Karen regaled them with tales of a peculiar incident at a particular all-girls academy. Captivated by the mystery, Sumeragi, the best-selling author and renowned detective, pulled Fukami into the intrigue, announcing their plan to delve into the investigation at the core of the enigma – the private Samsara Academy. In this fifth installment of the Bishoujo Mangekyou series, Fukami Natsuhiko and Renge take the center role, bringing their saga to a close.",
+        "zh": "At the awards ceremony for renowned author Kimiaki Sumeragi, Fukami Natsuhiko and his companions convened at the illustrious hot spring inn. As they enjoyed themselves in the celebration, editor Tsukioka Karen regaled them with tales of a peculiar incident at a particular all-girls academy. Captivated by the mystery, Sumeragi, the best-selling author and renowned detective, pulled Fukami into the intrigue, announcing their plan to delve into the investigation at the core of the enigma – the private Samsara Academy. In this fifth installment of the Bishoujo Mangekyou series, Fukami Natsuhiko and Renge take the center role, bringing their saga to a close."
+      },
+      "year": 2020,
+      "released": "2020-05-29",
+      "image": "https://t.vndb.org/cv/93/81093.jpg",
+      "lengthMinutes": 882,
+      "genres": [
+        "Visual novel"
+      ],
+      "platforms": [
+        "win"
+      ],
+      "overallScore": 80.08064429530201,
+      "sources": {
+        "vndb": {
+          "score": 79.3,
+          "votes": 579,
+          "href": "https://vndb.org/v27057"
+        },
+        "bangumi": {
+          "score": null,
+          "votes": null,
+          "href": null
+        },
+        "egs": {
+          "score": 80.92,
+          "votes": 359,
+          "href": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=28992"
+        }
+      }
+    },
+    {
       "rank": 125,
       "id": "v2047",
       "titles": {
@@ -5798,7 +5799,7 @@
         "win",
         "web"
       ],
-      "overallScore": 80.05292288383768,
+      "overallScore": 80.0520789180145,
       "sources": {
         "vndb": {
           "score": 79.3,
@@ -5807,7 +5808,7 @@
         },
         "bangumi": {
           "score": 74,
-          "votes": 1892,
+          "votes": 1893,
           "href": "https://bgm.tv/subject/11168"
         },
         "egs": {
@@ -5846,16 +5847,16 @@
         "psv",
         "swi"
       ],
-      "overallScore": 80.02143939764338,
+      "overallScore": 80.02119079043848,
       "sources": {
         "vndb": {
           "score": 81.5,
-          "votes": 3905,
+          "votes": 3906,
           "href": "https://vndb.org/v21852"
         },
         "bangumi": {
           "score": 76,
-          "votes": 3389,
+          "votes": 3390,
           "href": "https://bgm.tv/subject/225784"
         },
         "egs": {
@@ -5889,11 +5890,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 80.01196275071635,
+      "overallScore": 80.012660944206,
       "sources": {
         "vndb": {
           "score": 80.5,
-          "votes": 539,
+          "votes": 540,
           "href": "https://vndb.org/v23393"
         },
         "bangumi": {
@@ -6020,7 +6021,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 79.7474369589763,
+      "overallScore": 79.74729633113829,
       "sources": {
         "vndb": {
           "score": 79.3,
@@ -6029,7 +6030,7 @@
         },
         "bangumi": {
           "score": 79,
-          "votes": 3018,
+          "votes": 3019,
           "href": "https://bgm.tv/subject/17436"
         },
         "egs": {
@@ -6146,8 +6147,8 @@
       "image": "https://t.vndb.org/cv/66/75866.jpg",
       "lengthMinutes": 1838,
       "genres": [
-        "秋之回忆",
         "KID",
+        "秋之回忆",
         "白河萤"
       ],
       "platforms": [
@@ -6165,7 +6166,7 @@
         "web",
         "mob"
       ],
-      "overallScore": 79.65153602366362,
+      "overallScore": 79.65168321013728,
       "sources": {
         "vndb": {
           "score": 78.8,
@@ -6174,7 +6175,7 @@
         },
         "bangumi": {
           "score": 80,
-          "votes": 1953,
+          "votes": 1954,
           "href": "https://bgm.tv/subject/1733"
         },
         "egs": {
@@ -6264,11 +6265,11 @@
         "web",
         "mob"
       ],
-      "overallScore": 79.59639954711284,
+      "overallScore": 79.59536913595774,
       "sources": {
         "vndb": {
           "score": 75.5,
-          "votes": 2892,
+          "votes": 2894,
           "href": "https://vndb.org/v70"
         },
         "bangumi": {
@@ -6311,11 +6312,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 79.5305122494432,
+      "overallScore": 79.53168439277766,
       "sources": {
         "vndb": {
           "score": 81.9,
-          "votes": 1521,
+          "votes": 1522,
           "href": "https://vndb.org/v18160"
         },
         "bangumi": {
@@ -6457,11 +6458,11 @@
         "web",
         "mob"
       ],
-      "overallScore": 79.44455136012992,
+      "overallScore": 79.44428000374754,
       "sources": {
         "vndb": {
           "score": 75.1,
-          "votes": 7189,
+          "votes": 7190,
           "href": "https://vndb.org/v10"
         },
         "bangumi": {
@@ -6500,16 +6501,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 79.43683567501527,
+      "overallScore": 79.43672431332655,
       "sources": {
         "vndb": {
           "score": 82.6,
-          "votes": 811,
+          "votes": 812,
           "href": "https://vndb.org/v37651"
         },
         "bangumi": {
           "score": 76,
-          "votes": 1103,
+          "votes": 1104,
           "href": "https://bgm.tv/subject/417463"
         },
         "egs": {
@@ -6594,16 +6595,16 @@
         "ps4",
         "psv"
       ],
-      "overallScore": 79.38919514193455,
+      "overallScore": 79.38854300168634,
       "sources": {
         "vndb": {
           "score": 79.4,
-          "votes": 1163,
+          "votes": 1164,
           "href": "https://vndb.org/v10680"
         },
         "bangumi": {
           "score": 76,
-          "votes": 5373,
+          "votes": 5375,
           "href": "https://bgm.tv/subject/44123"
         },
         "egs": {
@@ -6639,11 +6640,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 79.21712304535485,
+      "overallScore": 79.21751680226387,
       "sources": {
         "vndb": {
           "score": 82,
-          "votes": 733,
+          "votes": 734,
           "href": "https://vndb.org/v15871"
         },
         "bangumi": {
@@ -6821,11 +6822,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 79.09289397213321,
+      "overallScore": 79.09319302689413,
       "sources": {
         "vndb": {
           "score": 81.1,
-          "votes": 1874,
+          "votes": 1875,
           "href": "https://vndb.org/v29443"
         },
         "bangumi": {
@@ -6864,11 +6865,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 79.07223778672737,
+      "overallScore": 79.07238753719588,
       "sources": {
         "vndb": {
           "score": 79.5,
-          "votes": 2217,
+          "votes": 2218,
           "href": "https://vndb.org/v20599"
         },
         "bangumi": {
@@ -6911,16 +6912,16 @@
         "psp",
         "ps3"
       ],
-      "overallScore": 79.06140730120217,
+      "overallScore": 79.06032609893137,
       "sources": {
         "vndb": {
           "score": 78.8,
-          "votes": 724,
+          "votes": 727,
           "href": "https://vndb.org/v10557"
         },
         "bangumi": {
           "score": 77,
-          "votes": 1990,
+          "votes": 1992,
           "href": "https://bgm.tv/subject/41565"
         },
         "egs": {
@@ -6957,11 +6958,11 @@
         "dvd",
         "psv"
       ],
-      "overallScore": 79.03012893206689,
+      "overallScore": 79.03022064930843,
       "sources": {
         "vndb": {
           "score": 80.3,
-          "votes": 8075,
+          "votes": 8076,
           "href": "https://vndb.org/v810"
         },
         "bangumi": {
@@ -7010,11 +7011,11 @@
         "swi",
         "n3d"
       ],
-      "overallScore": 78.93935419440746,
+      "overallScore": 78.94009973404256,
       "sources": {
         "vndb": {
           "score": 79.5,
-          "votes": 1396,
+          "votes": 1398,
           "href": "https://vndb.org/v1715"
         },
         "bangumi": {
@@ -7107,11 +7108,11 @@
         "swi",
         "web"
       ],
-      "overallScore": 78.73992790194664,
+      "overallScore": 78.74076368876081,
       "sources": {
         "vndb": {
           "score": 79.9,
-          "votes": 478,
+          "votes": 479,
           "href": "https://vndb.org/v5127"
         },
         "bangumi": {
@@ -7141,7 +7142,7 @@
       "year": 2009,
       "released": "2009-04-29",
       "image": "https://t.vndb.org/cv/88/88188.jpg",
-      "lengthMinutes": 2028,
+      "lengthMinutes": 2025,
       "genres": [
         "同人",
         "治愈",
@@ -7158,11 +7159,11 @@
         "swi",
         "web"
       ],
-      "overallScore": 78.68125413659223,
+      "overallScore": 78.68126032465672,
       "sources": {
         "vndb": {
           "score": 78.8,
-          "votes": 18802,
+          "votes": 18803,
           "href": "https://vndb.org/v945"
         },
         "bangumi": {
@@ -7247,11 +7248,11 @@
         "win",
         "ps2"
       ],
-      "overallScore": 78.56184290030211,
+      "overallScore": 78.56065272938444,
       "sources": {
         "vndb": {
           "score": 76,
-          "votes": 954,
+          "votes": 955,
           "href": "https://vndb.org/v96"
         },
         "bangumi": {
@@ -7424,11 +7425,11 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 78.43865108514191,
+      "overallScore": 78.45325767690254,
       "sources": {
         "vndb": {
-          "score": 80.7,
-          "votes": 414,
+          "score": 80.8,
+          "votes": 415,
           "href": "https://vndb.org/v33175"
         },
         "bangumi": {
@@ -7469,7 +7470,7 @@
         "ps3",
         "psv"
       ],
-      "overallScore": 78.38588467048712,
+      "overallScore": 78.3846723952739,
       "sources": {
         "vndb": {
           "score": 80.9,
@@ -7478,7 +7479,7 @@
         },
         "bangumi": {
           "score": 75,
-          "votes": 1520,
+          "votes": 1521,
           "href": "https://bgm.tv/subject/122158"
         },
         "egs": {
@@ -7559,16 +7560,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 78.28677298311445,
+      "overallScore": 78.28651685393258,
       "sources": {
         "vndb": {
           "score": 83.3,
-          "votes": 401,
+          "votes": 402,
           "href": "https://vndb.org/v38511"
         },
         "bangumi": {
           "score": 73,
-          "votes": 470,
+          "votes": 471,
           "href": "https://bgm.tv/subject/403275"
         },
         "egs": {
@@ -7607,11 +7608,11 @@
         "swi",
         "web"
       ],
-      "overallScore": 78.27568705321684,
+      "overallScore": 78.27609368797141,
       "sources": {
         "vndb": {
           "score": 79.3,
-          "votes": 1573,
+          "votes": 1574,
           "href": "https://vndb.org/v8508"
         },
         "bangumi": {
@@ -7695,11 +7696,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 78.22050957131303,
+      "overallScore": 78.22080334276858,
       "sources": {
         "vndb": {
           "score": 80.4,
-          "votes": 2782,
+          "votes": 2783,
           "href": "https://vndb.org/v27519"
         },
         "bangumi": {
@@ -7740,16 +7741,16 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 78.18044979635205,
+      "overallScore": 78.18056637168141,
       "sources": {
         "vndb": {
           "score": 80.6,
-          "votes": 1979,
+          "votes": 1981,
           "href": "https://vndb.org/v24717"
         },
         "bangumi": {
           "score": 74,
-          "votes": 2108,
+          "votes": 2109,
           "href": "https://bgm.tv/subject/267448"
         },
         "egs": {
@@ -7784,7 +7785,7 @@
         "win",
         "dvd"
       ],
-      "overallScore": 78.03275449101797,
+      "overallScore": 78.02628163828808,
       "sources": {
         "vndb": {
           "score": 84.2,
@@ -7793,7 +7794,7 @@
         },
         "bangumi": {
           "score": 71,
-          "votes": 413,
+          "votes": 414,
           "href": "https://bgm.tv/subject/310158"
         },
         "egs": {
@@ -7869,11 +7870,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 77.8833850931677,
+      "overallScore": 77.8846392552366,
       "sources": {
         "vndb": {
           "score": 79.5,
-          "votes": 420,
+          "votes": 421,
           "href": "https://vndb.org/v29057"
         },
         "bangumi": {
@@ -7903,7 +7904,7 @@
       "year": 2025,
       "released": "2025-11-11",
       "image": "https://t.vndb.org/cv/81/119181.jpg",
-      "lengthMinutes": 387,
+      "lengthMinutes": 386,
       "genres": [
         "电波",
         "苏联",
@@ -7914,19 +7915,21 @@
         "lin",
         "mac",
         "and",
+        "psp",
         "psv",
+        "swi",
         "web"
       ],
-      "overallScore": 77.84011659683001,
+      "overallScore": 77.84016020389586,
       "sources": {
         "vndb": {
           "score": 79.8,
-          "votes": 1329,
+          "votes": 1330,
           "href": "https://vndb.org/v58641"
         },
         "bangumi": {
           "score": 76,
-          "votes": 1378,
+          "votes": 1379,
           "href": "https://bgm.tv/subject/604105"
         },
         "egs": {
@@ -7964,16 +7967,16 @@
         "and",
         "swi"
       ],
-      "overallScore": 77.82106816336616,
+      "overallScore": 77.82067671029884,
       "sources": {
         "vndb": {
           "score": 79.3,
-          "votes": 8576,
+          "votes": 8580,
           "href": "https://vndb.org/v7738"
         },
         "bangumi": {
           "score": 74,
-          "votes": 3895,
+          "votes": 3898,
           "href": "https://bgm.tv/subject/59842"
         },
         "egs": {
@@ -8008,16 +8011,16 @@
         "win",
         "and"
       ],
-      "overallScore": 77.69075117370892,
+      "overallScore": 77.69179943767573,
       "sources": {
         "vndb": {
           "score": 81.5,
-          "votes": 412,
+          "votes": 413,
           "href": "https://vndb.org/v44101"
         },
         "bangumi": {
           "score": 75,
-          "votes": 608,
+          "votes": 609,
           "href": "https://bgm.tv/subject/427028"
         },
         "egs": {
@@ -8276,7 +8279,7 @@
         "psv",
         "swi"
       ],
-      "overallScore": 77.3471668232452,
+      "overallScore": 77.34626861666442,
       "sources": {
         "vndb": {
           "score": 79.2,
@@ -8285,7 +8288,7 @@
         },
         "bangumi": {
           "score": 74,
-          "votes": 2508,
+          "votes": 2510,
           "href": "https://bgm.tv/subject/24796"
         },
         "egs": {
@@ -8319,7 +8322,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 77.25055104203462,
+      "overallScore": 77.24896223085068,
       "sources": {
         "vndb": {
           "score": 79.3,
@@ -8328,7 +8331,7 @@
         },
         "bangumi": {
           "score": 75,
-          "votes": 1541,
+          "votes": 1543,
           "href": "https://bgm.tv/subject/566420"
         },
         "egs": {
@@ -8452,7 +8455,7 @@
         "dvd",
         "swi"
       ],
-      "overallScore": 76.71487793643482,
+      "overallScore": 76.71145881270134,
       "sources": {
         "vndb": {
           "score": 81.9,
@@ -8461,7 +8464,7 @@
         },
         "bangumi": {
           "score": 73,
-          "votes": 1890,
+          "votes": 1893,
           "href": "https://bgm.tv/subject/295350"
         },
         "egs": {
@@ -8542,16 +8545,16 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 76.46927238454289,
+      "overallScore": 76.47044795783927,
       "sources": {
         "vndb": {
           "score": 79,
-          "votes": 1526,
+          "votes": 1529,
           "href": "https://vndb.org/v13774"
         },
         "bangumi": {
           "score": 72,
-          "votes": 591,
+          "votes": 592,
           "href": "https://bgm.tv/subject/84520"
         },
         "egs": {
@@ -8587,7 +8590,7 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 76.46788965739101,
+      "overallScore": 76.46630284520174,
       "sources": {
         "vndb": {
           "score": 80.2,
@@ -8596,7 +8599,7 @@
         },
         "bangumi": {
           "score": 74,
-          "votes": 1592,
+          "votes": 1594,
           "href": "https://bgm.tv/subject/360498"
         },
         "egs": {
@@ -8631,7 +8634,7 @@
         "win",
         "web"
       ],
-      "overallScore": 76.36853471949784,
+      "overallScore": 76.36760588235295,
       "sources": {
         "vndb": {
           "score": 80,
@@ -8640,7 +8643,7 @@
         },
         "bangumi": {
           "score": 74,
-          "votes": 1766,
+          "votes": 1768,
           "href": "https://bgm.tv/subject/19750"
         },
         "egs": {
@@ -8719,7 +8722,7 @@
         "win",
         "swi"
       ],
-      "overallScore": 76.33036622145627,
+      "overallScore": 76.3300796898557,
       "sources": {
         "vndb": {
           "score": 80.3,
@@ -8728,7 +8731,7 @@
         },
         "bangumi": {
           "score": 75,
-          "votes": 3646,
+          "votes": 3647,
           "href": "https://bgm.tv/subject/304421"
         },
         "egs": {
@@ -8762,7 +8765,7 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 76.32725019364833,
+      "overallScore": 76.32312693498451,
       "sources": {
         "vndb": {
           "score": 81.1,
@@ -8771,7 +8774,7 @@
         },
         "bangumi": {
           "score": 71,
-          "votes": 542,
+          "votes": 543,
           "href": "https://bgm.tv/subject/322142"
         },
         "egs": {
@@ -8988,7 +8991,7 @@
         "psp",
         "ps3"
       ],
-      "overallScore": 75.91508375027192,
+      "overallScore": 75.91379730317529,
       "sources": {
         "vndb": {
           "score": 79.8,
@@ -8997,7 +9000,7 @@
         },
         "bangumi": {
           "score": 70,
-          "votes": 838,
+          "votes": 839,
           "href": "https://bgm.tv/subject/11116"
         },
         "egs": {
@@ -9032,11 +9035,11 @@
         "win",
         "dvd"
       ],
-      "overallScore": 75.86764941837144,
+      "overallScore": 75.87184368737475,
       "sources": {
         "vndb": {
           "score": 81.1,
-          "votes": 640,
+          "votes": 641,
           "href": "https://vndb.org/v26530"
         },
         "bangumi": {
@@ -9076,16 +9079,16 @@
         "win",
         "web"
       ],
-      "overallScore": 75.80125176169122,
+      "overallScore": 75.79909998719754,
       "sources": {
         "vndb": {
           "score": 81,
-          "votes": 747,
+          "votes": 748,
           "href": "https://vndb.org/v56650"
         },
         "bangumi": {
           "score": 69,
-          "votes": 1915,
+          "votes": 1917,
           "href": "https://bgm.tv/subject/561526"
         },
         "egs": {
@@ -9208,11 +9211,11 @@
         "ps4",
         "swi"
       ],
-      "overallScore": 75.41153358681875,
+      "overallScore": 75.41741608613046,
       "sources": {
         "vndb": {
           "score": 84.7,
-          "votes": 422,
+          "votes": 423,
           "href": "https://vndb.org/v25635"
         },
         "bangumi": {
@@ -9251,11 +9254,11 @@
       "platforms": [
         "win"
       ],
-      "overallScore": 75.15893477421844,
+      "overallScore": 75.16030092592592,
       "sources": {
         "vndb": {
           "score": 78.7,
-          "votes": 899,
+          "votes": 900,
           "href": "https://vndb.org/v8424"
         },
         "bangumi": {
@@ -9295,7 +9298,7 @@
         "win",
         "and"
       ],
-      "overallScore": 75.13827528559489,
+      "overallScore": 75.13255496799331,
       "sources": {
         "vndb": {
           "score": 82,
@@ -9304,7 +9307,7 @@
         },
         "bangumi": {
           "score": 70,
-          "votes": 1013,
+          "votes": 1015,
           "href": "https://bgm.tv/subject/518278"
         },
         "egs": {
@@ -9340,16 +9343,16 @@
         "mac",
         "swi"
       ],
-      "overallScore": 74.91759149604052,
+      "overallScore": 74.92001710985956,
       "sources": {
         "vndb": {
           "score": 79.9,
-          "votes": 1425,
+          "votes": 1429,
           "href": "https://vndb.org/v50283"
         },
         "bangumi": {
           "score": 72,
-          "votes": 4802,
+          "votes": 4803,
           "href": "https://bgm.tv/subject/488392"
         },
         "egs": {
@@ -9384,7 +9387,7 @@
         "win",
         "web"
       ],
-      "overallScore": 74.75432421140589,
+      "overallScore": 74.75275631655877,
       "sources": {
         "vndb": {
           "score": 80.3,
@@ -9393,7 +9396,7 @@
         },
         "bangumi": {
           "score": 71,
-          "votes": 1500,
+          "votes": 1501,
           "href": "https://bgm.tv/subject/331474"
         },
         "egs": {
@@ -9430,11 +9433,11 @@
         "psv",
         "swi"
       ],
-      "overallScore": 73.90920600187559,
+      "overallScore": 73.91301155888785,
       "sources": {
         "vndb": {
           "score": 80,
-          "votes": 678,
+          "votes": 679,
           "href": "https://vndb.org/v19545"
         },
         "bangumi": {
@@ -9537,7 +9540,7 @@
       }
     }
   ],
-  "updatedAt": "2026-11-24T19:29:53.876Z",
+  "updatedAt": "2026-11-25T18:38:55.673Z",
   "source": "github-actions-static",
   "catalogSize": 207,
   "calculation": {
